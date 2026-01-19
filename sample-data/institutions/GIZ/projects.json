@@ -1,0 +1,26 @@
+[
+  {
+    "projectId": "PROJ-GIZ-005",
+    "projectName": "Climate Smart Agriculture - Eastern Province",
+    "district": "Katete, Chipata, Lundazi",
+    "startDate": "2023-07-01T00:00:00Z",
+    "endDate": "2026-06-30T00:00:00Z",
+    "budget": 850000.00,
+    "currency": "EUR",
+    "beneficiaries": 3200,
+    "objectives": ["Promote CSA practices", "Increase resilience to climate change", "Improve food security"],
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-GIZ-008",
+    "projectName": "Women's Agro-enterprise Development",
+    "district": "Mkushi, Serenje",
+    "startDate": "2024-01-15T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "budget": 420000.00,
+    "currency": "EUR",
+    "beneficiaries": 1800,
+    "objectives": ["Empower women farmers", "Establish agribusinesses", "Improve market access"],
+    "status": "Active"
+  }
+]

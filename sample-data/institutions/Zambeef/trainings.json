@@ -1,0 +1,41 @@
+[
+  {
+    "trainingId": "TRN-ZB-001",
+    "trainingName": "Cattle Health and Disease Management",
+    "district": "Mkushi",
+    "venue": "Zambeef Training Center - Mkushi",
+    "trainingDate": "2025-02-05T09:00:00Z",
+    "duration": "2 days",
+    "trainer": "Dr. Moses Banda (Zambeef Chief Veterinarian)",
+    "expectedParticipants": 75,
+    "actualParticipants": null,
+    "topics": ["Disease prevention", "Vaccination protocols", "Parasite control"],
+    "status": "Scheduled"
+  },
+  {
+    "trainingId": "TRN-ZB-002",
+    "trainingName": "Feedlot Management Best Practices",
+    "district": "Chisamba",
+    "venue": "Chisamba Feedlot Facility",
+    "trainingDate": "2024-12-15T09:00:00Z",
+    "duration": "1 day",
+    "trainer": "George Mwansa (Feedlot Specialist)",
+    "expectedParticipants": 45,
+    "actualParticipants": 48,
+    "topics": ["Feed formulation", "Weight gain optimization", "Health monitoring"],
+    "status": "Completed"
+  },
+  {
+    "trainingId": "TRN-ZB-003",
+    "trainingName": "Meat Quality and Food Safety Standards",
+    "district": "Kabwe",
+    "venue": "Zambeef Processing Plant - Kabwe",
+    "trainingDate": "2025-01-28T09:00:00Z",
+    "duration": "1 day",
+    "trainer": "Quality Assurance Team",
+    "expectedParticipants": 30,
+    "actualParticipants": null,
+    "topics": ["Export quality standards", "HACCP", "Traceability"],
+    "status": "Scheduled"
+  }
+]

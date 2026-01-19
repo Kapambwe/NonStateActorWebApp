@@ -1,0 +1,15 @@
+[
+  {
+    "trackingId": "PT-CA-001",
+    "farmerId": "F-CA-001",
+    "farmerName": "Sample Farmer",
+    "produceType": "Mixed Crops",
+    "quantity": 5.0,
+    "unit": "tonnes",
+    "harvestDate": "2024-12-15T00:00:00Z",
+    "collectionPoint": "CP-CA-001",
+    "deliveryDate": "2024-12-20T00:00:00Z",
+    "buyer": "Camelicious",
+    "status": "Delivered"
+  }
+]

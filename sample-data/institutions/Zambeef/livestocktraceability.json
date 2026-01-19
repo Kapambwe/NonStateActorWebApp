@@ -1,0 +1,44 @@
+[
+  {
+    "animalId": "LS-ZB-001",
+    "farmerId": "F-ZB-045",
+    "farmerName": "Bwalya Mulenga",
+    "animalType": "Cattle",
+    "breed": "Brahman Cross",
+    "tagNumber": "CATTLE-ZB-2024-3456",
+    "birthDate": "2022-11-20T00:00:00Z",
+    "origin": "Mkushi Ranch",
+    "currentLocation": "Chisamba Feedlot",
+    "healthStatus": "Healthy",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-15T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ZB-002",
+    "farmerId": "F-ZB-078",
+    "farmerName": "Grace Tembo",
+    "animalType": "Cattle",
+    "breed": "Angus Cross",
+    "tagNumber": "CATTLE-ZB-2024-3789",
+    "birthDate": "2023-02-10T00:00:00Z",
+    "origin": "Chisamba Feedlot",
+    "currentLocation": "Chisamba Feedlot",
+    "healthStatus": "Healthy",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-12T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ZB-003",
+    "farmerId": "F-ZB-102",
+    "farmerName": "Kennedy Sikazwe",
+    "animalType": "Cattle",
+    "breed": "Tuli",
+    "tagNumber": "CATTLE-ZB-2023-2145",
+    "birthDate": "2021-09-15T00:00:00Z",
+    "origin": "Monze Ranch",
+    "currentLocation": "Awaiting Collection - Monze",
+    "healthStatus": "Healthy",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2024-12-20T00:00:00Z"
+  }
+]

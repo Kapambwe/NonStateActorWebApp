@@ -1,0 +1,23 @@
+[
+  {
+    "actionId": "QA-ZB-001",
+    "actionName": "Register Cattle Supplier",
+    "actionIcon": "PersonAdd",
+    "actionUrl": "/suppliers/register",
+    "isEnabled": true
+  },
+  {
+    "actionId": "QA-ZB-002",
+    "actionName": "Create Purchase Order",
+    "actionIcon": "ShoppingCart",
+    "actionUrl": "/procurement/create",
+    "isEnabled": true
+  },
+  {
+    "actionId": "QA-ZB-003",
+    "actionName": "Track Livestock Delivery",
+    "actionIcon": "LocalShipping",
+    "actionUrl": "/tracking/livestock",
+    "isEnabled": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "practiceId": "CSA-GIZ-001",
+    "practiceName": "Conservation Agriculture",
+    "farmerId": "F-GIZ-012",
+    "farmerName": "Mulenga Chanda",
+    "district": "Chongwe",
+    "cropType": "Maize",
+    "adoptionDate": "2023-11-15T00:00:00Z",
+    "yieldIncrease": 35.0,
+    "waterSavings": 40.0,
+    "carbonSequestration": 2.8
+  },
+  {
+    "practiceId": "CSA-GIZ-002",
+    "practiceName": "Agroforestry Systems",
+    "farmerId": "F-GIZ-028",
+    "farmerName": "Charity Banda",
+    "district": "Katete",
+    "cropType": "Mixed Crops",
+    "adoptionDate": "2024-03-20T00:00:00Z",
+    "yieldIncrease": 28.0,
+    "waterSavings": 25.0,
+    "carbonSequestration": 5.6
+  }
+]

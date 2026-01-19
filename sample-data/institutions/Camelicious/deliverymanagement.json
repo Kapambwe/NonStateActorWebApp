@@ -1,0 +1,13 @@
+[
+  {
+    "deliveryId": "DEL-CA-001",
+    "orderId": "ORD-CA-100",
+    "farmerGroup": "Supplier Group 1",
+    "deliveryType": "Produce Collection",
+    "items": "Mixed Products",
+    "quantity": "25 tonnes",
+    "destination": "Main Warehouse",
+    "scheduledDate": "2025-01-25T00:00:00Z",
+    "status": "Scheduled"
+  }
+]

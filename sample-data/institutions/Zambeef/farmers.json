@@ -1,0 +1,53 @@
+[
+  {
+    "farmerId": "F-ZB-045",
+    "name": "Bwalya Mulenga",
+    "age": 48,
+    "gender": "Male",
+    "contactNumber": "+260-977-112233",
+    "district": "Mkushi",
+    "chiefdom": "Muchinka",
+    "village": "Kashitu",
+    "farmSize": 450.0,
+    "primaryCrop": "Cattle Ranching",
+    "secondaryCrops": ["Maize", "Grass Pasture"],
+    "registrationDate": "2023-04-10T00:00:00Z",
+    "groupMembership": "FG-ZB-005",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZB-078",
+    "name": "Grace Tembo",
+    "age": 41,
+    "gender": "Female",
+    "contactNumber": "+260-966-334455",
+    "district": "Chisamba",
+    "chiefdom": "Chitanda",
+    "village": "Palabana",
+    "farmSize": 280.0,
+    "primaryCrop": "Cattle Feedlot",
+    "secondaryCrops": ["Silage Production"],
+    "registrationDate": "2023-08-15T00:00:00Z",
+    "groupMembership": "FG-ZB-012",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZB-102",
+    "name": "Kennedy Sikazwe",
+    "age": 52,
+    "gender": "Male",
+    "contactNumber": "+260-955-556677",
+    "district": "Monze",
+    "chiefdom": "Monze",
+    "village": "Mapanza",
+    "farmSize": 620.0,
+    "primaryCrop": "Beef Cattle",
+    "secondaryCrops": ["Pasture"],
+    "registrationDate": "2023-11-05T00:00:00Z",
+    "groupMembership": "FG-ZB-018",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

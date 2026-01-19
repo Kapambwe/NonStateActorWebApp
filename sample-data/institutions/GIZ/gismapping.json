@@ -1,0 +1,22 @@
+[
+  {
+    "mapId": "GIS-GIZ-001",
+    "mapName": "Chongwe District Farm Boundaries",
+    "district": "Chongwe",
+    "totalFarmsMapped": 420,
+    "totalAreaMapped": 3580.5,
+    "mappingDate": "2024-11-15T00:00:00Z",
+    "coordinates": "-15.3289, 28.6819",
+    "dataFormat": "GeoJSON"
+  },
+  {
+    "mapId": "GIS-GIZ-002",
+    "mapName": "Katete Agroforestry Sites",
+    "district": "Katete",
+    "totalFarmsMapped": 215,
+    "totalAreaMapped": 1850.0,
+    "mappingDate": "2024-12-10T00:00:00Z",
+    "coordinates": "-14.0667, 32.0333",
+    "dataFormat": "GeoJSON"
+  }
+]

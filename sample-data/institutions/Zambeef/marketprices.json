@@ -1,0 +1,32 @@
+[
+  {
+    "priceId": "MP-ZB-001",
+    "commodity": "Live Cattle (Feedlot Ready)",
+    "market": "Zambeef Procurement - Chisamba",
+    "pricePerUnit": 38.00,
+    "unit": "per kg live weight",
+    "currency": "ZMW",
+    "priceDate": "2025-01-18T00:00:00Z",
+    "trend": "Stable"
+  },
+  {
+    "priceId": "MP-ZB-002",
+    "commodity": "Live Cattle (Grass Fed)",
+    "market": "Zambeef Procurement - Mkushi",
+    "pricePerUnit": 35.00,
+    "unit": "per kg live weight",
+    "currency": "ZMW",
+    "priceDate": "2025-01-18T00:00:00Z",
+    "trend": "Increasing"
+  },
+  {
+    "priceId": "MP-ZB-003",
+    "commodity": "Beef - Retail",
+    "market": "Zambeef Butcheries - Lusaka",
+    "pricePerUnit": 95.00,
+    "unit": "per kg",
+    "currency": "ZMW",
+    "priceDate": "2025-01-19T00:00:00Z",
+    "trend": "Stable"
+  }
+]

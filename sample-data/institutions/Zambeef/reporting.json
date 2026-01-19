@@ -1,0 +1,22 @@
+[
+  {
+    "reportId": "REP-ZB-001",
+    "reportName": "January 2025 Procurement Report",
+    "reportType": "Monthly",
+    "projectId": "PROC-ZB-2025",
+    "generatedDate": "2025-01-19T00:00:00Z",
+    "generatedBy": "Procurement Manager",
+    "format": "PDF",
+    "status": "Published"
+  },
+  {
+    "reportId": "REP-ZB-002",
+    "reportName": "Q4 2024 Export Performance",
+    "reportType": "Quarterly",
+    "projectId": "PROJ-ZB-002",
+    "generatedDate": "2025-01-10T00:00:00Z",
+    "generatedBy": "Export Manager",
+    "format": "Excel",
+    "status": "Published"
+  }
+]

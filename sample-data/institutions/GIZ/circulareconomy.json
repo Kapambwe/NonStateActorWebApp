@@ -1,0 +1,24 @@
+[
+  {
+    "activityId": "CE-GIZ-001",
+    "activityName": "Biogas Production from Livestock Waste",
+    "location": "Chisamba District",
+    "farmerGroup": "FG-GIZ-003",
+    "wasteType": "Cattle Manure",
+    "annualWasteVolume": 240.0,
+    "energyProduced": "18500 kWh",
+    "carbonOffset": 12.5,
+    "economicBenefit": "ZMW 45,000"
+  },
+  {
+    "activityId": "CE-GIZ-002",
+    "activityName": "Composting and Organic Fertilizer",
+    "location": "Mkushi District",
+    "farmerGroup": "FG-GIZ-007",
+    "wasteType": "Crop Residue",
+    "annualWasteVolume": 180.0,
+    "energyProduced": "N/A",
+    "carbonOffset": 8.2,
+    "economicBenefit": "ZMW 28,000"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "USER-ZB-001",
+    "username": "procurement@zambeef.co.zm",
+    "role": "Livestock Procurement Manager",
+    "isAuthenticated": true,
+    "lastLogin": "2025-01-19T08:00:00Z",
+    "permissions": ["ViewSuppliers", "CreatePurchaseOrders", "ApprovePurchases", "ViewReports"]
+  }
+]

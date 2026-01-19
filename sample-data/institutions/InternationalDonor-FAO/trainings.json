@@ -1,0 +1,19 @@
+[
+  {
+    "trainingId": "TRN-FAO-001",
+    "trainingName": "Climate-Smart Agriculture and NERICA Cultivation",
+    "description": "Comprehensive training on climate adaptation strategies and improved rice varieties",
+    "trainer": "Dr. Alice Bangura",
+    "location": "Tonkolili FAO Training Center",
+    "startDate": "2024-01-20T00:00:00Z",
+    "endDate": "2024-01-25T00:00:00Z",
+    "totalParticipants": 120,
+    "femaleParticipants": 58,
+    "topicsCovered": [
+      "Climate information services",
+      "NERICA cultivation",
+      "Integrated pest management"
+    ],
+    "status": "Scheduled"
+  }
+]

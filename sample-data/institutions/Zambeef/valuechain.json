@@ -1,0 +1,29 @@
+[
+  {
+    "valuechainId": "VC-ZB-001",
+    "commodity": "Beef Cattle",
+    "stage": "Production & Breeding",
+    "actors": ["Smallholder ranchers", "Commercial ranches", "Breeding stock suppliers"],
+    "activities": ["Breeding", "Rearing", "Pasture management"],
+    "challenges": ["Disease outbreaks", "Feed costs", "Climate variability"],
+    "gizSupport": ["Veterinary services", "Quality breeding stock", "Training programs"]
+  },
+  {
+    "valuechainId": "VC-ZB-002",
+    "commodity": "Beef Cattle",
+    "stage": "Procurement & Processing",
+    "actors": ["Zambeef procurement team", "Abattoirs", "Quality control"],
+    "activities": ["Livestock collection", "Slaughter", "Processing", "Quality grading"],
+    "challenges": ["Transportation logistics", "Quality consistency"],
+    "gizSupport": ["Collection centers", "Modern abattoirs", "Cold chain facilities"]
+  },
+  {
+    "valuechainId": "VC-ZB-003",
+    "commodity": "Beef Products",
+    "stage": "Distribution & Retail",
+    "actors": ["Zambeef retail outlets", "Wholesalers", "Export buyers"],
+    "activities": ["Packaging", "Distribution", "Retail sales", "Export"],
+    "challenges": ["Cold chain maintenance", "Export compliance"],
+    "gizSupport": ["Retail network", "Export certifications", "Quality assurance"]
+  }
+]

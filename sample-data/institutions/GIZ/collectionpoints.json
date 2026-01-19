@@ -1,0 +1,24 @@
+[
+  {
+    "pointId": "CP-GIZ-001",
+    "pointName": "Chongwe Agro Collection Center",
+    "district": "Chongwe",
+    "ward": "Chongwe Central",
+    "gpsCoordinates": "-15.3289, 28.6819",
+    "capacity": "50 tonnes",
+    "contactPerson": "Joseph Tembo",
+    "contactNumber": "+260-977-123456",
+    "operatingHours": "Mon-Sat 06:00-18:00"
+  },
+  {
+    "pointId": "CP-GIZ-002",
+    "pointName": "Katete Rural Hub",
+    "district": "Katete",
+    "ward": "Katete East",
+    "gpsCoordinates": "-14.0667, 32.0333",
+    "capacity": "35 tonnes",
+    "contactPerson": "Mercy Phiri",
+    "contactNumber": "+260-966-234567",
+    "operatingHours": "Mon-Sat 07:00-17:00"
+  }
+]

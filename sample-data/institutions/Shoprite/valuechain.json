@@ -1,0 +1,23 @@
+[
+  {
+    "valuechainId": "VC-SH-001",
+    "commodity": "Agricultural Products",
+    "stage": "Production",
+    "actors": [
+      "Farmers",
+      "Suppliers"
+    ],
+    "activities": [
+      "Growing",
+      "Harvesting"
+    ],
+    "challenges": [
+      "Weather",
+      "Market access"
+    ],
+    "gizSupport": [
+      "Training",
+      "Market linkages"
+    ]
+  }
+]

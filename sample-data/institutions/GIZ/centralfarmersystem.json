@@ -1,0 +1,11 @@
+[
+  {
+    "systemId": "CFS-GIZ-001",
+    "systemName": "GIZ Zambia Farmer Database",
+    "totalFarmers": 8450,
+    "activeFarmers": 7820,
+    "totalDistricts": 15,
+    "lastSyncDate": "2025-01-19T06:00:00Z",
+    "dataIntegrity": "Good"
+  }
+]

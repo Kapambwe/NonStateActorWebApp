@@ -1,0 +1,15 @@
+[
+  {
+    "valueChainId": "VC-FAO-001",
+    "crop": "Certified Rice Seeds",
+    "chainStage": "Production",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "activityDescription": "Certified seed multiplication for FAO program",
+    "costIncurred": 750000,
+    "valueAdded": 0,
+    "outputQuantity": 250,
+    "unit": "kg",
+    "date": "2024-01-10T00:00:00Z"
+  }
+]

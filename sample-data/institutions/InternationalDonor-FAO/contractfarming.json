@@ -1,0 +1,17 @@
+[
+  {
+    "contractId": "CF-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "buyerName": "FAO Seed Multiplication Program",
+    "crop": "Certified Rice Seeds",
+    "contractedQuantity": 1500,
+    "unit": "kg",
+    "pricePerUnit": 5000,
+    "totalContractValue": 7500000,
+    "startDate": "2023-11-01T00:00:00Z",
+    "deliveryDate": "2024-04-30T00:00:00Z",
+    "paymentTerms": "100% on delivery after quality certification",
+    "status": "Active"
+  }
+]

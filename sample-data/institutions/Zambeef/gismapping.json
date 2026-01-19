@@ -1,0 +1,22 @@
+[
+  {
+    "mapId": "GIS-ZB-001",
+    "mapName": "Mkushi Grazing Lands",
+    "district": "Mkushi",
+    "totalFarmsMapped": 185,
+    "totalAreaMapped": 42500.0,
+    "mappingDate": "2024-09-20T00:00:00Z",
+    "coordinates": "-13.6167, 29.3833",
+    "dataFormat": "GeoJSON"
+  },
+  {
+    "mapId": "GIS-ZB-002",
+    "mapName": "Southern Province Cattle Ranches",
+    "district": "Monze, Choma",
+    "totalFarmsMapped": 245,
+    "totalAreaMapped": 68200.0,
+    "mappingDate": "2024-10-15T00:00:00Z",
+    "coordinates": "-16.2833, 27.4833",
+    "dataFormat": "GeoJSON"
+  }
+]

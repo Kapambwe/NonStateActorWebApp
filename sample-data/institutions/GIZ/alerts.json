@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-GIZ-001",
+    "title": "Training Session Reminder",
+    "message": "Climate-Smart Agriculture training scheduled for Chongwe District on Jan 25, 2025",
+    "severity": "Info",
+    "category": "Training",
+    "dateCreated": "2025-01-15T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-GIZ-002",
+    "title": "Input Distribution Delayed",
+    "message": "Drought-resistant seed distribution in Katete postponed to Feb 1 due to logistics",
+    "severity": "Warning",
+    "category": "Logistics",
+    "dateCreated": "2025-01-18T14:30:00Z",
+    "isRead": false
+  }
+]

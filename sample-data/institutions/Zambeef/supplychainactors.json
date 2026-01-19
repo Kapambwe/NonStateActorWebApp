@@ -1,0 +1,35 @@
+[
+  {
+    "actorId": "SCA-ZB-001",
+    "actorName": "Mkushi Cattle Ranchers Association",
+    "actorType": "Supplier/Producer",
+    "contactPerson": "Bwalya Mulenga",
+    "contactNumber": "+260-977-112233",
+    "district": "Mkushi",
+    "commodities": ["Beef Cattle", "Breeding Stock"],
+    "partnershipDate": "2023-04-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "actorId": "SCA-ZB-002",
+    "actorName": "Zambeef Chisamba Abattoir",
+    "actorType": "Processing Facility",
+    "contactPerson": "Operations Manager",
+    "contactNumber": "+260-211-367000",
+    "district": "Chisamba",
+    "commodities": ["Beef Processing", "By-products"],
+    "partnershipDate": "2015-01-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "actorId": "SCA-ZB-003",
+    "actorName": "Zambeef Retail Outlets",
+    "actorType": "Retail/Distribution",
+    "contactPerson": "Retail Manager",
+    "contactNumber": "+260-211-367000",
+    "district": "Nationwide",
+    "commodities": ["Beef Products", "Processed Meats"],
+    "partnershipDate": "2010-01-01T00:00:00Z",
+    "isActive": true
+  }
+]

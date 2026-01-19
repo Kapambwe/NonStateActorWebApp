@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-ABM-001",
+    "tradeType": "Export",
+    "farmerGroup": "AlBashayer Zambia Network",
+    "product": "Live Cattle",
+    "quantity": 380.0,
+    "unit": "head",
+    "destination": "Oman (Port of Muscat)",
+    "estimatedValue": 520000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-30T00:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "tradeId": "TRADE-ABM-002",
+    "tradeType": "Export",
+    "farmerGroup": "AlBashayer Zambia Network",
+    "product": "Chilled Beef",
+    "quantity": 25.0,
+    "unit": "tonnes",
+    "destination": "Oman (Muscat)",
+    "estimatedValue": 95000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-12T00:00:00Z",
+    "status": "Completed"
+  }
+]

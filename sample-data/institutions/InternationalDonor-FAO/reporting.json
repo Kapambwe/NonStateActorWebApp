@@ -1,0 +1,15 @@
+[
+  {
+    "reportId": "REP-FAO-001",
+    "reportName": "Climate Adaptation Impact Report - Q4 2023",
+    "reportType": "ImpactAssessment",
+    "generatedBy": "Dr. Alice Bangura",
+    "generatedDate": "2024-01-10T00:00:00Z",
+    "period": "Q4 2023",
+    "totalFarmers": 1250,
+    "totalProductionKg": 980000,
+    "totalRevenueGenerated": 3920000000,
+    "trainingsCompleted": 32,
+    "fileUrl": "/reports/FAO-impact-q4-2023.pdf"
+  }
+]

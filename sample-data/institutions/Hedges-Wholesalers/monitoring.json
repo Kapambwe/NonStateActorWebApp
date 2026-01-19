@@ -1,0 +1,13 @@
+[
+  {
+    "monitoringId": "MON-HE-001",
+    "projectId": "PROJ-HE-001",
+    "projectName": "Supply Chain Operations",
+    "indicator": "Supplier satisfaction",
+    "target": 90,
+    "achieved": 85,
+    "percentageAchieved": 94.4,
+    "reportingPeriod": "Q1 2025",
+    "status": "On Track"
+  }
+]

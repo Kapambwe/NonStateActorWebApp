@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-OL-001",
+    "title": "Cattle Export Clearance",
+    "message": "500 head of cattle cleared by UAE authorities for import - Departure confirmed",
+    "severity": "Info",
+    "category": "Export",
+    "dateCreated": "2025-01-18T12:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-OL-002",
+    "title": "Feedlot Capacity Alert",
+    "message": "Lusaka feedlot at 85% capacity - Schedule next batch for export preparation",
+    "severity": "Warning",
+    "category": "Operations",
+    "dateCreated": "2025-01-19T07:00:00Z",
+    "isRead": false
+  }
+]

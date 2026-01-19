@@ -1,0 +1,16 @@
+[
+  {
+    "animalId": "LS-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "animalType": "Goat",
+    "breed": "Improved West African Dwarf",
+    "tagNumber": "GOAT-FAO-2023-028",
+    "birthDate": "2023-04-10T00:00:00Z",
+    "origin": "FAO Integrated Farming Program",
+    "currentLocation": "Matotoka, Tonkolili District",
+    "healthStatus": "Healthy",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2024-01-10T00:00:00Z"
+  }
+]

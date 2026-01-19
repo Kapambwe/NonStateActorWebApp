@@ -1,0 +1,18 @@
+[
+  {
+    "orderId": "ORD-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "orderType": "InputOrder",
+    "itemOrdered": "NERICA rice seeds",
+    "quantity": 50,
+    "unit": "kg",
+    "unitPrice": 5000,
+    "totalAmount": 250000,
+    "orderDate": "2023-05-01T00:00:00Z",
+    "expectedDeliveryDate": "2023-05-15T00:00:00Z",
+    "actualDeliveryDate": "2023-05-15T00:00:00Z",
+    "paymentStatus": "Subsidized",
+    "orderStatus": "Delivered"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "monitoringId": "MON-ZB-001",
+    "projectId": "PROC-ZB-2025",
+    "projectName": "2025 Cattle Procurement Program",
+    "indicator": "Monthly procurement target (head of cattle)",
+    "target": 2500,
+    "achieved": 2285,
+    "percentageAchieved": 91.4,
+    "reportingPeriod": "January 2025",
+    "status": "On Track"
+  },
+  {
+    "monitoringId": "MON-ZB-002",
+    "projectId": "QUALITY-ZB-2025",
+    "projectName": "Meat Quality Standards Compliance",
+    "indicator": "Percentage of products meeting export quality",
+    "target": 95,
+    "achieved": 97,
+    "percentageAchieved": 102.1,
+    "reportingPeriod": "January 2025",
+    "status": "Exceeding Target"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "deliveryId": "DEL-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "collectionPointId": "CP-FAO-001",
+    "collectionPointName": "Tonkolili FAO Demonstration Hub",
+    "crop": "Certified Rice Seeds",
+    "quantity": 250,
+    "unit": "kg",
+    "qualityGrade": "Certified Seeds",
+    "deliveryDate": "2024-01-12T00:00:00Z",
+    "receivedBy": "Dr. Alice Bangura",
+    "paymentStatus": "Paid",
+    "paymentAmount": 1250000,
+    "status": "Completed"
+  }
+]

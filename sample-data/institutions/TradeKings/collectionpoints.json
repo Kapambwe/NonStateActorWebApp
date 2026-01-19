@@ -1,0 +1,13 @@
+[
+  {
+    "pointId": "CP-TR-001",
+    "pointName": "Main Collection Center",
+    "district": "Lusaka",
+    "ward": "Central",
+    "gpsCoordinates": "-15.4167, 28.2833",
+    "capacity": "100 tonnes",
+    "contactPerson": "Manager",
+    "contactNumber": "+260-211-000000",
+    "operatingHours": "Mon-Sat 06:00-18:00"
+  }
+]

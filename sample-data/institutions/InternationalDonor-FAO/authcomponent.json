@@ -1,0 +1,16 @@
+[
+  {
+    "componentId": "FAO-AUTH-001",
+    "institutionId": "InternationalDonor-FAO",
+    "componentName": "FAO Beneficiary Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "ViewData",
+      "SubmitData",
+      "AccessResearch",
+      "ViewTechnicalGuidance"
+    ],
+    "description": "Portal for FAO program beneficiaries"
+  }
+]

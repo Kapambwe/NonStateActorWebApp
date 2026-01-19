@@ -1,0 +1,24 @@
+[
+  {
+    "orderId": "ORD-GIZ-045",
+    "orderType": "Input Distribution",
+    "requestedBy": "FG-GIZ-003",
+    "items": ["Drought-resistant maize seeds", "Compound D fertilizer"],
+    "quantity": "500 kg seeds, 1000 kg fertilizer",
+    "requestDate": "2025-01-10T00:00:00Z",
+    "approvalDate": "2025-01-12T00:00:00Z",
+    "deliveryDate": "2025-01-25T00:00:00Z",
+    "status": "Approved"
+  },
+  {
+    "orderId": "ORD-GIZ-052",
+    "orderType": "Equipment Request",
+    "requestedBy": "FG-GIZ-007",
+    "items": ["Drip irrigation kits"],
+    "quantity": "25 kits",
+    "requestDate": "2025-01-15T00:00:00Z",
+    "approvalDate": null,
+    "deliveryDate": null,
+    "status": "Pending Approval"
+  }
+]

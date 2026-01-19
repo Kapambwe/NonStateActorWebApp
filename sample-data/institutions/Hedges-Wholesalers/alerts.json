@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-HW-001",
+    "title": "Dubai Shipment Confirmed",
+    "message": "Container of halal goat meat confirmed for delivery to Dubai on Feb 2, 2025",
+    "severity": "Info",
+    "category": "Export",
+    "dateCreated": "2025-01-18T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-HW-002",
+    "title": "Quality Audit Passed",
+    "message": "UAE food safety audit completed - All standards met for halal export",
+    "severity": "Info",
+    "category": "Quality Control",
+    "dateCreated": "2025-01-19T10:30:00Z",
+    "isRead": false
+  }
+]

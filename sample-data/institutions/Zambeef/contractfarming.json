@@ -1,0 +1,28 @@
+[
+  {
+    "contractId": "CF-ZB-001",
+    "farmerId": "F-ZB-045",
+    "farmerName": "Bwalya Mulenga",
+    "buyerName": "Zambeef Products PLC",
+    "cropType": "Cattle (Beef)",
+    "contractedQuantity": 80.0,
+    "pricePerUnit": 35.00,
+    "currency": "ZMW",
+    "contractDate": "2024-09-01T00:00:00Z",
+    "deliveryDate": "2025-03-31T00:00:00Z",
+    "status": "Active"
+  },
+  {
+    "contractId": "CF-ZB-002",
+    "farmerId": "F-ZB-078",
+    "farmerName": "Grace Tembo",
+    "buyerName": "Zambeef Products PLC",
+    "cropType": "Cattle (Feedlot)",
+    "contractedQuantity": 120.0,
+    "pricePerUnit": 38.00,
+    "currency": "ZMW",
+    "contractDate": "2024-10-01T00:00:00Z",
+    "deliveryDate": "2025-06-30T00:00:00Z",
+    "status": "Active"
+  }
+]

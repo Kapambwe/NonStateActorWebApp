@@ -1,0 +1,41 @@
+[
+  {
+    "farmerId": "F-COFCO-021",
+    "name": "David Mutale",
+    "age": 48,
+    "gender": "Male",
+    "contactNumber": "+260-977-889900",
+    "district": "Mkushi",
+    "chiefdom": "Muchinka",
+    "village": "Soya Valley",
+    "farmSize": 120.0,
+    "primaryCrop": "Soybeans",
+    "secondaryCrops": [
+      "Sunflower",
+      "Maize"
+    ],
+    "registrationDate": "2024-02-10T00:00:00Z",
+    "groupMembership": "FG-COFCO-003",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-COFCO-038",
+    "name": "Janet Sakala",
+    "age": 41,
+    "gender": "Female",
+    "contactNumber": "+260-966-990011",
+    "district": "Chisamba",
+    "chiefdom": "Chitanda",
+    "village": "Export Crops Hub",
+    "farmSize": 95.0,
+    "primaryCrop": "Soybeans",
+    "secondaryCrops": [
+      "Wheat"
+    ],
+    "registrationDate": "2024-04-15T00:00:00Z",
+    "groupMembership": "FG-COFCO-005",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

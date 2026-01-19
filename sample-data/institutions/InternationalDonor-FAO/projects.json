@@ -1,0 +1,15 @@
+[
+  {
+    "projectId": "PROJ-FAO-001",
+    "projectName": "Climate-Resilient Agriculture and Food Systems",
+    "description": "FAO program to build resilience of smallholder farmers to climate change",
+    "startDate": "2022-01-01T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "budget": 15000000000,
+    "spentToDate": 7500000000,
+    "district": "Tonkolili, Bombali, Koinadugu",
+    "totalBeneficiaries": 1250,
+    "projectManager": "Dr. Alice Bangura",
+    "status": "Active"
+  }
+]

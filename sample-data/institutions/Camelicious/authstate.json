@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "USER-CA-001",
+    "username": "manager@camelicious.com",
+    "role": "Operations Manager",
+    "isAuthenticated": true,
+    "lastLogin": "2025-01-19T08:00:00Z",
+    "permissions": [
+      "ViewData",
+      "EditData",
+      "GenerateReports"
+    ]
+  }
+]

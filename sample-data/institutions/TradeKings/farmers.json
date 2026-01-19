@@ -1,0 +1,40 @@
+[
+  {
+    "farmerId": "F-TK-042",
+    "name": "Musonda Kafue",
+    "age": 45,
+    "gender": "Male",
+    "contactNumber": "+260-955-667788",
+    "district": "Kabwe",
+    "chiefdom": "Chibombo",
+    "village": "Mkushi Farms",
+    "farmSize": 35.0,
+    "primaryCrop": "Wheat",
+    "secondaryCrops": [
+      "Maize"
+    ],
+    "registrationDate": "2023-07-15T00:00:00Z",
+    "groupMembership": "FG-TK-004",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-TK-065",
+    "name": "Ruth Mbewe",
+    "age": 38,
+    "gender": "Female",
+    "contactNumber": "+260-966-778899",
+    "district": "Chipata",
+    "chiefdom": "Lundazi",
+    "village": "Golden Grain",
+    "farmSize": 28.0,
+    "primaryCrop": "Maize",
+    "secondaryCrops": [
+      "Soybeans"
+    ],
+    "registrationDate": "2023-10-20T00:00:00Z",
+    "groupMembership": "FG-TK-008",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

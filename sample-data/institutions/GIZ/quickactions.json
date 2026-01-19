@@ -1,0 +1,23 @@
+[
+  {
+    "actionId": "QA-GIZ-001",
+    "actionName": "Register New Farmer",
+    "actionIcon": "PersonAdd",
+    "actionUrl": "/farmers/register",
+    "isEnabled": true
+  },
+  {
+    "actionId": "QA-GIZ-002",
+    "actionName": "Schedule Training",
+    "actionIcon": "Calendar",
+    "actionUrl": "/trainings/schedule",
+    "isEnabled": true
+  },
+  {
+    "actionId": "QA-GIZ-003",
+    "actionName": "Generate Report",
+    "actionIcon": "Report",
+    "actionUrl": "/reports/generate",
+    "isEnabled": true
+  }
+]

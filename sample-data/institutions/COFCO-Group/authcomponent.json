@@ -1,0 +1,14 @@
+[
+  {
+    "componentId": "COMP-CO-001",
+    "componentName": "Procurement Management",
+    "accessLevel": "Full",
+    "isEnabled": true
+  },
+  {
+    "componentId": "COMP-CO-002",
+    "componentName": "Supplier Portal",
+    "accessLevel": "Read-Write",
+    "isEnabled": true
+  }
+]

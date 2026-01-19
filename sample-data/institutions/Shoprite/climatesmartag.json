@@ -1,0 +1,14 @@
+[
+  {
+    "practiceId": "CSA-SH-001",
+    "practiceName": "Sustainable Practices",
+    "farmerId": "F-SH-001",
+    "farmerName": "Sample Farmer",
+    "district": "Lusaka",
+    "cropType": "Mixed",
+    "adoptionDate": "2024-06-01T00:00:00Z",
+    "yieldIncrease": 15.0,
+    "waterSavings": 20.0,
+    "carbonSequestration": 3.5
+  }
+]

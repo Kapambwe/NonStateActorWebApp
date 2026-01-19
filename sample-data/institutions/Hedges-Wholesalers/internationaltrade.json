@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-HW-001",
+    "tradeType": "Export",
+    "farmerGroup": "Halal Goat Producers Network",
+    "product": "Frozen Halal Goat Meat",
+    "quantity": 18.0,
+    "unit": "tonnes",
+    "destination": "UAE (Dubai)",
+    "estimatedValue": 95000.00,
+    "currency": "USD",
+    "tradeDate": "2025-02-02T00:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "tradeId": "TRADE-HW-002",
+    "tradeType": "Export",
+    "farmerGroup": "Halal Goat Producers Network",
+    "product": "Chilled Halal Goat Cuts",
+    "quantity": 12.0,
+    "unit": "tonnes",
+    "destination": "UAE (Abu Dhabi)",
+    "estimatedValue": 68000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-10T00:00:00Z",
+    "status": "Completed"
+  }
+]

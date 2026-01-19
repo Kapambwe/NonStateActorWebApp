@@ -1,0 +1,16 @@
+[
+  {
+    "distributionId": "DIST-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "inputType": "Seeds",
+    "inputName": "Climate-resilient rice variety (NERICA)",
+    "quantity": 50,
+    "unit": "kg",
+    "distributionDate": "2023-05-15T00:00:00Z",
+    "distributedBy": "Dr. Alice Bangura",
+    "subsidyAmount": 250000,
+    "farmerContribution": 0,
+    "totalCost": 250000
+  }
+]

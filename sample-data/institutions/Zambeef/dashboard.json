@@ -1,0 +1,26 @@
+[
+  {
+    "widgetId": "DASH-ZB-001",
+    "widgetName": "Cattle Procured This Month",
+    "widgetType": "Metric",
+    "value": "2,285",
+    "changePercentage": 8.5,
+    "lastUpdated": "2025-01-19T05:00:00Z"
+  },
+  {
+    "widgetId": "DASH-ZB-002",
+    "widgetName": "Active Suppliers",
+    "widgetType": "Metric",
+    "value": "11,450",
+    "changePercentage": 3.2,
+    "lastUpdated": "2025-01-19T05:00:00Z"
+  },
+  {
+    "widgetId": "DASH-ZB-003",
+    "widgetName": "Total Meat Production (tonnes)",
+    "widgetType": "Metric",
+    "value": "485",
+    "changePercentage": 12.0,
+    "lastUpdated": "2025-01-19T05:00:00Z"
+  }
+]

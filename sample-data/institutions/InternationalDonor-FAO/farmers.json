@@ -1,0 +1,22 @@
+[
+  {
+    "farmerId": "F-FAO-001",
+    "name": "Foday Mansaray",
+    "age": 42,
+    "gender": "Male",
+    "contactNumber": "+232-76-888111",
+    "district": "Tonkolili",
+    "chiefdom": "Kholifa Rowalla",
+    "village": "Matotoka",
+    "farmSize": 6.0,
+    "primaryCrop": "Rice",
+    "secondaryCrops": [
+      "Vegetables",
+      "Groundnuts"
+    ],
+    "registrationDate": "2022-09-10T00:00:00Z",
+    "groupMembership": "FG-FAO-001",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

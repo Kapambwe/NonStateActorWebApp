@@ -1,0 +1,14 @@
+[
+  {
+    "alertId": "ALERT-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "alertType": "Training",
+    "title": "Climate Adaptation Workshop Next Week",
+    "message": "FAO organizing climate-smart agriculture workshop. Register by January 18.",
+    "priority": "High",
+    "dateCreated": "2024-01-13T00:00:00Z",
+    "isRead": false,
+    "actionRequired": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-OL-001",
+    "farmerId": "F-OL-012",
+    "farmerName": "Joseph Mwale",
+    "animalType": "Cattle",
+    "breed": "Brahman",
+    "tagNumber": "CATTLE-OL-2023-2456",
+    "birthDate": "2023-04-15T00:00:00Z",
+    "origin": "Oasis Zambia Breeding Program",
+    "currentLocation": "Lusaka Export Feedlot",
+    "healthStatus": "Healthy - Export Ready",
+    "vaccinationStatus": "UAE export compliant",
+    "lastVetVisit": "2025-01-16T00:00:00Z"
+  },
+  {
+    "animalId": "LS-OL-002",
+    "farmerId": "F-OL-025",
+    "farmerName": "Mary Chilufya",
+    "animalType": "Cattle",
+    "breed": "Boran Cross",
+    "tagNumber": "CATTLE-OL-2023-2789",
+    "birthDate": "2023-06-20T00:00:00Z",
+    "origin": "Southern Province Ranches",
+    "currentLocation": "Lusaka Export Feedlot",
+    "healthStatus": "Healthy - Export Ready",
+    "vaccinationStatus": "UAE export compliant",
+    "lastVetVisit": "2025-01-16T00:00:00Z"
+  }
+]

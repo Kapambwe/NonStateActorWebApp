@@ -1,0 +1,38 @@
+[
+  {
+    "distributionId": "DIST-GIZ-001",
+    "inputType": "Improved Seeds",
+    "inputName": "Drought-tolerant Maize (SC627)",
+    "quantity": 2500.0,
+    "unit": "kg",
+    "district": "Chongwe",
+    "beneficiaries": 185,
+    "distributionDate": "2024-11-20T00:00:00Z",
+    "collectionPoint": "CP-GIZ-001",
+    "status": "Completed"
+  },
+  {
+    "distributionId": "DIST-GIZ-002",
+    "inputType": "Fertilizer",
+    "inputName": "Compound D NPK",
+    "quantity": 5000.0,
+    "unit": "kg",
+    "district": "Katete",
+    "beneficiaries": 245,
+    "distributionDate": "2024-12-05T00:00:00Z",
+    "collectionPoint": "CP-GIZ-002",
+    "status": "Completed"
+  },
+  {
+    "distributionId": "DIST-GIZ-003",
+    "inputType": "Veterinary Supplies",
+    "inputName": "Goat Vaccines and Dewormers",
+    "quantity": 500.0,
+    "unit": "doses",
+    "district": "Mkushi",
+    "beneficiaries": 95,
+    "distributionDate": "2025-01-12T00:00:00Z",
+    "collectionPoint": "CP-GIZ-003",
+    "status": "Completed"
+  }
+]

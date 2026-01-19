@@ -1,0 +1,24 @@
+[
+  {
+    "initiativeId": "GI-ZB-001",
+    "initiativeName": "Women Cattle Farmers Program",
+    "district": "Chisamba",
+    "targetGroup": "Women Livestock Farmers",
+    "totalParticipants": 85,
+    "femaleParticipants": 85,
+    "activities": ["Access to breeding stock", "Training on cattle management", "Market linkages"],
+    "startDate": "2024-03-01T00:00:00Z",
+    "status": "Active"
+  },
+  {
+    "initiativeId": "GI-ZB-002",
+    "initiativeName": "Youth in Livestock Business",
+    "district": "Mkushi",
+    "targetGroup": "Young Livestock Farmers",
+    "totalParticipants": 65,
+    "femaleParticipants": 28,
+    "activities": ["Feedlot training", "Business management", "Financing options"],
+    "startDate": "2024-07-01T00:00:00Z",
+    "status": "Active"
+  }
+]

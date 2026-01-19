@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-CAM-001",
+    "title": "Camel Milk Collection",
+    "message": "Daily camel milk collection exceeding target by 15% - Excellent performance",
+    "severity": "Info",
+    "category": "Production",
+    "dateCreated": "2025-01-18T06:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-CAM-002",
+    "title": "Vet Visit Scheduled",
+    "message": "Quarterly health check for camel herd scheduled for Jan 27 at Kafue facility",
+    "severity": "Info",
+    "category": "Animal Health",
+    "dateCreated": "2025-01-19T08:00:00Z",
+    "isRead": false
+  }
+]

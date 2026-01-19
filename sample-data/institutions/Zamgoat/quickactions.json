@@ -1,0 +1,16 @@
+[
+  {
+    "actionId": "QA-ZA-001",
+    "actionName": "Add Supplier",
+    "actionIcon": "PersonAdd",
+    "actionUrl": "/suppliers/add",
+    "isEnabled": true
+  },
+  {
+    "actionId": "QA-ZA-002",
+    "actionName": "Create Order",
+    "actionIcon": "ShoppingCart",
+    "actionUrl": "/orders/create",
+    "isEnabled": true
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "pointId": "CP-ZB-001",
+    "pointName": "Chisamba Livestock Depot",
+    "district": "Chisamba",
+    "ward": "Chisamba Central",
+    "gpsCoordinates": "-14.9167, 28.0833",
+    "capacity": "500 head of cattle",
+    "contactPerson": "Moses Kunda",
+    "contactNumber": "+260-977-556677",
+    "operatingHours": "Mon-Sat 05:00-18:00"
+  },
+  {
+    "pointId": "CP-ZB-002",
+    "pointName": "Kabwe Livestock Collection Center",
+    "district": "Kabwe",
+    "ward": "Kabwe Central",
+    "gpsCoordinates": "-14.4469, 28.4469",
+    "capacity": "400 head of cattle",
+    "contactPerson": "George Phiri",
+    "contactNumber": "+260-966-778899",
+    "operatingHours": "Mon-Sat 05:00-18:00"
+  },
+  {
+    "pointId": "CP-ZB-003",
+    "pointName": "Monze Beef Collection Point",
+    "district": "Monze",
+    "ward": "Monze East",
+    "gpsCoordinates": "-16.2833, 27.4833",
+    "capacity": "350 head of cattle",
+    "contactPerson": "John Mwanza",
+    "contactNumber": "+260-955-889900",
+    "operatingHours": "Mon-Sat 06:00-17:00"
+  }
+]

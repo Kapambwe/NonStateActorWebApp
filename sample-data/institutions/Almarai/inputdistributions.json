@@ -1,0 +1,14 @@
+[
+  {
+    "distributionId": "DIST-AL-001",
+    "inputType": "Seeds",
+    "inputName": "Hybrid Seeds",
+    "quantity": 1000.0,
+    "unit": "kg",
+    "district": "Lusaka",
+    "beneficiaries": 150,
+    "distributionDate": "2024-11-15T00:00:00Z",
+    "collectionPoint": "CP-AL-001",
+    "status": "Completed"
+  }
+]

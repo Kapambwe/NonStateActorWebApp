@@ -1,0 +1,18 @@
+[
+  {
+    "mappingId": "GIS-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "farmLocation": "Matotoka, Tonkolili District",
+    "latitude": 8.7231,
+    "longitude": -11.9483,
+    "totalArea": 6.0,
+    "cultivatedArea": 5.8,
+    "unit": "hectares",
+    "soilType": "Alluvial",
+    "elevation": 110,
+    "waterSource": "River and rainfall",
+    "mappingDate": "2022-09-20T00:00:00Z",
+    "lastUpdated": "2023-12-01T00:00:00Z"
+  }
+]

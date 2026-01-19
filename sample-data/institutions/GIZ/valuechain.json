@@ -1,0 +1,29 @@
+[
+  {
+    "valuechainId": "VC-GIZ-001",
+    "commodity": "Maize",
+    "stage": "Production",
+    "actors": ["Smallholder farmers", "Input suppliers"],
+    "activities": ["Land preparation", "Planting", "Crop management"],
+    "challenges": ["Access to quality inputs", "Climate variability"],
+    "gizSupport": ["Improved seed distribution", "Training on CSA practices"]
+  },
+  {
+    "valuechainId": "VC-GIZ-002",
+    "commodity": "Groundnuts",
+    "stage": "Post-harvest & Processing",
+    "actors": ["Farmer groups", "Processors", "Quality control"],
+    "activities": ["Drying", "Shelling", "Grading", "Packaging"],
+    "challenges": ["Post-harvest losses", "Quality standards compliance"],
+    "gizSupport": ["Storage facilities", "Training on quality standards", "Market linkages"]
+  },
+  {
+    "valuechainId": "VC-GIZ-003",
+    "commodity": "Livestock (Goats)",
+    "stage": "Marketing & Trade",
+    "actors": ["Livestock keepers", "Traders", "Export companies"],
+    "activities": ["Market assessment", "Transportation", "Sales"],
+    "challenges": ["Market information gaps", "Traceability"],
+    "gizSupport": ["Market price information", "Livestock tagging", "Buyer linkages"]
+  }
+]

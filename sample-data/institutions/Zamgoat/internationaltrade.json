@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-ZG-001",
+    "tradeType": "Export",
+    "farmerGroup": "Eastern Province Goat Producers",
+    "product": "Live Goats (Halal Certified)",
+    "quantity": 1200.0,
+    "unit": "head",
+    "destination": "Saudi Arabia (Jeddah Islamic Port)",
+    "estimatedValue": 1850000.00,
+    "currency": "ZMW",
+    "tradeDate": "2025-01-28T00:00:00Z",
+    "status": "Ready for Export"
+  },
+  {
+    "tradeId": "TRADE-ZG-002",
+    "tradeType": "Export",
+    "farmerGroup": "Northern Province Goat Farmers",
+    "product": "Live Goats (Breeding Stock)",
+    "quantity": 450.0,
+    "unit": "head",
+    "destination": "Saudi Arabia (Riyadh)",
+    "estimatedValue": 850000.00,
+    "currency": "ZMW",
+    "tradeDate": "2024-12-15T00:00:00Z",
+    "status": "Completed"
+  }
+]

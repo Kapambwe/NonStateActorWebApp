@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-GIZ-001",
+    "tradeType": "Export Facilitation",
+    "farmerGroup": "FG-GIZ-012",
+    "product": "Organic Groundnuts",
+    "quantity": 12.0,
+    "unit": "tonnes",
+    "destination": "Germany (Fair Trade Market)",
+    "estimatedValue": 85000.00,
+    "currency": "EUR",
+    "tradeDate": "2024-10-15T00:00:00Z",
+    "status": "Completed"
+  },
+  {
+    "tradeId": "TRADE-GIZ-002",
+    "tradeType": "Regional Trade",
+    "farmerGroup": "FG-GIZ-007",
+    "product": "Dried Vegetables",
+    "quantity": 5.5,
+    "unit": "tonnes",
+    "destination": "Malawi",
+    "estimatedValue": 18500.00,
+    "currency": "USD",
+    "tradeDate": "2024-11-20T00:00:00Z",
+    "status": "In Transit"
+  }
+]

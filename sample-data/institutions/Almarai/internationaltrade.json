@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-ALM-001",
+    "tradeType": "Export",
+    "farmerGroup": "Almarai Zambia Production",
+    "product": "UHT Milk (Long-life)",
+    "quantity": 85.0,
+    "unit": "tonnes",
+    "destination": "Saudi Arabia, UAE",
+    "estimatedValue": 185000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-20T00:00:00Z",
+    "status": "In Progress"
+  },
+  {
+    "tradeId": "TRADE-ALM-002",
+    "tradeType": "Regional Export",
+    "farmerGroup": "Almarai Zambia Production",
+    "product": "Fresh Dairy Products",
+    "quantity": 45.0,
+    "unit": "tonnes",
+    "destination": "Malawi, Zimbabwe",
+    "estimatedValue": 65000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-15T00:00:00Z",
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "collectionPointId": "CP-FAO-001",
+    "name": "Tonkolili FAO Demonstration Hub",
+    "location": "Magburaka",
+    "gpsCoordinates": "8.7231\u00b0N, 11.9483\u00b0W",
+    "capacity": 8000,
+    "unit": "kg",
+    "currentStock": 3200,
+    "managerName": "Dr. Alice Bangura",
+    "contactNumber": "+232-76-777111",
+    "operatingHours": "Monday-Friday, 8:00 AM - 5:00 PM",
+    "isActive": true
+  }
+]

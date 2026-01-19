@@ -1,0 +1,17 @@
+[
+  {
+    "actorId": "SCA-FAO-001",
+    "actorName": "Africa Rice Center",
+    "actorType": "ResearchPartner",
+    "contactPerson": "Dr. Emmanuel Kamara",
+    "contactNumber": "+232-76-999111",
+    "email": "ekamara@africarice.org",
+    "location": "Regional Office",
+    "commoditiesHandled": [
+      "Certified Seeds",
+      "Research Varieties"
+    ],
+    "relationshipSince": "2022-01-01T00:00:00Z",
+    "isActive": true
+  }
+]

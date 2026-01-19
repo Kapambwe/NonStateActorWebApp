@@ -1,0 +1,20 @@
+[
+  {
+    "componentId": "COMP-ZB-001",
+    "componentName": "Livestock Procurement",
+    "accessLevel": "Full",
+    "isEnabled": true
+  },
+  {
+    "componentId": "COMP-ZB-002",
+    "componentName": "Abattoir Management",
+    "accessLevel": "Full",
+    "isEnabled": true
+  },
+  {
+    "componentId": "COMP-ZB-003",
+    "componentName": "Farmer Payments",
+    "accessLevel": "Read-Write",
+    "isEnabled": true
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "itemId": "INV-FAO-001",
+    "inputType": "Seeds",
+    "inputName": "NERICA rice seeds",
+    "stockQuantity": 5000,
+    "unit": "kg",
+    "location": "Tonkolili FAO Seed Bank",
+    "supplier": "Africa Rice Center",
+    "unitCost": 5000,
+    "totalValue": 25000000,
+    "expiryDate": "2025-06-30T00:00:00Z",
+    "lastUpdated": "2024-01-15T00:00:00Z"
+  }
+]

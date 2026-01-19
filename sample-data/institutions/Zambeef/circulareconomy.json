@@ -1,0 +1,24 @@
+[
+  {
+    "activityId": "CE-ZB-001",
+    "activityName": "Bone Meal and Blood Meal Production",
+    "location": "Chisamba Abattoir",
+    "farmerGroup": "N/A - Company Operations",
+    "wasteType": "Animal Bones and Blood",
+    "annualWasteVolume": 4500.0,
+    "energyProduced": "N/A",
+    "carbonOffset": 18.5,
+    "economicBenefit": "ZMW 2,850,000"
+  },
+  {
+    "activityId": "CE-ZB-002",
+    "activityName": "Biogas from Abattoir Waste",
+    "location": "Kabwe Processing Plant",
+    "farmerGroup": "N/A - Company Operations",
+    "wasteType": "Organic Waste",
+    "annualWasteVolume": 3200.0,
+    "energyProduced": "425,000 kWh",
+    "carbonOffset": 32.5,
+    "economicBenefit": "ZMW 1,500,000"
+  }
+]
