@@ -1,0 +1,67 @@
+[
+  {
+    "reportId": "RPT-FAO-001",
+    "reportName": "Annual Programme Performance Report 2023",
+    "reportType": "Annual",
+    "generatedBy": "Dr. Alice Bangura",
+    "generatedDate": "2024-01-31T00:00:00Z",
+    "period": "January - December 2023",
+    "totalFarmers": 1250,
+    "totalProductionKg": 4500000,
+    "totalRevenueGenerated": 22500000000,
+    "trainingsCompleted": 18,
+    "fileUrl": "/reports/annual-2023.pdf"
+  },
+  {
+    "reportId": "RPT-FAO-002",
+    "reportName": "Q1 2024 Progress Report",
+    "reportType": "Quarterly",
+    "generatedBy": "Ms. Hawa Turay",
+    "generatedDate": "2024-04-15T00:00:00Z",
+    "period": "January - March 2024",
+    "totalFarmers": 1280,
+    "totalProductionKg": 980000,
+    "totalRevenueGenerated": 4900000000,
+    "trainingsCompleted": 4,
+    "fileUrl": "/reports/q1-2024.pdf"
+  },
+  {
+    "reportId": "RPT-FAO-003",
+    "reportName": "Gender Inclusion Monitoring Report 2023",
+    "reportType": "Thematic",
+    "generatedBy": "Ms. Fatmata Bangura",
+    "generatedDate": "2024-02-28T00:00:00Z",
+    "period": "2023 Full Year",
+    "totalFarmers": 620,
+    "totalProductionKg": 1850000,
+    "totalRevenueGenerated": 9250000000,
+    "trainingsCompleted": 10,
+    "fileUrl": "/reports/gender-2023.pdf"
+  },
+  {
+    "reportId": "RPT-FAO-004",
+    "reportName": "Donor Narrative Report — IFAD Grant 2023",
+    "reportType": "DonorNarrative",
+    "generatedBy": "Dr. Alice Bangura",
+    "generatedDate": "2024-03-31T00:00:00Z",
+    "period": "2023 Programme Year",
+    "totalFarmers": 1250,
+    "totalProductionKg": 4500000,
+    "totalRevenueGenerated": 22500000000,
+    "trainingsCompleted": 18,
+    "fileUrl": "/reports/donor-narrative-2023.pdf"
+  },
+  {
+    "reportId": "RPT-FAO-005",
+    "reportName": "Mid-Term Evaluation Report",
+    "reportType": "Evaluation",
+    "generatedBy": "External Evaluator Team",
+    "generatedDate": "2023-07-31T00:00:00Z",
+    "period": "2022 - Mid 2023",
+    "totalFarmers": 1100,
+    "totalProductionKg": 3800000,
+    "totalRevenueGenerated": 19000000000,
+    "trainingsCompleted": 12,
+    "fileUrl": "/reports/mid-term-eval.pdf"
+  }
+]

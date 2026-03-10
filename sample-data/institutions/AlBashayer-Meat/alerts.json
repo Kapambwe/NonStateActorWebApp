@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-ABM-001",
+    "title": "Oman Import License Renewed",
+    "message": "2025 livestock import license approved by Oman authorities - Valid until Dec 31",
+    "severity": "Info",
+    "category": "Compliance",
+    "dateCreated": "2025-01-15T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-ABM-002",
+    "title": "Cattle Collection Complete",
+    "message": "January collection complete - 380 head of cattle ready for Muscat shipment",
+    "severity": "Info",
+    "category": "Procurement",
+    "dateCreated": "2025-01-19T11:00:00Z",
+    "isRead": false
+  }
+]

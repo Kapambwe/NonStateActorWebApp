@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-ALM-001",
+    "farmerId": "F-ALM-005",
+    "farmerName": "Ibrahim Hassan",
+    "animalType": "Dairy Cattle",
+    "breed": "Holstein Friesian",
+    "tagNumber": "DAIRY-ALM-2022-0856",
+    "birthDate": "2022-05-10T00:00:00Z",
+    "origin": "Almarai Breeding Program - Saudi Arabia",
+    "currentLocation": "Chisamba Dairy Farm",
+    "healthStatus": "Healthy - High Milk Production (32L/day)",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-12T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ALM-002",
+    "farmerId": "F-ALM-005",
+    "farmerName": "Ibrahim Hassan",
+    "animalType": "Dairy Cattle",
+    "breed": "Jersey Cross",
+    "tagNumber": "DAIRY-ALM-2023-1024",
+    "birthDate": "2023-02-20T00:00:00Z",
+    "origin": "Local Birth - Almarai Zambia",
+    "currentLocation": "Chisamba Dairy Farm",
+    "healthStatus": "Healthy - Milking (28L/day)",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-12T00:00:00Z"
+  }
+]

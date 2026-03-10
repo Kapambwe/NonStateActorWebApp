@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-HW-001",
+    "farmerId": "F-HW-008",
+    "farmerName": "Emmanuel Zulu",
+    "animalType": "Goat",
+    "breed": "Boer",
+    "tagNumber": "GOAT-HW-2024-4512",
+    "birthDate": "2024-01-25T00:00:00Z",
+    "origin": "Hedges Halal Program - Eastern Province",
+    "currentLocation": "Lusaka Halal Abattoir",
+    "healthStatus": "Processed - Halal Certified",
+    "vaccinationStatus": "Records verified pre-slaughter",
+    "lastVetVisit": "2025-01-14T00:00:00Z"
+  },
+  {
+    "animalId": "LS-HW-002",
+    "farmerId": "F-HW-015",
+    "farmerName": "Sarah Mwanza",
+    "animalType": "Goat",
+    "breed": "Kalahari Red",
+    "tagNumber": "GOAT-HW-2024-4689",
+    "birthDate": "2024-03-10T00:00:00Z",
+    "origin": "Hedges Halal Program - Southern Province",
+    "currentLocation": "Cold Storage - Lusaka",
+    "healthStatus": "Processed - Halal Certified",
+    "vaccinationStatus": "Records verified pre-slaughter",
+    "lastVetVisit": "2025-01-16T00:00:00Z"
+  }
+]

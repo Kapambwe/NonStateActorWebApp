@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "USER-GIZ-001",
+    "username": "klaus.schmidt@giz.de",
+    "role": "Program Manager",
+    "isAuthenticated": true,
+    "lastLogin": "2025-01-19T07:30:00Z",
+    "permissions": ["ViewProjects", "EditProjects", "ManageTrainings", "ViewReports"]
+  }
+]

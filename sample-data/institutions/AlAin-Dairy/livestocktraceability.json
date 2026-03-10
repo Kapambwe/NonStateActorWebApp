@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-AAD-001",
+    "farmerId": "F-AAD-004",
+    "farmerName": "Mohammed Al-Zahrani",
+    "animalType": "Dairy Cattle",
+    "breed": "Holstein",
+    "tagNumber": "DAIRY-AAD-2022-0654",
+    "birthDate": "2022-07-15T00:00:00Z",
+    "origin": "Al Ain Farms UAE - Transferred to Zambia 2023",
+    "currentLocation": "Lusaka Dairy Farm",
+    "healthStatus": "Healthy - High Yield (35L/day)",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-14T00:00:00Z"
+  },
+  {
+    "animalId": "LS-AAD-002",
+    "farmerId": "F-AAD-004",
+    "farmerName": "Mohammed Al-Zahrani",
+    "animalType": "Dairy Cattle",
+    "breed": "Ayrshire",
+    "tagNumber": "DAIRY-AAD-2023-0892",
+    "birthDate": "2023-03-20T00:00:00Z",
+    "origin": "Local Birth - Al Ain Zambia",
+    "currentLocation": "Lusaka Dairy Farm",
+    "healthStatus": "Healthy - Milking (30L/day)",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-14T00:00:00Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "widgetId": "DASH-GIZ-001",
+    "widgetName": "Total Beneficiaries",
+    "widgetType": "Metric",
+    "value": "8450",
+    "changePercentage": 12.5,
+    "lastUpdated": "2025-01-19T06:00:00Z"
+  },
+  {
+    "widgetId": "DASH-GIZ-002",
+    "widgetName": "Active Projects",
+    "widgetType": "Metric",
+    "value": "23",
+    "changePercentage": 4.5,
+    "lastUpdated": "2025-01-19T06:00:00Z"
+  },
+  {
+    "widgetId": "DASH-GIZ-003",
+    "widgetName": "Training Sessions This Month",
+    "widgetType": "Metric",
+    "value": "47",
+    "changePercentage": 18.0,
+    "lastUpdated": "2025-01-19T06:00:00Z"
+  }
+]

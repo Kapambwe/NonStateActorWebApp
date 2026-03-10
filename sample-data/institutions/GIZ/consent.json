@@ -1,0 +1,22 @@
+[
+  {
+    "consentId": "CONS-GIZ-001",
+    "farmerId": "F-GIZ-012",
+    "farmerName": "Mulenga Chanda",
+    "consentType": "Data Sharing",
+    "description": "Consent to share farming data with GIZ and partner organizations",
+    "consentDate": "2023-11-10T00:00:00Z",
+    "expiryDate": "2026-11-10T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "consentId": "CONS-GIZ-002",
+    "farmerId": "F-GIZ-028",
+    "farmerName": "Charity Banda",
+    "consentType": "Photo/Video Documentation",
+    "description": "Consent for use of photos in GIZ promotional materials",
+    "consentDate": "2024-03-15T00:00:00Z",
+    "expiryDate": "2027-03-15T00:00:00Z",
+    "isActive": true
+  }
+]

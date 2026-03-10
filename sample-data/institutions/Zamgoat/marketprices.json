@@ -1,0 +1,12 @@
+[
+  {
+    "priceId": "MP-ZA-001",
+    "commodity": "General Produce",
+    "market": "Local Market",
+    "pricePerUnit": 3500.0,
+    "unit": "per 50kg",
+    "currency": "ZMW",
+    "priceDate": "2025-01-18T00:00:00Z",
+    "trend": "Stable"
+  }
+]

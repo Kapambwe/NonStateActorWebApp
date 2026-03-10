@@ -1,0 +1,28 @@
+[
+  {
+    "contractId": "CF-GIZ-001",
+    "farmerId": "F-GIZ-012",
+    "farmerName": "Mulenga Chanda",
+    "buyerName": "GIZ Partner - Zambian Grain Traders",
+    "cropType": "Maize",
+    "contractedQuantity": 15.0,
+    "pricePerUnit": 2800.0,
+    "currency": "ZMW",
+    "contractDate": "2024-09-01T00:00:00Z",
+    "deliveryDate": "2025-06-30T00:00:00Z",
+    "status": "Active"
+  },
+  {
+    "contractId": "CF-GIZ-002",
+    "farmerId": "F-GIZ-028",
+    "farmerName": "Charity Banda",
+    "buyerName": "GIZ Partner - Eastern Province Cooperatives",
+    "cropType": "Groundnuts",
+    "contractedQuantity": 8.0,
+    "pricePerUnit": 4500.0,
+    "currency": "ZMW",
+    "contractDate": "2024-10-15T00:00:00Z",
+    "deliveryDate": "2025-05-31T00:00:00Z",
+    "status": "Active"
+  }
+]

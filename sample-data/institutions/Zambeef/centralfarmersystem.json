@@ -1,0 +1,11 @@
+[
+  {
+    "systemId": "CFS-ZB-001",
+    "systemName": "Zambeef Livestock Supplier Database",
+    "totalFarmers": 12800,
+    "activeFarmers": 11450,
+    "totalDistricts": 22,
+    "lastSyncDate": "2025-01-19T05:00:00Z",
+    "dataIntegrity": "Excellent"
+  }
+]

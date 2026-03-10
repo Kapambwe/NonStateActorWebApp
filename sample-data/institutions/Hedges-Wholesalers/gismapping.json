@@ -1,0 +1,12 @@
+[
+  {
+    "mapId": "GIS-HE-001",
+    "mapName": "Supplier Farm Locations",
+    "district": "Multiple Districts",
+    "totalFarmsMapped": 250,
+    "totalAreaMapped": 5500.0,
+    "mappingDate": "2024-10-01T00:00:00Z",
+    "coordinates": "-15.4167, 28.2833",
+    "dataFormat": "GeoJSON"
+  }
+]

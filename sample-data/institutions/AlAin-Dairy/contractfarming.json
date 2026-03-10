@@ -1,0 +1,15 @@
+[
+  {
+    "contractId": "CF-AL-001",
+    "farmerId": "F-AL-001",
+    "farmerName": "Sample Farmer",
+    "buyerName": "AlAin-Dairy",
+    "cropType": "Mixed",
+    "contractedQuantity": 50.0,
+    "pricePerUnit": 3000.0,
+    "currency": "ZMW",
+    "contractDate": "2024-09-01T00:00:00Z",
+    "deliveryDate": "2025-06-30T00:00:00Z",
+    "status": "Active"
+  }
+]

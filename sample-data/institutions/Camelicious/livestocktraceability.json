@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-CAM-001",
+    "farmerId": "F-CAM-003",
+    "farmerName": "Ahmed Al-Mansouri",
+    "animalType": "Camel",
+    "breed": "Dromedary (Dairy)",
+    "tagNumber": "CAMEL-CAM-2022-0145",
+    "birthDate": "2022-03-20T00:00:00Z",
+    "origin": "Camelicious UAE - Imported to Zambia 2023",
+    "currentLocation": "Kafue Camel Dairy Farm",
+    "healthStatus": "Healthy - Milking",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-10T00:00:00Z"
+  },
+  {
+    "animalId": "LS-CAM-002",
+    "farmerId": "F-CAM-003",
+    "farmerName": "Ahmed Al-Mansouri",
+    "animalType": "Camel",
+    "breed": "Dromedary (Dairy)",
+    "tagNumber": "CAMEL-CAM-2023-0289",
+    "birthDate": "2023-01-15T00:00:00Z",
+    "origin": "Local Birth - Kafue Facility",
+    "currentLocation": "Kafue Camel Dairy Farm",
+    "healthStatus": "Healthy - Milking",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-10T00:00:00Z"
+  }
+]

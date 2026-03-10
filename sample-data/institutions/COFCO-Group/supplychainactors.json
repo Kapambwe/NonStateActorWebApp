@@ -1,0 +1,15 @@
+[
+  {
+    "actorId": "SCA-CO-001",
+    "actorName": "Primary Supplier Network",
+    "actorType": "Supplier",
+    "contactPerson": "Network Manager",
+    "contactNumber": "+260-211-000000",
+    "district": "Lusaka",
+    "commodities": [
+      "Mixed Products"
+    ],
+    "partnershipDate": "2023-01-01T00:00:00Z",
+    "isActive": true
+  }
+]

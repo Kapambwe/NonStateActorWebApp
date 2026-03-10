@@ -1,0 +1,12 @@
+[
+  {
+    "reportId": "REP-TR-001",
+    "reportName": "Monthly Operations Report",
+    "reportType": "Monthly",
+    "projectId": "PROJ-TR-001",
+    "generatedDate": "2025-01-15T00:00:00Z",
+    "generatedBy": "System",
+    "format": "PDF",
+    "status": "Published"
+  }
+]

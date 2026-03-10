@@ -1,0 +1,20 @@
+[
+  {
+    "componentId": "COMP-GIZ-001",
+    "componentName": "Project Management",
+    "accessLevel": "Full",
+    "isEnabled": true
+  },
+  {
+    "componentId": "COMP-GIZ-002",
+    "componentName": "Training Module",
+    "accessLevel": "Full",
+    "isEnabled": true
+  },
+  {
+    "componentId": "COMP-GIZ-003",
+    "componentName": "Farmer Registration",
+    "accessLevel": "Read-Write",
+    "isEnabled": true
+  }
+]

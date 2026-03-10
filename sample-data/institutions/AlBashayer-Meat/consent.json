@@ -1,0 +1,12 @@
+[
+  {
+    "consentId": "CONS-AL-001",
+    "farmerId": "F-AL-001",
+    "farmerName": "Sample Farmer",
+    "consentType": "Data Sharing",
+    "description": "Consent to share data",
+    "consentDate": "2024-01-01T00:00:00Z",
+    "expiryDate": "2027-01-01T00:00:00Z",
+    "isActive": true
+  }
+]

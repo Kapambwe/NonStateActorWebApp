@@ -1,0 +1,44 @@
+[
+  {
+    "animalId": "LS-ZG-001",
+    "farmerId": "F-ZG-014",
+    "farmerName": "Moses Mumba",
+    "animalType": "Goat",
+    "breed": "Boer Cross",
+    "tagNumber": "GOAT-ZG-2024-1842",
+    "birthDate": "2024-02-15T00:00:00Z",
+    "origin": "Zamgoat Breeding Program - Katete",
+    "currentLocation": "Export Quarantine Facility - Lusaka",
+    "healthStatus": "Healthy - Export Certified",
+    "vaccinationStatus": "Fully vaccinated for Saudi export",
+    "lastVetVisit": "2025-01-15T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ZG-002",
+    "farmerId": "F-ZG-027",
+    "farmerName": "Ruth Banda",
+    "animalType": "Goat",
+    "breed": "Kalahari Red",
+    "tagNumber": "GOAT-ZG-2024-2156",
+    "birthDate": "2024-04-20T00:00:00Z",
+    "origin": "Zamgoat Breeding Program - Lundazi",
+    "currentLocation": "Lundazi Collection Center",
+    "healthStatus": "Healthy",
+    "vaccinationStatus": "Up to date",
+    "lastVetVisit": "2025-01-12T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ZG-003",
+    "farmerId": "F-ZG-041",
+    "farmerName": "Patrick Phiri",
+    "animalType": "Goat",
+    "breed": "Savanna",
+    "tagNumber": "GOAT-ZG-2023-3421",
+    "birthDate": "2023-10-10T00:00:00Z",
+    "origin": "Zamgoat Breeding Program - Chipata",
+    "currentLocation": "Export Quarantine Facility - Lusaka",
+    "healthStatus": "Healthy - Export Certified",
+    "vaccinationStatus": "Fully vaccinated for Saudi export",
+    "lastVetVisit": "2025-01-16T00:00:00Z"
+  }
+]

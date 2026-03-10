@@ -1,0 +1,18 @@
+[
+  {
+    "widgetId": "DASH-HE-001",
+    "widgetName": "Active Suppliers",
+    "widgetType": "Metric",
+    "value": "1350",
+    "changePercentage": 5.5,
+    "lastUpdated": "2025-01-19T06:00:00Z"
+  },
+  {
+    "widgetId": "DASH-HE-002",
+    "widgetName": "Monthly Procurement",
+    "widgetType": "Metric",
+    "value": "850",
+    "changePercentage": 8.2,
+    "lastUpdated": "2025-01-19T06:00:00Z"
+  }
+]

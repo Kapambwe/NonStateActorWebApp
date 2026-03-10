@@ -1,0 +1,13 @@
+[
+  {
+    "activityId": "CE-CA-001",
+    "activityName": "Waste Recycling Program",
+    "location": "Central Facility",
+    "farmerGroup": "N/A",
+    "wasteType": "Organic Waste",
+    "annualWasteVolume": 120.0,
+    "energyProduced": "N/A",
+    "carbonOffset": 5.5,
+    "economicBenefit": "ZMW 45,000"
+  }
+]

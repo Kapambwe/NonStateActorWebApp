@@ -1,0 +1,22 @@
+[
+  {
+    "consentId": "CONS-ZB-001",
+    "farmerId": "F-ZB-045",
+    "farmerName": "Bwalya Mulenga",
+    "consentType": "Supplier Agreement",
+    "description": "Consent to supply cattle to Zambeef under standard procurement terms",
+    "consentDate": "2024-05-01T00:00:00Z",
+    "expiryDate": "2027-05-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "consentId": "CONS-ZB-002",
+    "farmerId": "F-ZB-078",
+    "farmerName": "Grace Tembo",
+    "consentType": "Traceability Data Sharing",
+    "description": "Consent to share livestock traceability data with Zambeef and regulators",
+    "consentDate": "2024-08-10T00:00:00Z",
+    "expiryDate": "2027-08-10T00:00:00Z",
+    "isActive": true
+  }
+]

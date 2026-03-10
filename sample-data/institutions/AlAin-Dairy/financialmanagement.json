@@ -1,0 +1,13 @@
+[
+  {
+    "transactionId": "FIN-AL-001",
+    "projectId": "PROJ-AL-001",
+    "projectName": "Q1 2025 Procurement",
+    "transactionType": "Payment",
+    "amount": 5000000.0,
+    "currency": "ZMW",
+    "transactionDate": "2025-01-15T00:00:00Z",
+    "description": "Supplier payments",
+    "status": "Completed"
+  }
+]

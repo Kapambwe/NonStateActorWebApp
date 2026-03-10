@@ -1,0 +1,24 @@
+[
+  {
+    "deliveryId": "DEL-ZB-001",
+    "orderId": "ORD-ZB-1245",
+    "farmerGroup": "Mkushi Cattle Ranchers",
+    "deliveryType": "Livestock Collection",
+    "items": "Beef Cattle",
+    "quantity": "85 head",
+    "destination": "Chisamba Abattoir",
+    "scheduledDate": "2025-01-22T06:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "deliveryId": "DEL-ZB-002",
+    "orderId": "ORD-ZB-1256",
+    "farmerGroup": "Southern Province Beef Producers",
+    "deliveryType": "Livestock Collection",
+    "items": "Beef Cattle",
+    "quantity": "120 head",
+    "destination": "Kabwe Processing Plant",
+    "scheduledDate": "2025-01-24T05:30:00Z",
+    "status": "Scheduled"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "trackingId": "PT-GIZ-001",
+    "farmerId": "F-GIZ-012",
+    "farmerName": "Mulenga Chanda",
+    "produceType": "Maize",
+    "quantity": 8.5,
+    "unit": "tonnes",
+    "harvestDate": "2024-06-15T00:00:00Z",
+    "collectionPoint": "CP-GIZ-001",
+    "deliveryDate": "2024-06-22T00:00:00Z",
+    "buyer": "Zambian Grain Traders",
+    "status": "Delivered"
+  },
+  {
+    "trackingId": "PT-GIZ-002",
+    "farmerId": "F-GIZ-028",
+    "farmerName": "Charity Banda",
+    "produceType": "Groundnuts",
+    "quantity": 3.2,
+    "unit": "tonnes",
+    "harvestDate": "2024-05-10T00:00:00Z",
+    "collectionPoint": "CP-GIZ-002",
+    "deliveryDate": "2024-05-18T00:00:00Z",
+    "buyer": "Eastern Province Cooperatives",
+    "status": "Delivered"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "groupId": "FG-HE-001",
+    "groupName": "Primary Suppliers Group",
+    "district": "Lusaka",
+    "chairperson": "Group Leader",
+    "memberCount": 35,
+    "registrationDate": "2023-06-01T00:00:00Z",
+    "primaryActivity": "Crop Production",
+    "isActive": true
+  }
+]

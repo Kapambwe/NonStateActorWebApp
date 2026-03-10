@@ -1,0 +1,15 @@
+[
+  {
+    "trackingId": "PT-AL-001",
+    "farmerId": "F-AL-001",
+    "farmerName": "Sample Farmer",
+    "produceType": "Mixed Crops",
+    "quantity": 5.0,
+    "unit": "tonnes",
+    "harvestDate": "2024-12-15T00:00:00Z",
+    "collectionPoint": "CP-AL-001",
+    "deliveryDate": "2024-12-20T00:00:00Z",
+    "buyer": "AlBashayer-Meat",
+    "status": "Delivered"
+  }
+]

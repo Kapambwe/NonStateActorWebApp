@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-TK-001",
+    "title": "Wheat Procurement Milestone",
+    "message": "Q1 wheat procurement target of 5,000 tonnes achieved at 87%",
+    "severity": "Info",
+    "category": "Procurement",
+    "dateCreated": "2025-01-17T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-TK-002",
+    "title": "New Supplier Onboarding",
+    "message": "45 new maize suppliers registered in Eastern Province this week",
+    "severity": "Info",
+    "category": "Suppliers",
+    "dateCreated": "2025-01-19T08:00:00Z",
+    "isRead": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "priceId": "MP-FAO-001",
+    "market": "Magburaka Market",
+    "crop": "Rice",
+    "variety": "NERICA",
+    "pricePerKg": 3000,
+    "currency": "SLE",
+    "date": "2024-01-15T00:00:00Z",
+    "source": "FAO Market Information System",
+    "quality": "Premium",
+    "trend": "Increasing"
+  }
+]

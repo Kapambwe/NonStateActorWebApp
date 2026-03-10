@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-ZB-001",
+    "tradeType": "Export",
+    "farmerGroup": "Zambeef Production",
+    "product": "Chilled Beef Cuts",
+    "quantity": 45.0,
+    "unit": "tonnes",
+    "destination": "Angola",
+    "estimatedValue": 2850000.00,
+    "currency": "ZMW",
+    "tradeDate": "2025-01-12T00:00:00Z",
+    "status": "Completed"
+  },
+  {
+    "tradeId": "TRADE-ZB-002",
+    "tradeType": "Export",
+    "farmerGroup": "Zambeef Production",
+    "product": "Frozen Beef Products",
+    "quantity": 28.0,
+    "unit": "tonnes",
+    "destination": "DRC (Democratic Republic of Congo)",
+    "estimatedValue": 1680000.00,
+    "currency": "ZMW",
+    "tradeDate": "2025-01-16T00:00:00Z",
+    "status": "In Transit"
+  }
+]

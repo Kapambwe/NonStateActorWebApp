@@ -1,0 +1,16 @@
+[
+  {
+    "consentId": "CONSENT-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "consentType": "ResearchParticipation",
+    "consentGivenTo": [
+      "InternationalDonor-FAO"
+    ],
+    "purpose": "Participate in FAO climate adaptation research and share farming data for studies",
+    "consentDate": "2022-09-10T00:00:00Z",
+    "expiryDate": "2027-09-10T00:00:00Z",
+    "isActive": true,
+    "canRevoke": true
+  }
+]

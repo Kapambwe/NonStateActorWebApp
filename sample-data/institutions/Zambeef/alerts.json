@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-ZB-001",
+    "title": "Cattle Procurement Target",
+    "message": "Monthly procurement target of 2,500 head of cattle achieved at 92% - Continue sourcing",
+    "severity": "Info",
+    "category": "Procurement",
+    "dateCreated": "2025-01-18T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-ZB-002",
+    "title": "Slaughter Schedule Full",
+    "message": "Chisamba abattoir fully booked for next week - Divert livestock to Kabwe facility",
+    "severity": "Warning",
+    "category": "Operations",
+    "dateCreated": "2025-01-19T07:15:00Z",
+    "isRead": false
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "practiceId": "CSA-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "practiceName": "Climate Information Services Integration",
+    "practiceType": "ClimateAdaptation",
+    "areaApplied": 6.0,
+    "unit": "hectares",
+    "implementationDate": "2023-01-15T00:00:00Z",
+    "expectedCarbonSequestration": 5.5,
+    "expectedYieldIncrease": 35,
+    "waterSavings": 40,
+    "status": "Active"
+  }
+]

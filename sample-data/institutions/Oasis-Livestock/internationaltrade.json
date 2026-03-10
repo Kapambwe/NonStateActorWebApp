@@ -1,0 +1,28 @@
+[
+  {
+    "tradeId": "TRADE-OL-001",
+    "tradeType": "Export",
+    "farmerGroup": "Oasis Zambia Suppliers",
+    "product": "Live Cattle (Feedlot Ready)",
+    "quantity": 500.0,
+    "unit": "head",
+    "destination": "UAE (Dubai Livestock Market)",
+    "estimatedValue": 850000.00,
+    "currency": "USD",
+    "tradeDate": "2025-01-25T00:00:00Z",
+    "status": "Ready for Export"
+  },
+  {
+    "tradeId": "TRADE-OL-002",
+    "tradeType": "Export",
+    "farmerGroup": "Oasis Zambia Suppliers",
+    "product": "Live Cattle (Breeding Stock)",
+    "quantity": 250.0,
+    "unit": "head",
+    "destination": "UAE (Abu Dhabi)",
+    "estimatedValue": 520000.00,
+    "currency": "USD",
+    "tradeDate": "2024-12-20T00:00:00Z",
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "inventoryId": "INV-TR-001",
+    "inputType": "General Supplies",
+    "inputName": "Farming Supplies",
+    "currentStock": 5000.0,
+    "unit": "kg",
+    "reorderLevel": 1000.0,
+    "location": "Main Warehouse",
+    "lastRestocked": "2025-01-10T00:00:00Z",
+    "expiryDate": "2026-12-31T00:00:00Z"
+  }
+]
