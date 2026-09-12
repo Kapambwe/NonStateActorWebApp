@@ -1,0 +1,17 @@
+[
+  {
+    "trackingId": "PT-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "crop": "Certified Rice Seeds",
+    "batchNumber": "SEEDS-FAO-2024-001",
+    "harvestDate": "2024-01-10T00:00:00Z",
+    "quantity": 250,
+    "unit": "kg",
+    "currentLocation": "Tonkolili FAO Demonstration Hub",
+    "status": "Certified",
+    "qualityGrade": "Certified Seeds",
+    "destinationBuyer": "FAO Seed Multiplication Program",
+    "estimatedShipmentDate": "2024-01-15T00:00:00Z"
+  }
+]

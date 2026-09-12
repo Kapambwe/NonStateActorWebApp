@@ -1,0 +1,7 @@
+[
+  {"actorId": "MWI-NASFAM-F-001", "name": "NASFAM Farmer Group", "type": "Farmer Group", "location": "Lilongwe, Malawi", "contactPerson": "Esther Chimwemwe", "registrationDate": "2017-09-01"},
+  {"actorId": "MWI-NASFAM-FED-001", "name": "National Smallholder Farmers' Association of Malawi", "type": "Federation", "location": "Lilongwe, Malawi", "contactPerson": "David Mussa", "registrationDate": "1998-11-20"},
+  {"actorId": "MWI-NASFAM-BUYER-001", "name": "Malawi Grains Buyers Ltd.", "type": "Buyer", "location": "Blantyre, Malawi", "contactPerson": "John Banda", "registrationDate": "2015-01-15"},
+  {"actorId": "MWI-NASFAM-GOVT-001", "name": "Ministry of Agriculture (Malawi)", "type": "Government Agency", "location": "Lilongwe, Malawi", "contactPerson": "Minister", "registrationDate": "1970-01-01"},
+  {"actorId": "MWI-NASFAM-EXT-001", "name": "NASFAM Extension Services", "type": "Service Provider", "location": "Rural Malawi", "contactPerson": "Grace Simango", "registrationDate": "2000-01-01"}
+]

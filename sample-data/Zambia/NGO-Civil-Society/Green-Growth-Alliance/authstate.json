@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "FAO-SESSION-001",
+    "userId": "U-FAO-F001",
+    "userName": "Foday Mansaray",
+    "userRole": "Beneficiary",
+    "institutionId": "InternationalDonor-FAO",
+    "isAuthenticated": true,
+    "loginTime": "2024-01-15T08:00:00Z",
+    "lastActivity": "2024-01-15T09:00:00Z",
+    "expiresAt": "2024-01-15T20:00:00Z"
+  }
+]

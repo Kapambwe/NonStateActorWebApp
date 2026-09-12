@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-OM-ALBA-01", "farmerId": "OM-ALBA-FARM-001", "processorId": "OM-ALBA-MEAT-001", "product": "Lamb", "agreedQuantityKg": 3000, "pricePerKg": 18.0, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-OM-ALBA-02", "farmerId": "OM-ALBA-FARM-001", "processorId": "OM-ALBA-MEAT-001", "product": "Beef", "agreedQuantityKg": 4000, "pricePerKg": 22.0, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-OM-ALBA-03", "farmerId": "OM-ALBA-FARM-001", "processorId": "OM-ALBA-MEAT-001", "product": "Goat Meat", "agreedQuantityKg": 2000, "pricePerKg": 16.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-OM-ALBA-04", "farmerId": "OM-ALBA-FARM-001", "processorId": "OM-ALBA-MEAT-001", "product": "Processed Meats", "agreedQuantityKg": 1000, "pricePerKg": 28.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-OM-ALBA-05", "farmerId": "OM-ALBA-FARM-001", "processorId": "OM-ALBA-MEAT-001", "product": "Chicken", "agreedQuantityKg": 3000, "pricePerKg": 8.0, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

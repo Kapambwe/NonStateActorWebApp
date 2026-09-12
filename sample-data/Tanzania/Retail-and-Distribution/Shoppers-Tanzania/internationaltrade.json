@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-TZA-SHOPPERS-IMP01", "importerId": "TZA-SHOPPERS-RETAILER-001", "exporterCountry": "Kenya", "product": "Dairy Products", "quantityUnits": 4000, "importDate": "2026-04-23", "valueUSD": 10000, "status": "Imported by Shoppers Tanzania"},
+  {"tradeId": "IT2026-TZA-SHOPPERS-IMP02", "importerId": "TZA-SHOPPERS-RETAILER-001", "exporterCountry": "South Africa", "product": "Processed Foods", "quantityUnits": 3000, "importDate": "2026-04-24", "valueUSD": 15000, "status": "Imported by Shoppers Tanzania"},
+  {"tradeId": "IT2026-TZA-SHOPPERS-IMP03", "importerId": "TZA-SHOPPERS-RETAILER-001", "exporterCountry": "China", "product": "Electronics", "quantityUnits": 100, "importDate": "2026-04-28", "valueUSD": 50000, "status": "Imported by Shoppers Tanzania"},
+  {"tradeId": "IT2026-TZA-SHOPPERS-EXP01", "exporterId": "TZA-SHOPPERS-SUP-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-01", "valueUSD": 3000, "status": "Exported to Malawi"},
+  {"tradeId": "IT2026-TZA-SHOPPERS-EXP02", "exporterId": "TZA-SHOPPERS-SUP-001", "importerCountry": "Zambia", "product": "Coffee Beans", "quantityKg": 7000, "exportDate": "2026-05-05", "valueUSD": 21000, "status": "Exported to Zambia"}
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "componentId": "WH-AUTH-001",
+    "institutionId": "Warehouse-Kabwe",
+    "componentName": "Warehouse Operations Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.WarehouseReceipts.View",
+      "NonStateActor.WarehouseReceipts.IssueReceipt",
+      "NonStateActor.WarehouseReceipts.MyReceipts",
+      "NonStateActor.WarehouseReceipts.NegotiateReceipt",
+      "NonStateActor.WarehouseReceipts.RequestDelivery",
+      "NonStateActor.Ecosystem.AggregatorOperations.View",
+      "NonStateActor.SupplyChain.Overview.View",
+      "NonStateActor.SupplyChain.Actors.View",
+      "NonStateActor.Farmers.Registry.View",
+      "NonStateActor.Monitoring.Dashboard.View"
+    ],
+    "description": "Portal for strategic grain storage and negotiable receipt management"
+  }
+]

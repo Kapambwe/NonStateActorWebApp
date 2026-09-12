@@ -1,0 +1,24 @@
+[
+  {
+    "id": 401,
+    "contractNumber": "CON-RT-TK-2026-001",
+    "companyId": 50,
+    "companyName": "Trade Kings",
+    "farmerId": 50001,
+    "farmerName": "Mazabuka Sugar Cane Estates",
+    "cropType": "Sugar Cane",
+    "landAreaHectares": 1200.0,
+    "expectedYield": 45000.0,
+    "guaranteedPrice": 1.2,
+    "contractStartDate": "2026-01-01T00:00:00Z",
+    "contractEndDate": "2026-12-31T00:00:00Z",
+    "status": "Active",
+    "paymentTerms": "Quarterly Payments",
+    "totalContractValue": 54000000.0,
+    "amountPaid": 15000000.0,
+    "amountDue": 39000000.0,
+    "actualYield": 0.0,
+    "yieldVariance": 0.0,
+    "qualityMet": true
+  }
+]

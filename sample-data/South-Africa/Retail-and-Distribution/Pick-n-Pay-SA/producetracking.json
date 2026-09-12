@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZAF-PICKNPAY-001", "productId": "FRUIT-ZAF-010", "farmerId": "ZAF-AGRISA-F-001", "supplierId": "ZAF-PICKNPAY-SUP-001", "deliveryDate": "2026-04-12", "quantityKg": 12000, "status": "Delivered to Pick n Pay", "location": "Pick n Pay Distribution Center, Cape Town"},
+  {"trackingId": "PT2026-ZAF-PICKNPAY-002", "productId": "WINE-ZAF-009", "farmerId": "ZAF-AGRISA-F-001", "supplierId": "ZAF-PICKNPAY-SUP-001", "deliveryDate": "2026-04-13", "quantityLiters": 10000, "status": "Delivered to Pick n Pay", "location": "Pick n Pay Distribution Center, Cape Town"},
+  {"trackingId": "PT2026-ZAF-PICKNPAY-003", "productId": "BEEF-ZAF-005", "farmerId": "ZAF-AGRISA-F-001", "supplierId": "ZAF-PICKNPAY-SUP-001", "deliveryDate": "2026-04-14", "quantityKg": 8000, "status": "Processed", "location": "Pick n Pay Abattoir"},
+  {"trackingId": "PT2026-ZAF-PICKNPAY-004", "productId": "MAIZE-ZAF-011", "farmerId": "ZAF-AGRISA-F-001", "supplierId": "ZAF-PICKNPAY-SUP-001", "deliveryDate": "2026-04-15", "quantityKg": 15000, "status": "Sold to Retail", "location": "Pick n Pay Retail Outlet"},
+  {"trackingId": "PT2026-ZAF-PICKNPAY-005", "productId": "CATTLE-ZAF-002", "farmerId": "ZAF-AGRISA-F-001", "supplierId": "ZAF-PICKNPAY-SUP-001", "deliveryDate": "2026-04-16", "quantityKg": 700, "status": "Sold to Processor", "location": "Meat Processor"}
+]

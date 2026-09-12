@@ -1,0 +1,36 @@
+﻿[
+  {
+    "farmerId": "F-ZA-R01",
+    "name": "Sipho Khumalo",
+    "age": 46,
+    "gender": "Male",
+    "contactNumber": "+27-82-9990000",
+    "district": "Limpopo",
+    "chiefdom": "Tzaneen",
+    "village": "Letaba Valley",
+    "farmSize": 120.0,
+    "primaryCrop": "Avocados",
+    "secondaryCrops": ["Macadamia Nuts"],
+    "registrationDate": "2023-04-20T00:00:00Z",
+    "groupMembership": "FG-ZA-R01",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZA-R02",
+    "name": "Zanele Mbeki",
+    "age": 38,
+    "gender": "Female",
+    "contactNumber": "+27-83-8881111",
+    "district": "Mpumalanga",
+    "chiefdom": "Nelspruit",
+    "village": "Lowveld Estates",
+    "farmSize": 45.0,
+    "primaryCrop": "Oranges",
+    "secondaryCrops": ["Grapefruit"],
+    "registrationDate": "2023-05-25T00:00:00Z",
+    "groupMembership": "FG-ZA-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

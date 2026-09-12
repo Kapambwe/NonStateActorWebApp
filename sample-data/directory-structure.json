@@ -1,0 +1,81 @@
+﻿{
+    "Tanzania":  {
+                     "Retail-and-Distribution":  [
+                                                     "Shoppers-Tanzania"
+                                                 ],
+                     "Farmers-Union-Cooperative":  [
+                                                       "ACT"
+                                                   ]
+                 },
+    "South-Africa":  {
+                         "Farmers-Union-Cooperative":  [
+                                                           "AgriSA"
+                                                       ],
+                         "Retail-and-Distribution":  [
+                                                         "Pick-n-Pay-SA"
+                                                     ],
+                         "NGO-Civil-Society":  [
+                                                   "The-Siyazisiza-Trust"
+                                               ]
+                     },
+    "Zimbabwe":  {
+                     "Farmers-Union-Cooperative":  [
+                                                       "ZFU"
+                                                   ],
+                     "Retail-and-Distribution":  [
+                                                     "OK-Zimbabwe"
+                                                 ],
+                     "NGO-Civil-Society":  [
+                                               "Higherlife-Foundation"
+                                           ]
+                 },
+    "Malawi":  {
+                   "Retail-and-Distribution":  [
+                                                   "Chipiku-Plus"
+                                               ],
+                   "Farmers-Union-Cooperative":  [
+                                                     "NASFAM"
+                                                 ]
+               },
+    "Uganda":  {
+                   "Retail-and-Distribution":  [
+                                                   "Capital-Shoppers-Uganda"
+                                               ],
+                   "Farmers-Union-Cooperative":  [
+                                                     "UNFFE-Federation"
+                                                 ]
+               },
+    "Zambia":  {
+                   "NGO-Civil-Society":  [
+                                             "Green-Growth-Alliance",
+                                             "Self-Help-Africa-Zambia",
+                                             "GIZ"
+                                         ],
+                   "Retail-and-Distribution":  [
+                                                   "Shoprite-Zambia"
+                                               ],
+                   "Livestock-and-Meat-Processing":  [
+                                                         "Zambeef-Products"
+                                                     ],
+                   "International-Organization-UN":  [
+                                                         "FAO-Country-Office"
+                                                     ],
+                   "Development-Partner-Donor":  [
+                                                     "GIZ"
+                                                 ],
+                   "Farmers-Union-Cooperative":  [
+                                                     "ZNFU-Cooperative"
+                                                 ]
+               },
+    "Kenya":  {
+                  "Farmers-Union-Cooperative":  [
+                                                    "KENAFF-Federation"
+                                                ],
+                  "Retail-and-Distribution":  [
+                                                  "Naivas-Kenya"
+                                              ],
+                  "NGO-Civil-Society":  [
+                                            "Farm-Africa-Kenya"
+                                        ]
+              }
+}

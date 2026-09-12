@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "NW-SESSION-001",
+    "userId": "U-NW-001",
+    "userName": "Kabwita Sangambo",
+    "userRole": "Offtaker",
+    "institutionId": "Offtaker-NWHP",
+    "isAuthenticated": true,
+    "loginTime": "2026-04-17T08:00:00Z",
+    "lastActivity": "2026-04-17T09:00:00Z",
+    "expiresAt": "2026-04-17T20:00:00Z"
+  }
+]

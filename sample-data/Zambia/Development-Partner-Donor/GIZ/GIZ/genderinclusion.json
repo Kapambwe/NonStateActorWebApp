@@ -1,0 +1,24 @@
+[
+  {
+    "initiativeId": "GI-GIZ-001",
+    "initiativeName": "Women's Leadership in Agriculture",
+    "district": "Mkushi",
+    "targetGroup": "Women Farmers",
+    "totalParticipants": 120,
+    "femaleParticipants": 120,
+    "activities": ["Business skills training", "Market linkages", "Financial literacy"],
+    "startDate": "2024-06-01T00:00:00Z",
+    "status": "Active"
+  },
+  {
+    "initiativeId": "GI-GIZ-002",
+    "initiativeName": "Youth in Agribusiness Program",
+    "district": "Chongwe",
+    "targetGroup": "Young Farmers (18-35)",
+    "totalParticipants": 85,
+    "femaleParticipants": 42,
+    "activities": ["Modern farming techniques", "ICT in agriculture", "Value addition"],
+    "startDate": "2024-09-15T00:00:00Z",
+    "status": "Active"
+  }
+]

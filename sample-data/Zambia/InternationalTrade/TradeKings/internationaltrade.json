@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-TRADEKINGS-EXP01", "exporterId": "ZMB-TRADEKINGS-EXPORT-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 15000, "exportDate": "2026-05-01", "valueUSD": 4500, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-TRADEKINGS-EXP02", "exporterId": "ZMB-TRADEKINGS-EXPORT-001", "importerCountry": "Botswana", "product": "Chicken", "quantityKg": 5000, "exportDate": "2026-05-05", "valueUSD": 7500, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-TRADEKINGS-IMP01", "importerId": "ZMB-TRADEKINGS-DIST-001", "exporterCountry": "South Africa", "product": "Edible Oils", "quantityUnits": 10000, "importDate": "2026-04-28", "valueUSD": 30000, "status": "Imported"},
+  {"tradeId": "IT2026-ZMB-TRADEKINGS-EXP03", "exporterId": "ZMB-TRADEKINGS-EXPORT-001", "importerCountry": "DRC", "product": "Soap", "quantityUnits": 20000, "exportDate": "2026-05-10", "valueUSD": 10000, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-TRADEKINGS-IMP02", "importerId": "ZMB-TRADEKINGS-DIST-001", "exporterCountry": "China", "product": "Electronics", "quantityUnits": 200, "importDate": "2026-04-30", "valueUSD": 100000, "status": "Imported"}
+]

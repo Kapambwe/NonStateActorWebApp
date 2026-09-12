@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-KEN-NAIVAS-001", "productId": "MAIZE-KEN-008", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "deliveryDate": "2026-04-12", "quantityKg": 10000, "status": "Delivered to Naivas", "location": "Naivas Distribution Center, Nairobi"},
+  {"trackingId": "PT2026-KEN-NAIVAS-002", "productId": "COFFEE-KEN-008", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "deliveryDate": "2026-04-13", "quantityKg": 7000, "status": "Delivered to Naivas", "location": "Naivas Distribution Center, Nairobi"},
+  {"trackingId": "PT2026-KEN-NAIVAS-003", "productId": "DAIRY-KEN-001", "supplierId": "KEN-NAIVAS-SUP-001", "deliveryDate": "2026-04-14", "quantityUnits": 8000, "status": "Distributed to Retail", "location": "Naivas Retail Outlets"},
+  {"trackingId": "PT2026-KEN-NAIVAS-004", "productId": "FRUIT-KEN-001", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "deliveryDate": "2026-04-15", "quantityKg": 6000, "status": "Sold to Naivas", "location": "Naivas Retail Outlets"},
+  {"trackingId": "PT2026-KEN-NAIVAS-005", "productId": "VEGETABLES-KEN-001", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "deliveryDate": "2026-04-16", "quantityKg": 7000, "status": "Delivered to Naivas", "location": "Naivas Distribution Center, Nairobi"}
+]

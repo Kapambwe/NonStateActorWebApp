@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-KEN-KENAFF-001", "productId": "MAIZE-KEN-005", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "harvestDate": "2026-04-05", "quantityKg": 6000, "status": "Harvested", "location": "Rift Valley Farm, Kenya"},
+  {"trackingId": "PT2026-KEN-KENAFF-002", "productId": "COFFEE-KEN-007", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "deliveryDate": "2026-04-10", "quantityKg": 4000, "status": "Processed", "location": "Central Kenya Coffee Plant"},
+  {"trackingId": "PT2026-KEN-KENAFF-003", "productId": "TEA-KEN-001", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "harvestDate": "2026-04-01", "quantityKg": 3000, "status": "Harvested", "location": "Rift Valley Tea Estates"},
+  {"trackingId": "PT2026-KEN-KENAFF-004", "productId": "MAIZE-KEN-006", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "deliveryDate": "2026-04-12", "quantityKg": 7000, "status": "Sold to Buyer", "location": "Kenyan Grain Traders Ltd."},
+  {"trackingId": "PT2026-KEN-KENAFF-005", "productId": "HORTICULTURE-KEN-001", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "deliveryDate": "2026-04-15", "quantityKg": 5000, "status": "Exported", "location": "Mombasa Port"}
+]

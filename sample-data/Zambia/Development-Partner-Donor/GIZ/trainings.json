@@ -1,0 +1,41 @@
+[
+  {
+    "trainingId": "TRN-GIZ-001",
+    "trainingName": "Climate-Smart Agriculture Practices",
+    "district": "Chongwe",
+    "venue": "Chongwe District Community Hall",
+    "trainingDate": "2025-01-25T09:00:00Z",
+    "duration": "2 days",
+    "trainer": "Dr. John Phiri (Agronomy Specialist)",
+    "expectedParticipants": 60,
+    "actualParticipants": null,
+    "topics": ["Conservation agriculture", "Crop rotation", "Water management"],
+    "status": "Scheduled"
+  },
+  {
+    "trainingId": "TRN-GIZ-002",
+    "trainingName": "Organic Farming and Certification",
+    "district": "Mkushi",
+    "venue": "Mkushi Agricultural Training Center",
+    "trainingDate": "2024-12-10T09:00:00Z",
+    "duration": "3 days",
+    "trainer": "Sarah Mwanza (Organic Farming Expert)",
+    "expectedParticipants": 45,
+    "actualParticipants": 48,
+    "topics": ["Organic composting", "Pest management", "Certification process"],
+    "status": "Completed"
+  },
+  {
+    "trainingId": "TRN-GIZ-003",
+    "trainingName": "Improved Goat Husbandry",
+    "district": "Katete",
+    "venue": "Katete Livestock Extension Office",
+    "trainingDate": "2025-02-08T09:00:00Z",
+    "duration": "1 day",
+    "trainer": "Dr. Emmanuel Zulu (Veterinarian)",
+    "expectedParticipants": 35,
+    "actualParticipants": null,
+    "topics": ["Breed selection", "Disease prevention", "Nutrition"],
+    "status": "Scheduled"
+  }
+]

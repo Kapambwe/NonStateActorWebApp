@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "AGG-SESSION-001",
+    "userId": "U-AGG-001",
+    "userName": "John Banda",
+    "userRole": "Aggregator",
+    "institutionId": "Aggregator-CPA",
+    "isAuthenticated": true,
+    "loginTime": "2026-04-17T08:00:00Z",
+    "lastActivity": "2026-04-17T09:00:00Z",
+    "expiresAt": "2026-04-17T20:00:00Z"
+  }
+]

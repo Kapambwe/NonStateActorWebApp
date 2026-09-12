@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-UG-CAPS-01", "farmerId": "UG-CAPS-F-001", "retailerId": "UG-CAPS-B-001", "product": "Coffee Beans", "agreedQuantityKg": 5000, "pricePerKg": 3.5, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UG-CAPS-02", "farmerId": "UG-CAPS-F-001", "retailerId": "UG-CAPS-B-001", "product": "Maize", "agreedQuantityKg": 10000, "pricePerKg": 0.3, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-UG-CAPS-03", "farmerId": "UG-CAPS-F-001", "retailerId": "UG-CAPS-B-001", "product": "Cotton", "agreedQuantityKg": 3000, "pricePerKg": 1.2, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-UG-CAPS-04", "farmerId": "UG-CAPS-F-001", "retailerId": "UG-CAPS-B-001", "product": "Coffee Beans", "agreedQuantityKg": 3000, "pricePerKg": 3.6, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UG-CAPS-05", "farmerId": "UG-CAPS-F-001", "retailerId": "UG-CAPS-B-001", "product": "Tea Leaves", "agreedQuantityKg": 2000, "pricePerKg": 2.0, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

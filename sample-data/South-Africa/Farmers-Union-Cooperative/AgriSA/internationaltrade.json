@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZAF-AGRISA-EXP01", "exporterId": "ZAF-AGRISA-FED-001", "importerCountry": "United Kingdom", "product": "Wine", "quantityLiters": 50000, "exportDate": "2026-05-01", "valueUSD": 250000, "status": "Exported"},
+  {"tradeId": "IT2026-ZAF-AGRISA-EXP02", "exporterId": "ZAF-AGRISA-FED-001", "importerCountry": "Germany", "product": "Wine Grapes", "quantityKg": 20000, "exportDate": "2026-05-05", "valueUSD": 30000, "status": "Exported"},
+  {"tradeId": "IT2026-ZAF-AGRISA-IMP01", "importerId": "ZAF-AGRI-BUYER-001", "exporterCountry": "China", "product": "Agricultural Machinery", "quantityUnits": 10, "importDate": "2026-04-28", "valueUSD": 100000, "status": "Imported"},
+  {"tradeId": "IT2026-ZAF-AGRISA-EXP03", "exporterId": "ZAF-AGRISA-FED-001", "importerCountry": "Mozambique", "product": "Maize", "quantityKg": 15000, "exportDate": "2026-05-10", "valueUSD": 4500, "status": "Exported"},
+  {"tradeId": "IT2026-ZAF-AGRISA-IMP02", "importerId": "ZAF-AGRI-BUYER-001", "exporterCountry": "USA", "product": "Fertilizers", "quantityKg": 20000, "importDate": "2026-04-30", "valueUSD": 20000, "status": "Imported"}
+]

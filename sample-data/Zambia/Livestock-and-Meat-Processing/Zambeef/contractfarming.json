@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZMB-ZAMBEEF-01", "farmerId": "ZNFU-F-001", "processorId": "ZMB-ZAMBEEF-PROD-001", "product": "Cattle", "agreedQuantityHead": 50, "pricePerKg": 2.8, "startDate": "2026-04-01", "endDate": "2026-09-30", "status": "Active - Supply to Zambeef"},
+  {"contractId": "CF2026-ZMB-ZAMBEEF-02", "farmerId": "ZMB-ZAMBEEF-FARM-001", "processorId": "ZMB-ZAMBEEF-PROD-001", "product": "Cattle", "agreedQuantityHead": 100, "pricePerKg": 2.9, "startDate": "2026-04-01", "endDate": "2026-09-30", "status": "Active - Zambeef Farm"},
+  {"contractId": "CF2026-ZMB-ZAMBEEF-03", "farmerId": "ZNFU-F-001", "processorId": "ZMB-ZAMBEEF-PROD-001", "product": "Goats", "agreedQuantityHead": 200, "pricePerHead": 80, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active - Supply to Zambeef"},
+  {"contractId": "CF2026-ZMB-ZAMBEEF-04", "farmerId": "ZNFU-F-001", "processorId": "ZMB-ZAMBEEF-PROD-001", "product": "Chicken", "agreedQuantityKg": 10000, "pricePerKg": 1.5, "startDate": "2026-05-01", "endDate": "2026-12-31", "status": "Active - Supply to Zambeef Retail"},
+  {"contractId": "CF2026-ZMB-ZAMBEEF-05", "farmerId": "ZMB-ZAMBEEF-FARM-001", "processorId": "ZMB-ZAMBEEF-PROD-001", "product": "Cattle", "agreedQuantityHead": 75, "pricePerKg": 2.85, "startDate": "2026-06-01", "endDate": "2026-11-30", "status": "Active - Zambeef Farm"}
+]

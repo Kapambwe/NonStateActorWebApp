@@ -1,0 +1,17 @@
+[
+  {
+    "projectId": "PROJ-OA-001",
+    "projectName": "Supplier Development Program",
+    "district": "Multiple",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "budget": 10000000.0,
+    "currency": "ZMW",
+    "beneficiaries": 1350,
+    "objectives": [
+      "Improve quality",
+      "Increase supply"
+    ],
+    "status": "Active"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZMB-GIZ-001", "productId": "MAIZE-ZMB-008", "farmerId": "ZNFU-F-001", "programId": "ZMB-GIZ-PROJ-001", "deliveryDate": "2026-04-14", "quantityKg": 8000, "status": "Distributed to Farmers", "location": "Project Farms, Rural Lusaka"},
+  {"trackingId": "PT2026-ZMB-GIZ-002", "productId": "SOYBEANS-ZMB-006", "farmerId": "ZNFU-F-001", "programId": "ZMB-GIZ-PROJ-001", "deliveryDate": "2026-04-15", "quantityKg": 7500, "status": "Delivered to Cooperative", "location": "ZNFU Cooperative, Chipata"},
+  {"trackingId": "PT2026-ZMB-GIZ-003", "productId": "FERTILIZER-ZMB-003", "farmerId": "ZNFU-F-001", "programId": "ZMB-GIZ-PROJ-001", "deliveryDate": "2026-04-16", "quantityKg": 10000, "status": "Distributed by GIZ", "location": "Project Areas"},
+  {"trackingId": "PT2026-ZMB-GIZ-004", "productId": "CATTLE-ZMB-002", "farmerId": "ZNFU-F-001", "programId": "ZMB-GIZ-PROJ-001", "deliveryDate": "2026-04-17", "quantityKg": 1500, "status": "Transported to Market", "location": "Lusaka Livestock Market"},
+  {"trackingId": "PT2026-ZMB-GIZ-005", "productId": "MAIZE-ZMB-009", "farmerId": "ZNFU-F-001", "programId": "ZMB-GIZ-PROJ-001", "deliveryDate": "2026-04-18", "quantityKg": 9000, "status": "Sold to Buyer", "location": "Zambian Agri-Products Ltd."}
+]

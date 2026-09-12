@@ -1,0 +1,62 @@
+[
+  {
+    "groupId": "FG-FAO-001",
+    "groupName": "Tonkolili Climate-Smart Farmers Network",
+    "location": "Tonkolili District",
+    "totalMembers": 320,
+    "femaleMembers": 154,
+    "chairman": "Foday Mansaray",
+    "contactNumber": "+232-76-888111",
+    "dateFormed": "2022-10-01T00:00:00Z",
+    "focusArea": "Climate adaptation and sustainable intensification",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-FAO-002",
+    "groupName": "Bombali Women in Agriculture Cooperative",
+    "location": "Bombali District",
+    "totalMembers": 210,
+    "femaleMembers": 168,
+    "chairman": "Aminata Koroma",
+    "contactNumber": "+232-76-888222",
+    "dateFormed": "2022-11-15T00:00:00Z",
+    "focusArea": "Women empowerment and food security",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-FAO-003",
+    "groupName": "Port Loko Rice Farmers Alliance",
+    "location": "Port Loko District",
+    "totalMembers": 180,
+    "femaleMembers": 72,
+    "chairman": "Mohamed Conteh",
+    "contactNumber": "+232-76-888555",
+    "dateFormed": "2023-01-10T00:00:00Z",
+    "focusArea": "Rice production and marketing",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-FAO-004",
+    "groupName": "Koinadugu Groundnut Producers Group",
+    "location": "Koinadugu District",
+    "totalMembers": 145,
+    "femaleMembers": 60,
+    "chairman": "Ibrahim Bangura",
+    "contactNumber": "+232-76-888333",
+    "dateFormed": "2023-02-20T00:00:00Z",
+    "focusArea": "Groundnut value chain development",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-FAO-005",
+    "groupName": "Kenema Youth Agropreneurs",
+    "location": "Kenema District",
+    "totalMembers": 95,
+    "femaleMembers": 40,
+    "chairman": "David Fofanah",
+    "contactNumber": "+232-76-888666",
+    "dateFormed": "2023-04-01T00:00:00Z",
+    "focusArea": "Youth employment and agri-business",
+    "isActive": true
+  }
+]

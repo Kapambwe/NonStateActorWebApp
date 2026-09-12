@@ -1,0 +1,20 @@
+[
+  {
+    "componentId": "PP-AUTH-001",
+    "institutionId": "Retail-PickPay",
+    "componentName": "Retail Supply Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.SupplyChain.Overview.View",
+      "NonStateActor.SupplyChain.Actors.View",
+      "NonStateActor.SupplyChain.ProduceMarketplace.View",
+      "NonStateActor.SupplyChain.Orders.View",
+      "NonStateActor.Ecosystem.OfftakeDashboard.View",
+      "NonStateActor.WarehouseReceipts.View"
+    ],
+    "description": "Portal for Pick n Pay fresh food supply management"
+  }
+]

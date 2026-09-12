@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZMB-TRADEKINGS-01", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-TRADEKINGS-MFG-001", "buyerId": "ZMB-SHOPRITE-RETAILER-001", "product": "Maize", "agreedQuantityKg": 12000, "pricePerKg": 0.31, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active - Supply to Shoprite"},
+  {"contractId": "CF2026-ZMB-TRADEKINGS-02", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-TRADEKINGS-MFG-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goats", "agreedQuantityHead": 200, "pricePerHead": 90, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active - Supply to Buyer"},
+  {"contractId": "CF2026-ZMB-TRADEKINGS-03", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-TRADEKINGS-MFG-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goat Meat", "agreedQuantityKg": 1000, "pricePerKg": 3.0, "startDate": "2026-06-01", "endDate": "2026-11-30", "status": "Active - Supply to Buyer"},
+  {"contractId": "CF2026-ZMB-TRADEKINGS-04", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-TRADEKINGS-MFG-001", "buyerId": "ZMB-SHOPRITE-RETAILER-001", "product": "Chicken", "agreedQuantityKg": 8000, "pricePerKg": 1.6, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active - Supply to Retailer"},
+  {"contractId": "CF2026-ZMB-TRADEKINGS-05", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-TRADEKINGS-MFG-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Cattle", "agreedQuantityHead": 70, "pricePerKg": 2.8, "startDate": "2026-08-01", "endDate": "2026-11-30", "status": "Active - Supply to Buyer"}
+]

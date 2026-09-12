@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZAF-SIYAZISA-001", "productId": "FISH-ZAF-003", "farmerId": "ZAF-SIYAZISA-COMM-001", "programId": "ZAF-SIYAZISA-PROG-001", "deliveryDate": "2026-04-10", "quantityKg": 1000, "status": "Distributed to Communities", "location": "Coastal Communities, KZN"},
+  {"trackingId": "PT2026-ZAF-SIYAZISA-002", "productId": "AGRICULTURAL-TRAINING-ZAF-001", "farmerId": "ZAF-SIYAZISA-COMM-001", "programId": "ZAF-SIYAZISA-PROG-001", "deliveryDate": "2026-04-11", "quantityUnits": 50, "status": "Completed Training", "location": "Community Center, KZN"},
+  {"trackingId": "PT2026-ZAF-SIYAZISA-003", "productId": "SEAFOOD-ZAF-001", "farmerId": "ZAF-SIYAZISA-COMM-001", "programId": "ZAF-SIYAZISA-PROG-001", "deliveryDate": "2026-04-12", "quantityKg": 800, "status": "Sold to Buyer", "location": "Local Market, KZN"},
+  {"trackingId": "PT2026-ZAF-SIYAZISA-004", "productId": "FISH-ZAF-004", "farmerId": "ZAF-SIYAZISA-COMM-001", "programId": "ZAF-SIYAZISA-PROG-001", "deliveryDate": "2026-04-13", "quantityKg": 1200, "status": "Exported", "location": "Durban Port"},
+  {"trackingId": "PT2026-ZAF-SIYAZISA-005", "productId": "VEGETABLES-ZAF-001", "farmerId": "ZAF-SIYAZISA-COMM-001", "programId": "ZAF-SIYAZISA-PROG-001", "deliveryDate": "2026-04-14", "quantityKg": 1000, "status": "Delivered to Local Markets", "location": "Coastal Towns"}
+]

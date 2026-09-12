@@ -1,0 +1,19 @@
+﻿[
+  {
+    "farmerId": "F-UG-R01",
+    "name": "Robert Mukasa",
+    "age": 43,
+    "gender": "Male",
+    "contactNumber": "+256-772-111222",
+    "district": "Mukono",
+    "chiefdom": "Kyaggwe",
+    "village": "Seeta",
+    "farmSize": 6.5,
+    "primaryCrop": "Bananas",
+    "secondaryCrops": ["Pineapples"],
+    "registrationDate": "2023-11-15T00:00:00Z",
+    "groupMembership": "FG-UG-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

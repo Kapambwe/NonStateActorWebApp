@@ -1,0 +1,15 @@
+[
+  {
+    "transactionId": "FIN-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "transactionType": "Income",
+    "category": "SeedSale",
+    "amount": 1250000,
+    "currency": "SLE",
+    "date": "2024-01-12T00:00:00Z",
+    "description": "Payment for 250kg certified rice seeds",
+    "paymentMethod": "BankTransfer",
+    "referenceNumber": "FAO-2024-001"
+  }
+]

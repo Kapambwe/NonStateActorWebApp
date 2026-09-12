@@ -1,0 +1,38 @@
+[
+  {
+    "distributionId": "DIST-ZB-001",
+    "inputType": "Veterinary Supplies",
+    "inputName": "Cattle Vaccines (FMD, Anthrax)",
+    "quantity": 15000.0,
+    "unit": "doses",
+    "district": "Mkushi",
+    "beneficiaries": 420,
+    "distributionDate": "2024-11-10T00:00:00Z",
+    "collectionPoint": "CP-ZB-001",
+    "status": "Completed"
+  },
+  {
+    "distributionId": "DIST-ZB-002",
+    "inputType": "Mineral Supplements",
+    "inputName": "Cattle Lick Blocks",
+    "quantity": 8500.0,
+    "unit": "blocks (25kg each)",
+    "district": "Chisamba",
+    "beneficiaries": 285,
+    "distributionDate": "2024-12-05T00:00:00Z",
+    "collectionPoint": "CP-ZB-002",
+    "status": "Completed"
+  },
+  {
+    "distributionId": "DIST-ZB-003",
+    "inputType": "Feed Supplements",
+    "inputName": "Protein Concentrate",
+    "quantity": 12000.0,
+    "unit": "kg",
+    "district": "Monze",
+    "beneficiaries": 195,
+    "distributionDate": "2025-01-08T00:00:00Z",
+    "collectionPoint": "CP-ZB-003",
+    "status": "Completed"
+  }
+]

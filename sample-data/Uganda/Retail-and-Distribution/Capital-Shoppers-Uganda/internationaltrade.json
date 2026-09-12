@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-UG-CAPS-EXP01", "exporterId": "UG-CAPS-B-001", "importerCountry": "Kenya", "product": "Coffee Beans", "quantityKg": 2000, "exportDate": "2026-05-10", "valueUSD": 7000, "status": "Exported"},
+  {"tradeId": "IT2026-UG-CAPS-EXP02", "exporterId": "UG-CAPS-S-001", "importerCountry": "Rwanda", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-15", "valueUSD": 3000, "status": "Exported"},
+  {"tradeId": "IT2026-UG-CAPS-IMP01", "importerId": "UG-CAPS-B-001", "exporterCountry": "South Africa", "product": "Processed Foods", "quantityUnits": 5000, "importDate": "2026-04-23", "valueUSD": 20000, "status": "Imported"},
+  {"tradeId": "IT2026-UG-CAPS-IMP02", "importerId": "UG-CAPS-B-001", "exporterCountry": "China", "product": "Electronics", "quantityUnits": 100, "importDate": "2026-04-28", "valueUSD": 50000, "status": "Imported"},
+  {"tradeId": "IT2026-UG-CAPS-EXP03", "exporterId": "UG-CAPS-S-001", "importerCountry": "Tanzania", "product": "Cotton Lint", "quantityKg": 5000, "exportDate": "2026-05-20", "valueUSD": 7500, "status": "Exported"}
+]

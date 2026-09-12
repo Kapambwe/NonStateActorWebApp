@@ -1,0 +1,16 @@
+[
+  {
+    "initiativeId": "GI-OA-001",
+    "initiativeName": "Women Farmer Support",
+    "district": "Lusaka",
+    "targetGroup": "Women Farmers",
+    "totalParticipants": 45,
+    "femaleParticipants": 45,
+    "activities": [
+      "Training",
+      "Market access"
+    ],
+    "startDate": "2024-06-01T00:00:00Z",
+    "status": "Active"
+  }
+]

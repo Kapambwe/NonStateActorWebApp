@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-CH-COFCO-001", "productId": "GRAINS-CH-001", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "deliveryDate": "2026-04-10", "quantityKg": 10000, "status": "Processed", "location": "COFCO Processing Plant, Bern"},
+  {"trackingId": "PT2026-CH-COFCO-002", "productId": "DAIRY-CH-001", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "deliveryDate": "2026-04-11", "quantityKg": 5000, "status": "Packaged", "location": "COFCO Processing Plant, Bern"},
+  {"trackingId": "PT2026-CH-COFCO-003", "productId": "WINE-CH-001", "processorId": "CH-COFCO-PROC-001", "deliveryDate": "2026-04-12", "quantityLiters": 8000, "status": "Distributed", "location": "COFCO Distribution Center"},
+  {"trackingId": "PT2026-CH-COFCO-004", "productId": "MEAT-CH-001", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "deliveryDate": "2026-04-13", "quantityKg": 6000, "status": "Sold to Retail", "location": "COFCO Retail Outlets"},
+  {"trackingId": "PT2026-CH-COFCO-005", "productId": "PACKAGED-FOOD-CH-001", "processorId": "CH-COFCO-PROC-001", "deliveryDate": "2026-04-14", "quantityUnits": 10000, "status": "Shipped to Retailers", "location": "Various Retail Outlets"}
+]

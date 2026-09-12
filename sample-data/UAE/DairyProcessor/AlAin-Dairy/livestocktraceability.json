@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-UAE-ALAIND-1001", "animalId": "COW-UAE-101", "ownerId": "UAE-ALAIND-FARM-001", "species": "Cattle", "breed": "Holstein", "birthDate": "2023-05-01", "lastLocation": "Al Ain Dairy Farm", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-ALAIND-1002", "animalId": "GOAT-UAE-201", "ownerId": "UAE-ALAIND-FARM-001", "species": "Goat", "breed": "Saanen", "birthDate": "2024-01-10", "lastLocation": "Al Ain Dairy Farm", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-ALAIND-1003", "animalId": "CAMEL-UAE-301", "ownerId": "UAE-ALAIND-FARM-001", "species": "Camel", "breed": "Arabian Camel", "birthDate": "2022-11-20", "lastLocation": "Al Ain Dairy Farm", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-UAE-ALAIND-1004", "animalId": "COW-UAE-102", "ownerId": "UAE-ALAIND-FARM-001", "species": "Cattle", "breed": "Jersey", "birthDate": "2023-06-01", "lastLocation": "Al Ain Dairy Farm", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-ALAIND-1005", "animalId": "SHEEP-UAE-401", "ownerId": "UAE-ALAIND-FARM-001", "species": "Sheep", "breed": "Awassi", "birthDate": "2024-02-01", "lastLocation": "Al Ain Dairy Farm", "healthStatus": "Good"}
+]

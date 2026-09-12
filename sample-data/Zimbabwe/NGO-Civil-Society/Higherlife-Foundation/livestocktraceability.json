@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZIM-HLF-1001", "animalId": "GOAT-ZIM-180", "ownerId": "ZIM-ZFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-02-20", "lastLocation": "Project Farm, Zimbabwe", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZIM-HLF-1002", "animalId": "CATTLE-ZIM-415", "ownerId": "ZIM-ZFU-F-001", "species": "Cattle", "breed": "Nguni", "birthDate": "2023-09-01", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZIM-HLF-1003", "animalId": "CHICKEN-ZIM-710", "ownerId": "ZIM-ZFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-01", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Healthy - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZIM-HLF-1004", "animalId": "GOAT-ZIM-181", "ownerId": "ZIM-HLF-PROG-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-10", "lastLocation": "HLF Project Farm, Zimbabwe", "healthStatus": "Good - HLF Program Animal"},
+  {"traceId": "LIVESTOCK-ZIM-HLF-1005", "animalId": "CATTLE-ZIM-416", "ownerId": "ZIM-ZFU-F-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-10-01", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - NGO Initiative"}
+]

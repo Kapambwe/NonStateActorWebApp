@@ -1,0 +1,24 @@
+[
+  {
+    "deliveryId": "DEL-GIZ-001",
+    "orderId": "ORD-GIZ-045",
+    "farmerGroup": "FG-GIZ-003",
+    "deliveryType": "Input Distribution",
+    "items": "Drought-resistant maize seeds, Fertilizer",
+    "quantity": "500 kg seeds, 1000 kg fertilizer",
+    "destination": "Chisamba District Collection Point",
+    "scheduledDate": "2025-01-25T00:00:00Z",
+    "status": "Scheduled"
+  },
+  {
+    "deliveryId": "DEL-GIZ-002",
+    "orderId": "ORD-GIZ-052",
+    "farmerGroup": "FG-GIZ-007",
+    "deliveryType": "Equipment Loan",
+    "items": "Drip irrigation kits",
+    "quantity": "25 kits",
+    "destination": "Mkushi District Hub",
+    "scheduledDate": "2025-02-05T00:00:00Z",
+    "status": "Pending"
+  }
+]

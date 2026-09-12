@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-ZAMGOAT-FARM-001", "name": "ZamGoat Farm", "type": "Farmer", "location": "Southern Province, Zambia", "contactPerson": "Esther Mwila", "registrationDate": "2020-07-01"},
+  {"actorId": "ZMB-ZAMGOAT-COOP-001", "name": "ZamGoat Cooperative", "type": "Cooperative", "location": "Livingstone, Zambia", "contactPerson": "David Simataa", "registrationDate": "2021-03-15"},
+  {"actorId": "ZMB-ZAMGOAT-BUYER-001", "name": "ZamGoat Meat Buyers", "type": "Buyer", "location": "Lusaka, Zambia", "contactPerson": "Peter Chisanga", "registrationDate": "2022-01-10"},
+  {"actorId": "ZMB-ZAMGOAT-VET-001", "name": "ZamGoat Veterinary Services", "type": "Veterinary", "location": "Livingstone, Zambia", "contactPerson": "Dr. Mwaba", "registrationDate": "2019-08-01"},
+  {"actorId": "ZMB-ZAMGOAT-GOVT-001", "name": "Ministry of Fisheries and Livestock (Zambia)", "type": "Government Agency", "location": "Lusaka, Zambia", "contactPerson": "Hon. Minister", "registrationDate": "1980-01-01"}
+]

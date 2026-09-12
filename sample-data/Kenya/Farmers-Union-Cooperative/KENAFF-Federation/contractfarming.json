@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-KEN-KENAFF-01", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "buyerId": "KEN-KENAFF-BUYER-001", "product": "Maize", "agreedQuantityKg": 10000, "pricePerKg": 2.4, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-KEN-KENAFF-02", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "buyerId": "KEN-KENAFF-BUYER-001", "product": "Coffee Beans", "agreedQuantityKg": 7000, "pricePerKg": 3.0, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-KEN-KENAFF-03", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "buyerId": "KEN-KENAFF-BUYER-001", "product": "Tea Leaves", "agreedQuantityKg": 5000, "pricePerKg": 2.5, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-KEN-KENAFF-04", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "buyerId": "KEN-KENAFF-BUYER-001", "product": "Cotton", "agreedQuantityKg": 4000, "pricePerKg": 1.2, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-KEN-KENAFF-05", "farmerId": "KEN-KENAFF-F-001", "cooperativeId": "KEN-KENAFF-FED-001", "buyerId": "KEN-KENAFF-BUYER-001", "product": "Horticulture", "agreedQuantityKg": 6000, "pricePerKg": 1.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"}
+]

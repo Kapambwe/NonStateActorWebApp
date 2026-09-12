@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-ZAMGOAT-EXP01", "exporterId": "ZMB-ZAMGOAT-COOP-001", "importerCountry": "Malawi", "product": "Goats", "quantityHead": 500, "exportDate": "2026-05-01", "valueUSD": 45000, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-ZAMGOAT-EXP02", "exporterId": "ZMB-ZAMGOAT-COOP-001", "importerCountry": "Botswana", "product": "Goat Meat", "quantityKg": 1000, "exportDate": "2026-05-05", "valueUSD": 3000, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-ZAMGOAT-EXP03", "exporterId": "ZMB-ZAMGOAT-BUYER-001", "importerCountry": "South Africa", "product": "Goats", "quantityHead": 300, "exportDate": "2026-05-10", "valueUSD": 27000, "status": "Exported"},
+  {"tradeId": "IT2026-ZMB-ZAMGOAT-IMP01", "importerId": "ZMB-ZAMGOAT-BUYER-001", "exporterCountry": "South Africa", "product": "Animal Feed", "quantityKg": 5000, "importDate": "2026-04-28", "valueUSD": 10000, "status": "Imported"},
+  {"tradeId": "IT2026-ZMB-ZAMGOAT-EXP04", "exporterId": "ZMB-ZAMGOAT-COOP-001", "importerCountry": "DRC", "product": "Goat Meat", "quantityKg": 800, "exportDate": "2026-05-15", "valueUSD": 2400, "status": "Exported"}
+]

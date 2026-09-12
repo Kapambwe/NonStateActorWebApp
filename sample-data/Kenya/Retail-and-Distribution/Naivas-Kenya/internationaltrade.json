@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-KEN-NAIVAS-IMP01", "importerId": "KEN-NAIVAS-RETAILER-001", "exporterCountry": "Uganda", "product": "Dairy Products", "quantityUnits": 8000, "importDate": "2026-04-23", "valueUSD": 30000, "status": "Imported by Naivas Kenya"},
+  {"tradeId": "IT2026-KEN-NAIVAS-IMP02", "importerId": "KEN-NAIVAS-RETAILER-001", "exporterCountry": "South Africa", "product": "Processed Foods", "quantityUnits": 6000, "importDate": "2026-04-24", "valueUSD": 25000, "status": "Imported by Naivas Kenya"},
+  {"tradeId": "IT2026-KEN-NAIVAS-IMP03", "importerId": "KEN-NAIVAS-RETAILER-001", "exporterCountry": "China", "product": "Electronics", "quantityUnits": 150, "importDate": "2026-04-28", "valueUSD": 75000, "status": "Imported by Naivas Kenya"},
+  {"tradeId": "IT2026-KEN-NAIVAS-EXP01", "exporterId": "KEN-NAIVAS-SUP-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-01", "valueUSD": 3000, "status": "Exported to Malawi"},
+  {"tradeId": "IT2026-KEN-NAIVAS-EXP02", "exporterId": "KEN-NAIVAS-SUP-001", "importerCountry": "Tanzania", "product": "Coffee Beans", "quantityKg": 7000, "exportDate": "2026-05-05", "valueUSD": 21000, "status": "Exported to Tanzania"}
+]

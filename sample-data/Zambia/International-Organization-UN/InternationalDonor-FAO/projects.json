@@ -1,0 +1,67 @@
+[
+  {
+    "projectId": "PROJ-FAO-001",
+    "projectName": "Climate-Resilient Agriculture and Food Systems",
+    "description": "FAO program to build resilience of smallholder farmers to climate change",
+    "startDate": "2022-01-01T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "budget": 15000000000,
+    "spentToDate": 7500000000,
+    "district": "Tonkolili, Bombali, Koinadugu",
+    "totalBeneficiaries": 1250,
+    "projectManager": "Dr. Alice Bangura",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-FAO-002",
+    "projectName": "Women's Food Security and Nutrition Initiative",
+    "description": "Targeted program to improve nutrition outcomes for women and children",
+    "startDate": "2023-03-01T00:00:00Z",
+    "endDate": "2025-12-31T00:00:00Z",
+    "budget": 8500000000,
+    "spentToDate": 3200000000,
+    "district": "Bombali, Port Loko",
+    "totalBeneficiaries": 850,
+    "projectManager": "Ms. Hawa Turay",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-FAO-003",
+    "projectName": "Rice Value Chain Strengthening Program",
+    "description": "End-to-end rice value chain development from production to market",
+    "startDate": "2021-06-01T00:00:00Z",
+    "endDate": "2024-06-30T00:00:00Z",
+    "budget": 12000000000,
+    "spentToDate": 11500000000,
+    "district": "Port Loko, Tonkolili",
+    "totalBeneficiaries": 2100,
+    "projectManager": "Mr. James Kamara",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-FAO-004",
+    "projectName": "Youth Agri-Business Development",
+    "description": "Building the next generation of agricultural entrepreneurs",
+    "startDate": "2023-09-01T00:00:00Z",
+    "endDate": "2027-08-31T00:00:00Z",
+    "budget": 6000000000,
+    "spentToDate": 800000000,
+    "district": "Kenema, Kailahun",
+    "totalBeneficiaries": 450,
+    "projectManager": "Ms. Mariama Jalloh",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-FAO-005",
+    "projectName": "Soil Health and Fertiliser Access Programme",
+    "description": "Improving soil fertility management and subsidised fertiliser access",
+    "startDate": "2020-01-01T00:00:00Z",
+    "endDate": "2023-12-31T00:00:00Z",
+    "budget": 4000000000,
+    "spentToDate": 4000000000,
+    "district": "All Districts",
+    "totalBeneficiaries": 5000,
+    "projectManager": "Dr. Sorie Kamara",
+    "status": "Completed"
+  }
+]

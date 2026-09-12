@@ -1,0 +1,7 @@
+[
+  {"actorId": "KEN-NAIVAS-RETAILER-001", "name": "Naivas Kenya", "type": "Retailer", "location": "Nairobi, Kenya", "contactPerson": "Willy Kimani", "registrationDate": "1990-01-01"},
+  {"actorId": "KEN-NAIVAS-SUP-001", "name": "Naivas Supplier Network", "type": "Supplier Network", "location": "Nationwide, Kenya", "contactPerson": "Jane Wanjiku", "registrationDate": "1995-07-07"},
+  {"actorId": "KEN-NAIVAS-DIST-001", "name": "Naivas Distribution Center", "type": "Logistics", "location": "Nairobi, Kenya", "contactPerson": "Peter Mwangi", "registrationDate": "1998-01-01"},
+  {"actorId": "KEN-NAIVAS-GOVT-001", "name": "Ministry of Trade and Industry (Kenya)", "type": "Government Agency", "location": "Nairobi, Kenya", "contactPerson": "Cabinet Secretary", "registrationDate": "1975-01-01"},
+  {"actorId": "KEN-NAIVAS-BANK-001", "name": "KCB Bank Kenya", "type": "Financial Institution", "location": "Nairobi, Kenya", "contactPerson": "Branch Manager", "registrationDate": "1970-01-01"}
+]

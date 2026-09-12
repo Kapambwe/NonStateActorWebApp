@@ -1,0 +1,53 @@
+﻿[
+  {
+    "farmerId": "F-ZA-001",
+    "name": "Thabo Mbeki",
+    "age": 52,
+    "gender": "Male",
+    "contactNumber": "+27-82-1112222",
+    "district": "Free State",
+    "chiefdom": "Bethlehem",
+    "village": "Clarens",
+    "farmSize": 550.0,
+    "primaryCrop": "Maize",
+    "secondaryCrops": ["Wheat", "Sunflowers"],
+    "registrationDate": "2023-01-10T00:00:00Z",
+    "groupMembership": "FG-ZA-001",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZA-002",
+    "name": "Nomvula Zulu",
+    "age": 41,
+    "gender": "Female",
+    "contactNumber": "+27-83-3334444",
+    "district": "KwaZulu-Natal",
+    "chiefdom": "Eshowe",
+    "village": "Melmoth",
+    "farmSize": 15.5,
+    "primaryCrop": "Sugar Cane",
+    "secondaryCrops": ["Vegetables"],
+    "registrationDate": "2023-02-15T00:00:00Z",
+    "groupMembership": "FG-ZA-001",
+    "nutritionTraining": true,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZA-003",
+    "name": "Pieter van Wyk",
+    "age": 48,
+    "gender": "Male",
+    "contactNumber": "+27-84-5556666",
+    "district": "Western Cape",
+    "chiefdom": "Stellenbosch",
+    "village": "Franschhoek",
+    "farmSize": 85.0,
+    "primaryCrop": "Grapes",
+    "secondaryCrops": ["Apples"],
+    "registrationDate": "2023-03-20T00:00:00Z",
+    "groupMembership": "FG-ZA-002",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

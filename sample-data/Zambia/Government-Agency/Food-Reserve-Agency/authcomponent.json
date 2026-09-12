@@ -1,0 +1,23 @@
+[
+  {
+    "componentId": "FRA-AUTH-001",
+    "institutionId": "Gov-FRA",
+    "componentName": "Strategic Reserve Operations Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.Dashboard.EnhancedView",
+      "NonStateActor.Ecosystem.OfftakeDashboard.View",
+      "NonStateActor.Ecosystem.AggregatorOperations.View",
+      "NonStateActor.WarehouseReceipts.View",
+      "NonStateActor.WarehouseReceipts.IssueReceipt",
+      "NonStateActor.WarehouseReceipts.MyReceipts",
+      "NonStateActor.SupplyChain.Overview.View",
+      "NonStateActor.Monitoring.Dashboard.View",
+      "NonStateActor.Reports.Donor.View"
+    ],
+    "description": "National portal for strategic reserve management, offtake tracking, and warehouse oversight"
+  }
+]

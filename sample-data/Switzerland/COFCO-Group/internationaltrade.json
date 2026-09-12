@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-CH-COFCO-EXP01", "exporterId": "CH-COFCO-PROC-001", "importerCountry": "France", "product": "Grains", "quantityKg": 50000, "exportDate": "2026-05-10", "valueUSD": 50000, "status": "Exported by COFCO Switzerland"},
+  {"tradeId": "IT2026-CH-COFCO-EXP02", "exporterId": "CH-COFCO-PROC-001", "importerCountry": "Germany", "product": "Dairy", "quantityKg": 20000, "exportDate": "2026-05-15", "valueUSD": 20000, "status": "Exported by COFCO Switzerland"},
+  {"tradeId": "IT2026-CH-COFCO-IMP01", "importerId": "CH-COFCO-RETAIL-001", "exporterCountry": "Italy", "product": "Packaging", "quantityUnits": 10000, "importDate": "2026-04-25", "valueUSD": 10000, "status": "Imported by COFCO Retail"},
+  {"tradeId": "IT2026-CH-COFCO-EXP03", "exporterId": "CH-COFCO-PROC-001", "importerCountry": "Austria", "product": "Meat", "quantityKg": 15000, "exportDate": "2026-05-20", "valueUSD": 75000, "status": "Exported by COFCO Switzerland"},
+  {"tradeId": "IT2026-CH-COFCO-EXP04", "exporterId": "CH-COFCO-PROC-001", "importerCountry": "Belgium", "product": "Wine", "quantityLiters": 10000, "exportDate": "2026-05-25", "valueUSD": 50000, "status": "Exported by COFCO Switzerland"}
+]

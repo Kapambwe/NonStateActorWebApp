@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-SHOPRITE-IMP01", "importerId": "ZMB-SHOPRITE-RETAILER-001", "exporterCountry": "South Africa", "product": "Processed Foods", "quantityUnits": 5000, "importDate": "2026-04-22", "valueUSD": 20000, "status": "Imported by Shoprite Zambia"},
+  {"tradeId": "IT2026-ZMB-SHOPRITE-IMP02", "importerId": "ZMB-SHOPRITE-RETAILER-001", "exporterCountry": "Kenya", "product": "Dairy Products", "quantityUnits": 3000, "importDate": "2026-04-23", "valueUSD": 15000, "status": "Imported by Shoprite Zambia"},
+  {"tradeId": "IT2026-ZMB-SHOPRITE-IMP03", "importerId": "ZMB-SHOPRITE-RETAILER-001", "exporterCountry": "EU", "product": "Consumer Goods", "quantityUnits": 10000, "importDate": "2026-04-24", "valueUSD": 40000, "status": "Imported by Shoprite Zambia"},
+  {"tradeId": "IT2026-ZMB-SHOPRITE-EXP01", "exporterId": "ZMB-SHOPRITE-SUP-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-01", "valueUSD": 3000, "status": "Exported to Malawi"},
+  {"tradeId": "IT2026-ZMB-SHOPRITE-EXP02", "exporterId": "ZMB-SHOPRITE-SUP-001", "importerCountry": "DRC", "product": "Chicken", "quantityKg": 5000, "exportDate": "2026-05-05", "valueUSD": 7500, "status": "Exported to DRC"}
+]

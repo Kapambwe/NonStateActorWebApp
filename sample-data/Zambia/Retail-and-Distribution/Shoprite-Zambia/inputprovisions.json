@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1001,
+    "contractId": 1,
+    "inputType": "Seeds",
+    "inputName": "Broiler Chicks (Day Old)",
+    "quantity": 5000,
+    "unit": "Units",
+    "cost": 75000,
+    "provisionDate": "2026-01-20T00:00:00Z",
+    "recovered": false,
+    "recoveredAmount": 0,
+    "notes": "Premium grade broiler chicks"
+  },
+  {
+    "id": 1002,
+    "contractId": 1,
+    "inputType": "Feed",
+    "inputName": "Broiler Starter Mash",
+    "quantity": 250,
+    "unit": "Bags (50kg)",
+    "cost": 125000,
+    "provisionDate": "2026-01-20T00:00:00Z",
+    "recovered": false,
+    "recoveredAmount": 0,
+    "notes": "Initial feeding stock"
+  }
+]

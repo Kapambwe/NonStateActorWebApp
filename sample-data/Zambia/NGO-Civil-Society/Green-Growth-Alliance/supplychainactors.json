@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-GGA-NGO-001", "name": "Green Growth Alliance Zambia", "type": "NGO", "location": "Lusaka, Zambia", "contactPerson": "Mirriam Chanda", "registrationDate": "2017-08-01"},
+  {"actorId": "ZMB-GGA-PROJ-001", "name": "Zambian Soil Health Initiative", "type": "Project", "location": "Rural Zambia", "contactPerson": "Peter Davies", "registrationDate": "2023-02-10"},
+  {"actorId": "ZMB-GGA-AGRI-001", "name": "Zambian Agri-Extension Services", "type": "Service Provider", "location": "Various Districts, Zambia", "contactPerson": "Esther Mwila", "registrationDate": "2018-07-01"},
+  {"actorId": "ZMB-GGA-CONS-001", "name": "Green Growth Consultants", "type": "Consultancy", "location": "Lusaka, Zambia", "contactPerson": "David Phiri", "registrationDate": "2020-01-01"},
+  {"actorId": "ZMB-GGA-GOVT-001", "name": "Ministry of Agriculture (Zambia)", "type": "Government Agency", "location": "Lusaka, Zambia", "contactPerson": "Hon. Minister", "registrationDate": "1980-01-01"}
+]

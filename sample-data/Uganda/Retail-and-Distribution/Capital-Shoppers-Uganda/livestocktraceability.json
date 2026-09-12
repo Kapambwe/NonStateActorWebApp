@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-UG-CS-1001", "animalId": "GOAT-UG-045", "ownerId": "UG-CAPS-F-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2023-11-15", "lastLocation": "Pearl Farm Produce, Masaka", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UG-CS-1002", "animalId": "CATTLE-UG-101", "ownerId": "UG-CAPS-F-001", "species": "Cattle", "breed": "Boran", "birthDate": "2023-05-20", "lastLocation": "Masaka Farm, Uganda", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UG-CS-1003", "animalId": "CHICKEN-UG-501", "ownerId": "UG-CAPS-F-001", "species": "Chicken", "breed": "Kienyeji", "birthDate": "2024-03-01", "lastLocation": "Pearl Farm Produce, Masaka", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-UG-CS-1004", "animalId": "GOAT-UG-046", "ownerId": "UG-CAPS-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-15", "lastLocation": "Pearl Farm Produce, Masaka", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UG-CS-1005", "animalId": "CATTLE-UG-102", "ownerId": "UG-CAPS-F-001", "species": "Cattle", "breed": "Friesian", "birthDate": "2023-06-01", "lastLocation": "Masaka Farm, Uganda", "healthStatus": "Good"}
+]

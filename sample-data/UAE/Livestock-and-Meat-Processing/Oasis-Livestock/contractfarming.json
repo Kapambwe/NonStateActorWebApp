@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-UAE-OSLS-01", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "product": "Lamb", "agreedQuantityKg": 5000, "pricePerKg": 20.0, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-OSLS-02", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "product": "Beef", "agreedQuantityKg": 7000, "pricePerKg": 25.0, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-UAE-OSLS-03", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "product": "Chicken", "agreedQuantityKg": 4000, "pricePerKg": 10.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-OSLS-04", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "product": "Processed Meats", "agreedQuantityKg": 3000, "pricePerKg": 30.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-OSLS-05", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "product": "Goat Meat", "agreedQuantityKg": 2000, "pricePerKg": 22.0, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

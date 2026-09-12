@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-SA-ALMA-1001", "animalId": "COW-SA-101", "ownerId": "SA-ALMA-FARM-001", "species": "Cattle", "breed": "Holstein", "birthDate": "2023-05-01", "lastLocation": "Almarai Farm, Kharj", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-SA-ALMA-1002", "animalId": "GOAT-SA-201", "ownerId": "SA-ALMA-FARM-001", "species": "Goat", "breed": "Saanen", "birthDate": "2024-01-10", "lastLocation": "Almarai Farm, Kharj", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-SA-ALMA-1003", "animalId": "SHEEP-SA-701", "ownerId": "SA-ALMA-FARM-001", "species": "Sheep", "breed": "Najdi Sheep", "birthDate": "2023-08-15", "lastLocation": "Almarai Farm, Kharj", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-SA-ALMA-1004", "animalId": "CAMEL-SA-401", "ownerId": "SA-ALMA-FARM-001", "species": "Camel", "breed": "Arabian Camel", "birthDate": "2022-11-20", "lastLocation": "Almarai Farm, Kharj", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-SA-ALMA-1005", "animalId": "SHEEP-SA-702", "ownerId": "SA-ALMA-FARM-001", "species": "Sheep", "breed": "Arabian Sheep", "birthDate": "2023-09-01", "lastLocation": "Almarai Farm, Kharj", "healthStatus": "Good"}
+]

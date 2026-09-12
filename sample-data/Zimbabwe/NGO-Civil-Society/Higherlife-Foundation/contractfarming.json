@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZIM-HLF-01", "farmerId": "ZIM-ZFU-F-001", "programManagerId": "ZIM-HLF-PROG-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Maize Seed", "agreedQuantityKg": 10000, "pricePerKg": 1.9, "startDate": "2026-01-01", "endDate": "2026-12-31", "status": "Active - NGO Program"},
+  {"contractId": "CF2026-ZIM-HLF-02", "farmerId": "ZIM-ZFU-F-001", "programManagerId": "ZIM-HLF-AGRI-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Fertilizer", "agreedQuantityKg": 15000, "pricePerKg": 0.85, "startDate": "2026-02-01", "endDate": "2026-11-30", "status": "Active - HLF Funded"},
+  {"contractId": "CF2026-ZIM-HLF-03", "farmerId": "ZIM-ZFU-F-001", "programManagerId": "ZIM-HLF-AGRI-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Goats", "agreedQuantityHead": 150, "pricePerHead": 90, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active - HLF Initiative"},
+  {"contractId": "CF2026-ZIM-HLF-04", "farmerId": "ZIM-ZFU-F-001", "programManagerId": "ZIM-HLF-PROG-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Maize", "agreedQuantityKg": 20000, "pricePerKg": 0.40, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active - NGO Program"},
+  {"contractId": "CF2026-ZIM-HLF-05", "farmerId": "ZIM-ZFU-F-001", "programManagerId": "ZIM-HLF-AGRI-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Cotton", "agreedQuantityKg": 5000, "pricePerKg": 1.2, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active - HLF Facilitated"}
+]

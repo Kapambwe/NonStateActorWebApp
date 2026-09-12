@@ -1,0 +1,19 @@
+[
+  {
+    "tradeId": "IT-FAO-001",
+    "exporterName": "FAO Regional Seed Exchange",
+    "buyerName": "Liberia Agricultural Research Institute",
+    "crop": "Certified NERICA Seeds",
+    "quantity": 3000,
+    "unit": "kg",
+    "unitPrice": 6000,
+    "totalValue": 18000000,
+    "currency": "SLE",
+    "exportDate": "2023-11-20T00:00:00Z",
+    "destinationCountry": "Liberia",
+    "certifications": [
+      "CertifiedSeeds"
+    ],
+    "status": "Completed"
+  }
+]

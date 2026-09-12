@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZIM-OK-RETAILER-001", "name": "OK Zimbabwe", "type": "Retailer", "location": "Harare, Zimbabwe", "contactPerson": "Rudo Chihota", "registrationDate": "1991-01-01"},
+  {"actorId": "ZIM-OK-SUP-001", "name": "OK Zimbabwe Supplier Network", "type": "Supplier Network", "location": "Various, Zimbabwe", "contactPerson": "Tapiwa Murape", "registrationDate": "1995-05-05"},
+  {"actorId": "ZIM-OK-DIST-001", "name": "OK Zimbabwe Distribution Center", "type": "Logistics", "location": "Harare, Zimbabwe", "contactPerson": "Simba Mtetwa", "registrationDate": "1998-01-01"},
+  {"actorId": "ZIM-OK-GOVT-001", "name": "Ministry of Industry and Commerce", "type": "Government Agency", "location": "Harare, Zimbabwe", "contactPerson": "Minister", "registrationDate": "1985-01-01"},
+  {"actorId": "ZIM-OK-BANK-001", "name": "First Capital Bank Zimbabwe", "type": "Financial Institution", "location": "Harare, Zimbabwe", "contactPerson": "Bank Manager", "registrationDate": "1990-01-01"}
+]

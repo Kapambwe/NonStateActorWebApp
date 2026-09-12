@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-ALM-001",
+    "title": "Milk Quality Excellent",
+    "message": "January milk quality tests show 98% compliance with Almarai international standards",
+    "severity": "Info",
+    "category": "Quality Control",
+    "dateCreated": "2025-01-18T07:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-ALM-002",
+    "title": "Feed Delivery Scheduled",
+    "message": "Premium dairy feed shipment arriving Jan 23 at Chisamba facility",
+    "severity": "Info",
+    "category": "Logistics",
+    "dateCreated": "2025-01-19T09:00:00Z",
+    "isRead": false
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZAF-AGRISA-F-001", "name": "AgriSA Farmer Member", "type": "Farmer", "location": "Western Cape, South Africa", "contactPerson": "Jan van der Merwe", "registrationDate": "2015-03-10"},
+  {"actorId": "ZAF-AGRISA-FED-001", "name": "AgriSA", "type": "Federation", "location": "Pretoria, South Africa", "contactPerson": "Dr. Thandiwe Ndlovu", "registrationDate": "1999-07-01"},
+  {"actorId": "ZAF-AGRISA-BUYER-001", "name": "South African Agri-Buyers", "type": "Buyer", "location": "Johannesburg, South Africa", "contactPerson": "Sipho Mokoena", "registrationDate": "2012-01-01"},
+  {"actorId": "ZAF-AGRISA-GOVT-001", "name": "Department of Agriculture, Land Reform and Rural Development", "type": "Government Agency", "location": "Pretoria, South Africa", "contactPerson": "Minister", "registrationDate": "1994-01-01"},
+  {"actorId": "ZAF-AGRISA-TRAIN-001", "name": "AgriSA Training Institute", "type": "Training Center", "location": "Pretoria, South Africa", "contactPerson": "Ms. Botha", "registrationDate": "2000-01-01"}
+]

@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-UAE-ALAIND-001", "productId": "MILK-UAE-001", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "deliveryDate": "2026-04-10", "quantityLiters": 10000, "status": "Processed", "location": "Al Ain Dairy Plant"},
+  {"trackingId": "PT2026-UAE-ALAIND-002", "productId": "YOGURT-UAE-001", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "deliveryDate": "2026-04-11", "quantityKg": 5000, "status": "Packaged", "location": "Al Ain Dairy Plant"},
+  {"trackingId": "PT2026-UAE-ALAIND-003", "productId": "CHEESE-UAE-001", "processorId": "UAE-ALAIND-DAIRY-001", "deliveryDate": "2026-04-12", "quantityKg": 3000, "status": "Distributed", "location": "Al Ain Dairy Distribution Center"},
+  {"trackingId": "PT2026-UAE-ALAIND-004", "productId": "MILK-UAE-002", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "deliveryDate": "2026-04-13", "quantityLiters": 12000, "status": "Sold to Retail", "location": "Naivas Kenya (example)"},
+  {"trackingId": "PT2026-UAE-ALAIND-005", "productId": "JUICE-UAE-001", "processorId": "UAE-ALAIND-DAIRY-001", "deliveryDate": "2026-04-14", "quantityLiters": 8000, "status": "Shipped to Retailers", "location": "Various Retail Outlets"}
+]

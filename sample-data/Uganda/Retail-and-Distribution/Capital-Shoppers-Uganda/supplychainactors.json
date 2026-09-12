@@ -1,0 +1,7 @@
+[
+  {"actorId": "UG-CAPS-B-001", "name": "Capital Shoppers Uganda", "type": "Retailer", "location": "Kampala, Uganda", "contactPerson": "Peter Ssekyanzi", "registrationDate": "2018-07-22"},
+  {"actorId": "UG-CAPS-F-001", "name": "Pearl Farm Produce", "type": "Farmer", "location": "Masaka, Uganda", "contactPerson": "Grace Nakato", "registrationDate": "2019-03-10"},
+  {"actorId": "UG-CAPS-S-001", "name": "Uganda Grains Exporters", "type": "Exporter", "location": "Entebbe, Uganda", "contactPerson": "David Kigozi", "registrationDate": "2020-01-15"},
+  {"actorId": "UG-CAPS-T-001", "name": "Uganda Transport Services", "type": "Logistics", "location": "Jinja, Uganda", "contactPerson": "Sarah Musoke", "registrationDate": "2018-11-01"},
+  {"actorId": "UG-CAPS-M-001", "name": "Ministry of Agriculture Uganda", "type": "Government Agency", "location": "Kampala, Uganda", "contactPerson": "Dr. Henry Okello", "registrationDate": "1990-05-05"}
+]

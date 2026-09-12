@@ -1,0 +1,13 @@
+[
+  {
+    "contractId": "CF2026-ZMB-ZAMBEEF-01",
+    "farmerId": "ZNFU-F-001",
+    "processorId": "ZMB-ZAMBEEF-PROD-001",
+    "product": "Cattle",
+    "agreedQuantityHead": 50,
+    "pricePerKg": 2.8,
+    "startDate": "2026-04-01",
+    "endDate": "2026-09-30",
+    "status": "Active - Supply to Zambeef"
+  }
+]

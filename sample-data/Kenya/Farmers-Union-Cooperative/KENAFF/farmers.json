@@ -1,0 +1,53 @@
+﻿[
+  {
+    "farmerId": "F-KE-001",
+    "name": "Wanjala Kamau",
+    "age": 45,
+    "gender": "Male",
+    "contactNumber": "+254-711-222333",
+    "district": "Kiambu",
+    "chiefdom": "Kikuyu",
+    "village": "Limuru",
+    "farmSize": 5.5,
+    "primaryCrop": "Coffee",
+    "secondaryCrops": ["Tea", "Maize"],
+    "registrationDate": "2023-01-10T00:00:00Z",
+    "groupMembership": "FG-KE-001",
+    "nutritionTraining": true,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-KE-002",
+    "name": "Achieng Odhiambo",
+    "age": 38,
+    "gender": "Female",
+    "contactNumber": "+254-722-333444",
+    "district": "Kisumu",
+    "chiefdom": "Kanyakwar",
+    "village": "Kisian",
+    "farmSize": 3.2,
+    "primaryCrop": "Rice",
+    "secondaryCrops": ["Vegetables"],
+    "registrationDate": "2023-02-15T00:00:00Z",
+    "groupMembership": "FG-KE-001",
+    "nutritionTraining": true,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-KE-003",
+    "name": "Kipkorir Bett",
+    "age": 50,
+    "gender": "Male",
+    "contactNumber": "+254-733-444555",
+    "district": "Uasin Gishu",
+    "chiefdom": "Eldoret",
+    "village": "Moiben",
+    "farmSize": 15.0,
+    "primaryCrop": "Wheat",
+    "secondaryCrops": ["Maize"],
+    "registrationDate": "2023-03-20T00:00:00Z",
+    "groupMembership": "FG-KE-002",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

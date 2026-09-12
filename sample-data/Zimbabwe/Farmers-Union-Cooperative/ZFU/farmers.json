@@ -1,0 +1,36 @@
+﻿[
+  {
+    "farmerId": "F-ZW-001",
+    "name": "Tendai Mtukudzi",
+    "age": 44,
+    "gender": "Male",
+    "contactNumber": "+263-77-111222",
+    "district": "Mazowe",
+    "chiefdom": "Mazowe",
+    "village": "Concession",
+    "farmSize": 12.0,
+    "primaryCrop": "Tobacco",
+    "secondaryCrops": ["Maize", "Cotton"],
+    "registrationDate": "2023-01-10T00:00:00Z",
+    "groupMembership": "FG-ZW-001",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZW-002",
+    "name": "Chipo Moyo",
+    "age": 37,
+    "gender": "Female",
+    "contactNumber": "+263-71-333444",
+    "district": "Gweru",
+    "chiefdom": "Vungu",
+    "village": "Lower Gweru",
+    "farmSize": 5.5,
+    "primaryCrop": "Maize",
+    "secondaryCrops": ["Groundnuts", "Sorghum"],
+    "registrationDate": "2023-02-15T00:00:00Z",
+    "groupMembership": "FG-ZW-001",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

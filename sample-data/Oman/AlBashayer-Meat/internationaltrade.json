@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-OM-ALBA-EXP01", "exporterId": "OM-ALBA-MEAT-001", "importerCountry": "UAE", "product": "Lamb", "quantityKg": 5000, "exportDate": "2026-05-10", "valueUSD": 90000, "status": "Exported by Al Bashayer Meat"},
+  {"tradeId": "IT2026-OM-ALBA-EXP02", "exporterId": "OM-ALBA-MEAT-001", "importerCountry": "Saudi Arabia", "product": "Beef", "quantityKg": 7000, "exportDate": "2026-05-15", "valueUSD": 154000, "status": "Exported by Al Bashayer Meat"},
+  {"tradeId": "IT2026-OM-ALBA-IMP01", "importerId": "OM-ALBA-RETAIL-001", "exporterCountry": "India", "product": "Packaging", "quantityUnits": 2000, "importDate": "2026-04-25", "valueUSD": 10000, "status": "Imported for Al Bashayer Butcher Shops"},
+  {"tradeId": "IT2026-OM-ALBA-EXP03", "exporterId": "OM-ALBA-MEAT-001", "importerCountry": "Yemen", "product": "Chicken", "quantityKg": 4000, "exportDate": "2026-05-20", "valueUSD": 32000, "status": "Exported by Al Bashayer Meat"},
+  {"tradeId": "IT2026-OM-ALBA-IMP02", "importerId": "OM-ALBA-DIST-001", "exporterCountry": "Germany", "product": "Machinery", "quantityUnits": 2, "importDate": "2026-04-30", "valueUSD": 150000, "status": "Imported for Distribution"}
+]

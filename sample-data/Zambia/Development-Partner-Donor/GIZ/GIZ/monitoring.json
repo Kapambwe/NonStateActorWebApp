@@ -1,0 +1,24 @@
+[
+  {
+    "monitoringId": "MON-GIZ-001",
+    "projectId": "PROJ-GIZ-005",
+    "projectName": "Climate Smart Agriculture - Eastern Province",
+    "indicator": "Number of farmers adopting CSA practices",
+    "target": 500,
+    "achieved": 428,
+    "percentageAchieved": 85.6,
+    "reportingPeriod": "Q4 2024",
+    "status": "On Track"
+  },
+  {
+    "monitoringId": "MON-GIZ-002",
+    "projectId": "PROJ-GIZ-008",
+    "projectName": "Women's Agro-enterprise Development",
+    "indicator": "Women-led businesses established",
+    "target": 80,
+    "achieved": 92,
+    "percentageAchieved": 115.0,
+    "reportingPeriod": "Q4 2024",
+    "status": "Exceeding Target"
+  }
+]

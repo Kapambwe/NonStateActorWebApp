@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZIM-ZFU-001", "productId": "TOBACCO-ZIM-004", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "harvestDate": "2026-03-15", "quantityKg": 3000, "status": "Harvested", "location": "Mashonaland Farm, Zimbabwe"},
+  {"trackingId": "PT2026-ZIM-ZFU-002", "productId": "MAIZE-ZIM-008", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "deliveryDate": "2026-04-10", "quantityKg": 5000, "status": "Delivered to Cooperative", "location": "ZFU Cooperative, Harare"},
+  {"trackingId": "PT2026-ZIM-ZFU-003", "productId": "COTTON-ZIM-002", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "deliveryDate": "2026-03-20", "quantityKg": 4000, "status": "Ginned", "location": "Mashonaland Ginning Plant"},
+  {"trackingId": "PT2026-ZIM-ZFU-004", "productId": "TOBACCO-ZIM-005", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "deliveryDate": "2026-04-12", "quantityKg": 3500, "status": "Sold to Buyer", "location": "Zimbabwe Grain Buyers"},
+  {"trackingId": "PT2026-ZIM-ZFU-005", "productId": "WINE-GRAPES-ZIM-001", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "harvestDate": "2026-03-01", "quantityKg": 15000, "status": "Harvested", "location": "Mashonaland Vineyard"}
+]

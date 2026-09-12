@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-GIZ-1001", "animalId": "CATTLE-ZMB-205", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-09-10", "lastLocation": "Project Farm, Rural Lusaka", "healthStatus": "Good - Supported by GIZ program"},
+  {"traceId": "LIVESTOCK-ZMB-GIZ-1002", "animalId": "GOAT-ZMB-175", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-20", "lastLocation": "Project Farm, Rural Lusaka", "healthStatus": "Good - Supported by GIZ"},
+  {"traceId": "LIVESTOCK-ZMB-GIZ-1003", "animalId": "CHICKEN-ZMB-550", "ownerId": "ZNFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-03-05", "lastLocation": "Project Farm, Rural Lusaka", "healthStatus": "Healthy - GIZ supported"},
+  {"traceId": "LIVESTOCK-ZMB-GIZ-1004", "animalId": "CATTLE-ZMB-206", "ownerId": "ZMB-GIZ-PROJ-001", "species": "Cattle", "breed": "Brahman", "birthDate": "2023-10-15", "lastLocation": "GIZ Project Farm, Rural Lusaka", "healthStatus": "Good - GIZ Program Animal"},
+  {"traceId": "LIVESTOCK-ZMB-GIZ-1005", "animalId": "GOAT-ZMB-176", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-02-01", "lastLocation": "Project Farm, Rural Lusaka", "healthStatus": "Good - GIZ Initiative"}
+]

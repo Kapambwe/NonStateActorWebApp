@@ -1,0 +1,26 @@
+[
+  {
+    "actorId": "ZNFU-F-001",
+    "name": "Chibesa Farm",
+    "type": "Farmer",
+    "location": "Rural Lusaka, Zambia",
+    "contactPerson": "Agnes Mwamba",
+    "registrationDate": "2020-05-15"
+  },
+  {
+    "actorId": "ZNFU-C-001",
+    "name": "Eastern Province Grain Cooperative",
+    "type": "Cooperative",
+    "location": "Chipata, Zambia",
+    "contactPerson": "David Lungu",
+    "registrationDate": "2018-11-20"
+  },
+  {
+    "actorId": "ZNFU-B-001",
+    "name": "Zambian Agri-Products Ltd.",
+    "type": "Buyer",
+    "location": "Lusaka, Zambia",
+    "contactPerson": "Samuel Phiri",
+    "registrationDate": "2015-01-10"
+  }
+]

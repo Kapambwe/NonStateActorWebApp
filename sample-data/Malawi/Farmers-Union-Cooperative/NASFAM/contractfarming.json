@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-MWI-NASFAM-01", "farmerId": "MWI-NASFAM-F-001", "cooperativeId": "MWI-NASFAM-FED-001", "buyerId": "MWI-NASFAM-BUYER-001", "product": "Soybeans", "agreedQuantityKg": 12000, "pricePerKg": 2.8, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-MWI-NASFAM-02", "farmerId": "MWI-NASFAM-F-001", "cooperativeId": "MWI-NASFAM-FED-001", "buyerId": "MWI-NASFAM-BUYER-001", "product": "Maize", "agreedQuantityKg": 18000, "pricePerKg": 0.32, "startDate": "2026-04-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-MWI-NASFAM-03", "farmerId": "MWI-NASFAM-F-001", "cooperativeId": "MWI-NASFAM-FED-001", "buyerId": "MWI-NASFAM-BUYER-001", "product": "Groundnuts", "agreedQuantityKg": 5000, "pricePerKg": 1.5, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-MWI-NASFAM-04", "farmerId": "MWI-NASFAM-F-001", "cooperativeId": "MWI-NASFAM-FED-001", "buyerId": "MWI-NASFAM-BUYER-001", "product": "Cotton", "agreedQuantityKg": 6000, "pricePerKg": 1.1, "startDate": "2026-06-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-MWI-NASFAM-05", "farmerId": "MWI-NASFAM-F-001", "cooperativeId": "MWI-NASFAM-FED-001", "buyerId": "MWI-NASFAM-BUYER-001", "product": "Rice", "agreedQuantityKg": 7000, "pricePerKg": 0.8, "startDate": "2026-07-01", "endDate": "2026-11-30", "status": "Active"}
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-TK-001",
+    "institutionId": "Retail-TradeKings",
+    "period": "April 2026",
+    "totalFarmers": 1200,
+    "activeFarmers": 1150,
+    "femaleParticipation": 30,
+    "totalProjects": 4,
+    "activeProjects": 4,
+    "totalOrders": 320,
+    "fulfillmentRate": 95.0,
+    "activeContracts": 18,
+    "totalSpend": 28000000,
+    "lastUpdated": "2026-04-17T10:00:00Z"
+  }
+]

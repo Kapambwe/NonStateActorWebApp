@@ -1,0 +1,26 @@
+[
+  {
+    "projectId": "PROJ-ZB-001",
+    "projectName": "Smallholder Cattle Development Program",
+    "district": "Mkushi, Chisamba, Kabwe",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "budget": 25000000.00,
+    "currency": "ZMW",
+    "beneficiaries": 850,
+    "objectives": ["Improve cattle genetics", "Enhance farmer livelihoods", "Ensure quality beef supply"],
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-ZB-002",
+    "projectName": "Regional Export Expansion",
+    "district": "Nationwide",
+    "startDate": "2024-06-01T00:00:00Z",
+    "endDate": "2027-05-31T00:00:00Z",
+    "budget": 45000000.00,
+    "currency": "ZMW",
+    "beneficiaries": 2500,
+    "objectives": ["Expand exports to Angola & DRC", "Meet international standards", "Increase farmer income"],
+    "status": "Active"
+  }
+]

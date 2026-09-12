@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-OUT-LP-001",
+    "institutionId": "Outgrower-LCO",
+    "period": "April 2026",
+    "totalFarmers": 4500,
+    "activeFarmers": 4200,
+    "femaleParticipation": 52,
+    "totalProjects": 4,
+    "activeProjects": 4,
+    "trainingsCompleted": 35,
+    "totalInputsDistributed": 180000,
+    "totalProductionKg": 9500000,
+    "totalRevenue": 28000000,
+    "lastUpdated": "2026-04-15T09:00:00Z"
+  }
+]

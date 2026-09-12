@@ -1,0 +1,7 @@
+[
+  {"actorId": "UAE-CAMEL-DAIRY-001", "name": "Camelicious", "type": "Dairy Processor", "location": "Dubai, UAE", "contactPerson": "Dr. Ameera Al Nahyan", "registrationDate": "2013-01-01"},
+  {"actorId": "UAE-CAMEL-FARM-001", "name": "Camelicious Camel Farms", "type": "Farm", "location": "Dubai, UAE", "contactPerson": "Khalid Al Mansouri", "registrationDate": "2014-06-01"},
+  {"actorId": "UAE-CAMEL-DIST-001", "name": "Camelicious Distribution", "type": "Logistics", "location": "Abu Dhabi, UAE", "contactPerson": "Ahmed Al Falasi", "registrationDate": "2015-01-01"},
+  {"actorId": "UAE-CAMEL-RETAIL-001", "name": "Camelicious Retail Stores", "type": "Retail Chain", "location": "Nationwide, UAE", "contactPerson": "Store Manager", "registrationDate": "2016-01-01"},
+  {"actorId": "UAE-CAMEL-GOVT-001", "name": "Ministry of Food Security (UAE)", "type": "Government Agency", "location": "Abu Dhabi, UAE", "contactPerson": "Director General", "registrationDate": "2017-01-01"}
+]

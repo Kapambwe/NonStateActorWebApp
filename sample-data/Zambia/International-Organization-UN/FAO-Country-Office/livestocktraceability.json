@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-FAO-1001", "animalId": "CATTLE-ZMB-210", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Boran", "birthDate": "2023-10-01", "lastLocation": "Project Farm, Zambia", "healthStatus": "Good - Monitored by FAO"},
+  {"traceId": "LIVESTOCK-ZMB-FAO-1002", "animalId": "GOAT-ZMB-180", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-15", "lastLocation": "Project Farm, Zambia", "healthStatus": "Good - FAO Supported"},
+  {"traceId": "LIVESTOCK-ZMB-FAO-1003", "animalId": "CHICKEN-ZMB-560", "ownerId": "ZNFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-03-10", "lastLocation": "Project Farm, Zambia", "healthStatus": "Healthy - FAO Supported"},
+  {"traceId": "LIVESTOCK-ZMB-FAO-1004", "animalId": "CATTLE-ZMB-211", "ownerId": "ZMB-FAO-PROG-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-11-01", "lastLocation": "FAO Project Farm, Zambia", "healthStatus": "Good - FAO Program Animal"},
+  {"traceId": "LIVESTOCK-ZMB-FAO-1005", "animalId": "GOAT-ZMB-181", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-02-15", "lastLocation": "Project Farm, Zambia", "healthStatus": "Good - FAO Initiative"}
+]

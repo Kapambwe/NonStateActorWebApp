@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-PP-001",
+    "institutionId": "Retail-PickPay",
+    "period": "April 2026",
+    "totalFarmers": 640,
+    "activeFarmers": 610,
+    "femaleParticipation": 45,
+    "totalProjects": 2,
+    "activeProjects": 2,
+    "totalOrders": 185,
+    "fulfillmentRate": 91.2,
+    "activeContracts": 9,
+    "totalSpend": 9800000,
+    "lastUpdated": "2026-04-17T11:00:00Z"
+  }
+]

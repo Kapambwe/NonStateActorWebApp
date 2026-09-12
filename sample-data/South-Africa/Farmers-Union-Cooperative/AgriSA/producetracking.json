@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZAF-AGRISA-001", "productId": "WINE-ZAF-007", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "harvestDate": "2026-03-01", "quantityLiters": 10000, "status": "Harvested", "location": "Western Cape Vineyard, South Africa"},
+  {"trackingId": "PT2026-ZAF-AGRISA-002", "productId": "FRUIT-ZAF-009", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "harvestDate": "2026-04-10", "quantityKg": 5000, "status": "Harvested", "location": "Western Cape Farm, South Africa"},
+  {"trackingId": "PT2026-ZAF-AGRISA-003", "productId": "MAIZE-ZAF-010", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "deliveryDate": "2026-04-15", "quantityKg": 15000, "status": "Sold to Buyer", "location": "AgriSA Buyers, Johannesburg"},
+  {"trackingId": "PT2026-ZAF-AGRISA-004", "productId": "WINE-ZAF-008", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "deliveryDate": "2026-04-20", "quantityLiters": 12000, "status": "Processed", "location": "Wine Cellar, Western Cape"},
+  {"trackingId": "PT2026-ZAF-AGRISA-005", "productId": "CATTLE-ZAF-001", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "deliveryDate": "2026-04-25", "quantityKg": 700, "status": "Sold to Processor", "location": "Meat Processor, Gauteng"}
+]

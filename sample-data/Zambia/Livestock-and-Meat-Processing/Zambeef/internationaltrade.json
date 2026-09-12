@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-ZAMBEEF-EXP01", "exporterId": "ZMB-ZAMBEEF-EXPORT-001", "importerCountry": "Democratic Republic of Congo", "product": "Beef", "quantityKg": 30000, "exportDate": "2026-05-20", "valueUSD": 150000, "status": "Exported by Zambeef"},
+  {"tradeId": "IT2026-ZMB-ZAMBEEF-EXP02", "exporterId": "ZMB-ZAMBEEF-EXPORT-001", "importerCountry": "Malawi", "product": "Chicken", "quantityKg": 10000, "exportDate": "2026-05-21", "valueUSD": 15000, "status": "Exported by Zambeef"},
+  {"tradeId": "IT2026-ZMB-ZAMBEEF-EXP03", "exporterId": "ZMB-ZAMBEEF-EXPORT-001", "importerCountry": "Botswana", "product": "Beef", "quantityKg": 25000, "exportDate": "2026-05-22", "valueUSD": 125000, "status": "Exported by Zambeef"},
+  {"tradeId": "IT2026-ZMB-ZAMBEEF-IMP01", "importerId": "ZMB-ZAMBEEF-RETAIL-001", "exporterCountry": "South Africa", "product": "Processed Foods", "quantityUnits": 5000, "importDate": "2026-04-25", "valueUSD": 20000, "status": "Imported by Zambeef Retail"},
+  {"tradeId": "IT2026-ZMB-ZAMBEEF-IMP02", "importerId": "ZMB-ZAMBEEF-RETAIL-001", "exporterCountry": "USA", "product": "Feed Additives", "quantityKg": 5000, "importDate": "2026-04-28", "valueUSD": 10000, "status": "Imported by Zambeef"}
+]

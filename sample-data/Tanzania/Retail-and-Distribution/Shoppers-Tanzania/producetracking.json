@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-TZA-SHOPPERS-001", "productId": "CASHEW-TZA-001", "farmerId": "TZA-FARMER-GROUP-001", "supplierId": "TZA-SHOPPERS-SUP-001", "deliveryDate": "2026-04-11", "quantityKg": 9000, "status": "Delivered to Shoppers", "location": "Shoppers Distribution Center, Dar es Salaam"},
+  {"trackingId": "PT2026-TZA-SHOPPERS-002", "productId": "COFFEE-TZA-002", "farmerId": "TZA-FARMER-GROUP-001", "supplierId": "TZA-SHOPPERS-SUP-001", "deliveryDate": "2026-04-12", "quantityKg": 5000, "status": "Delivered to Shoppers", "location": "Shoppers Distribution Center, Dar es Salaam"},
+  {"trackingId": "PT2026-TZA-SHOPPERS-003", "productId": "TEA-TZA-001", "farmerId": "TZA-FARMER-GROUP-001", "supplierId": "TZA-SHOPPERS-SUP-001", "harvestDate": "2026-04-01", "quantityKg": 3000, "status": "Processed", "location": "Tea Factory, Tanzania"},
+  {"trackingId": "PT2026-TZA-SHOPPERS-004", "productId": "MAIZE-TZA-001", "farmerId": "TZA-FARMER-GROUP-001", "supplierId": "TZA-SHOPPERS-SUP-001", "deliveryDate": "2026-04-15", "quantityKg": 10000, "status": "Sold to Shoppers", "location": "Shoppers Retail Outlets"},
+  {"trackingId": "PT2026-TZA-SHOPPERS-005", "productId": "COTTON-TZA-001", "farmerId": "TZA-FARMER-GROUP-001", "supplierId": "TZA-SHOPPERS-SUP-001", "deliveryDate": "2026-04-16", "quantityKg": 4000, "status": "Exported", "location": "Dar es Salaam Port"}
+]

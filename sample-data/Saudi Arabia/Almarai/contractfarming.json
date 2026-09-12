@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-SA-ALMA-01", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "product": "Milk", "agreedQuantityLiters": 50000, "pricePerLiter": 0.3, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-SA-ALMA-02", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "product": "Yogurt", "agreedQuantityKg": 20000, "pricePerKg": 0.8, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-SA-ALMA-03", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "product": "Cheese", "agreedQuantityKg": 10000, "pricePerKg": 4.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-SA-ALMA-04", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "product": "Dairy Products", "agreedQuantityKg": 15000, "pricePerKg": 1.5, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-SA-ALMA-05", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "product": "Juice", "agreedQuantityLiters": 30000, "pricePerLiter": 0.6, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

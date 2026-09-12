@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        // Start SPA Redirect Hack for GitHub Pages
+        (function() {
+            var repoName = 'NonStateActorWebApp';
+            var location = window.location;
+            
+            // 1. Determine if we are in the repo subfolder
+            var isRepoPath = location.pathname.indexOf('/' + repoName) === 0;
+            var basePrefix = isRepoPath ? '/' + repoName : '';
+            
+            // 2. Get the relative path (everything after the repo name)
+            var path = location.pathname.substring(basePrefix.length);
+            
+            // 3. Construct redirect URL
+            // We go back to index.html and pass the intended path as a query param
+            var search = location.search;
+            var pathParam = 'path=' + encodeURIComponent(path + search + location.hash);
+            
+            var redirectUrl = basePrefix + '/index.html?' + pathParam;
+            
+            window.location.replace(redirectUrl);
+        })();
+    </script>
+</head>
+<body>
+</body>
+</html>

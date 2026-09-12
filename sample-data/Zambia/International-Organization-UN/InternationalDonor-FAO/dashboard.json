@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-FAO-001",
+    "institutionId": "InternationalDonor-FAO",
+    "period": "January 2024",
+    "totalFarmers": 1250,
+    "activeFarmers": 1180,
+    "femaleParticipation": 48,
+    "totalProjects": 5,
+    "activeProjects": 5,
+    "trainingsCompleted": 32,
+    "totalInputsDistributed": 85000,
+    "totalProductionKg": 980000,
+    "totalRevenue": 3920000000,
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  }
+]

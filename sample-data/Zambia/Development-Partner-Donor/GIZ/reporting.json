@@ -1,0 +1,22 @@
+[
+  {
+    "reportId": "REP-GIZ-001",
+    "reportName": "Q4 2024 Progress Report",
+    "reportType": "Quarterly",
+    "projectId": "PROJ-GIZ-005",
+    "generatedDate": "2025-01-10T00:00:00Z",
+    "generatedBy": "Klaus Schmidt",
+    "format": "PDF",
+    "status": "Published"
+  },
+  {
+    "reportId": "REP-GIZ-002",
+    "reportName": "Women's Empowerment Impact Assessment",
+    "reportType": "Impact",
+    "projectId": "PROJ-GIZ-008",
+    "generatedDate": "2025-01-15T00:00:00Z",
+    "generatedBy": "Maria Weber",
+    "format": "PDF",
+    "status": "Draft"
+  }
+]

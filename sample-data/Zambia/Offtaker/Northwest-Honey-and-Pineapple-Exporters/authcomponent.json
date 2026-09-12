@@ -1,0 +1,17 @@
+[
+  {
+    "componentId": "NW-AUTH-001",
+    "institutionId": "Offtaker-NWHP",
+    "componentName": "Northwest Export Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.SupplyChain.Overview.View",
+      "NonStateActor.Ecosystem.OfftakeDashboard.View",
+      "NonStateActor.WarehouseReceipts.View"
+    ],
+    "description": "Portal for Northwest honey and pineapple export management"
+  }
+]

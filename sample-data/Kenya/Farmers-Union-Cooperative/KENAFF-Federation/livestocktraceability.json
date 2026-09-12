@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-KEN-KENAFF-1001", "animalId": "CATTLE-KEN-501", "ownerId": "KEN-KENAFF-F-001", "species": "Cattle", "breed": "Zebu", "birthDate": "2023-06-10", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-KEN-KENAFF-1002", "animalId": "GOAT-KEN-201", "ownerId": "KEN-KENAFF-F-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-01-20", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-KEN-KENAFF-1003", "animalId": "CHICKEN-KEN-800", "ownerId": "KEN-KENAFF-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-03-05", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-KEN-KENAFF-1004", "animalId": "CATTLE-KEN-502", "ownerId": "KEN-KENAFF-F-001", "species": "Cattle", "breed": "Boran", "birthDate": "2023-07-01", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-KEN-KENAFF-1005", "animalId": "GOAT-KEN-202", "ownerId": "KEN-KENAFF-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-02-15", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good"}
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "componentId": "OUT-AUTH-001",
+    "institutionId": "Outgrower-LVO",
+    "componentName": "Outgrower Scheme Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.Ecosystem.OutgrowerPortal.View",
+      "NonStateActor.Farmers.Registry.View",
+      "NonStateActor.Farmers.Groups.View"
+    ],
+    "description": "Portal for managing outgrower schemes and contracted farmers"
+  }
+]

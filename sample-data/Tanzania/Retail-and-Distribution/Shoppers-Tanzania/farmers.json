@@ -1,0 +1,19 @@
+﻿[
+  {
+    "farmerId": "F-TZ-R01",
+    "name": "Juma Mwinyi",
+    "age": 40,
+    "gender": "Male",
+    "contactNumber": "+255-754-111222",
+    "district": "Arusha",
+    "chiefdom": "Meru",
+    "village": "Usa River",
+    "farmSize": 8.0,
+    "primaryCrop": "Onions",
+    "secondaryCrops": ["Garlic"],
+    "registrationDate": "2023-10-05T00:00:00Z",
+    "groupMembership": "FG-TZ-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

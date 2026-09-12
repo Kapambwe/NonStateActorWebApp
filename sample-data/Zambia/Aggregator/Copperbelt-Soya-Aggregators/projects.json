@@ -1,0 +1,28 @@
+[
+  {
+    "projectId": "PROJ-CB-001",
+    "projectName": "Mpongwe Soya Bean Integration",
+    "description": "Large scale aggregation of non-GMO soya beans for processing",
+    "startDate": "2024-05-01T00:00:00Z",
+    "endDate": "2026-10-31T00:00:00Z",
+    "budget": 15000000,
+    "spentToDate": 8500000,
+    "district": "Mpongwe",
+    "totalBeneficiaries": 2500,
+    "projectManager": "Mulenga Mwamba",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-CB-002",
+    "projectName": "Lufwanyama Maize Cluster",
+    "description": "Consolidated maize production and storage for regional supply",
+    "startDate": "2023-11-01T00:00:00Z",
+    "endDate": "2025-06-30T00:00:00Z",
+    "budget": 12000000,
+    "spentToDate": 11000000,
+    "district": "Lufwanyama",
+    "totalBeneficiaries": 3200,
+    "projectManager": "Beauty Chibesa",
+    "status": "Active"
+  }
+]

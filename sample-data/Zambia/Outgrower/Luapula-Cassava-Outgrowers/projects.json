@@ -1,0 +1,28 @@
+[
+  {
+    "projectId": "PROJ-LP-001",
+    "projectName": "Mansa Cassava Industrialization",
+    "description": "High-yield cassava production for industrial starch processing",
+    "startDate": "2024-02-01T00:00:00Z",
+    "endDate": "2027-01-31T00:00:00Z",
+    "budget": 8000000,
+    "spentToDate": 3200000,
+    "district": "Mansa",
+    "totalBeneficiaries": 1500,
+    "projectManager": "Musonda Mpundu",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-LP-002",
+    "projectName": "Bangweulu Aquaculture Development",
+    "description": "Tilapia cage farming for provincial and regional markets",
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": "2028-12-31T00:00:00Z",
+    "budget": 6500000,
+    "spentToDate": 1200000,
+    "district": "Samfya",
+    "totalBeneficiaries": 800,
+    "projectManager": "Chileshe Mwansa",
+    "status": "Active"
+  }
+]

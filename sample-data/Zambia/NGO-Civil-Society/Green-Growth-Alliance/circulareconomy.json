@@ -1,0 +1,16 @@
+[
+  {
+    "activityId": "CE-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "activityType": "IntegratedFarmingSystem",
+    "inputMaterial": "All farm waste streams",
+    "outputProduct": "Multiple outputs (compost, biogas, animal feed)",
+    "quantityProcessed": 1200,
+    "quantityProduced": 900,
+    "unit": "kg",
+    "dateRecorded": "2024-01-10T00:00:00Z",
+    "environmentalBenefit": "Zero waste farming system",
+    "economicValue": 90000
+  }
+]

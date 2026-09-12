@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-GGA-EXP01", "exporterId": "ZNFU-C-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 18000, "exportDate": "2026-05-05", "valueUSD": 5580, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZMB-GGA-EXP02", "exporterId": "ZNFU-B-001", "importerCountry": "South Africa", "product": "Soybean Meal", "quantityKg": 15000, "exportDate": "2026-05-10", "valueUSD": 6000, "status": "Exported - GGA Supported"},
+  {"tradeId": "IT2026-ZMB-GGA-IMP01", "importerId": "ZMB-GGA-NGO-001", "exporterCountry": "EU", "product": "Agricultural Equipment", "quantityUnits": 5, "importDate": "2026-04-28", "valueUSD": 50000, "status": "Imported - GGA Project"},
+  {"tradeId": "IT2026-ZMB-GGA-EXP03", "exporterId": "ZNFU-C-001", "importerCountry": "Kenya", "product": "Cotton Lint", "quantityKg": 4000, "exportDate": "2026-05-15", "valueUSD": 6000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZMB-GGA-IMP02", "importerId": "ZMB-GGA-NGO-001", "exporterCountry": "USA", "product": "Fertilizers", "quantityKg": 20000, "importDate": "2026-04-30", "valueUSD": 20000, "status": "Imported - GGA Initiative"}
+]

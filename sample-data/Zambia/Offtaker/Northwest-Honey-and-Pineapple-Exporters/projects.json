@@ -1,0 +1,28 @@
+[
+  {
+    "projectId": "PROJ-NW-001",
+    "projectName": "Mwinilunga Organic Honey Export",
+    "description": "Organic honey production for the EU market",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2027-12-31T00:00:00Z",
+    "budget": 5000000,
+    "spentToDate": 2100000,
+    "district": "Mwinilunga",
+    "totalBeneficiaries": 850,
+    "projectManager": "Kabwita Sangambo",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-NW-002",
+    "projectName": "Solwezi Pineapple Value Addition",
+    "description": "Processing and export of premium sun-dried pineapples",
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": "2028-12-31T00:00:00Z",
+    "budget": 3500000,
+    "spentToDate": 800000,
+    "district": "Solwezi",
+    "totalBeneficiaries": 450,
+    "projectManager": "Mwila Mukumbi",
+    "status": "Active"
+  }
+]

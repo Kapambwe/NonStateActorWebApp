@@ -1,0 +1,47 @@
+[
+  {
+    "farmerId": "F-NW-001",
+    "name": "Kabwita Sangambo",
+    "age": 45,
+    "gender": "Male",
+    "contactNumber": "+260-978-444555",
+    "district": "Mwinilunga",
+    "chiefdom": "Kanongesha",
+    "village": "Ikelenge",
+    "farmSize": 12.0,
+    "primaryCrop": "Honey",
+    "secondaryCrops": ["Pineapple", "Ginger"],
+    "registrationDate": "2024-01-10T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-NW-002",
+    "name": "Mwila Mukumbi",
+    "age": 32,
+    "gender": "Female",
+    "contactNumber": "+260-966-555666",
+    "district": "Solwezi",
+    "chiefdom": "Kapijimpanga",
+    "village": "Kifubwa",
+    "farmSize": 8.5,
+    "primaryCrop": "Pineapple",
+    "secondaryCrops": ["Maize", "Sweet Potato"],
+    "registrationDate": "2024-02-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-NW-003",
+    "name": "Chanda Kasempa",
+    "age": 50,
+    "gender": "Male",
+    "contactNumber": "+260-955-666777",
+    "district": "Kasempa",
+    "chiefdom": "Kasempa",
+    "village": "Nkenyauna",
+    "farmSize": 20.0,
+    "primaryCrop": "Honey",
+    "secondaryCrops": ["Soya Beans"],
+    "registrationDate": "2023-11-20T00:00:00Z",
+    "isActive": true
+  }
+]

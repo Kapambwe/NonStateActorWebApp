@@ -1,0 +1,24 @@
+[
+  {
+    "transactionId": "FIN-GIZ-001",
+    "projectId": "PROJ-GIZ-005",
+    "projectName": "Climate Smart Agriculture - Eastern Province",
+    "transactionType": "Disbursement",
+    "amount": 125000.00,
+    "currency": "EUR",
+    "transactionDate": "2025-01-10T00:00:00Z",
+    "description": "Q1 2025 project funding",
+    "status": "Completed"
+  },
+  {
+    "transactionId": "FIN-GIZ-002",
+    "projectId": "PROJ-GIZ-008",
+    "projectName": "Women's Agro-enterprise Development",
+    "transactionType": "Expense",
+    "amount": 18500.00,
+    "currency": "EUR",
+    "transactionDate": "2025-01-15T00:00:00Z",
+    "description": "Training materials and equipment",
+    "status": "Completed"
+  }
+]

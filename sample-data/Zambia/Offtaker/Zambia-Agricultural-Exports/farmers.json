@@ -1,0 +1,32 @@
+[
+  {
+    "farmerId": "F-OFF-001",
+    "name": "Bwalya Chilufya",
+    "age": 38,
+    "gender": "Male",
+    "contactNumber": "+260-977-111222",
+    "district": "Chibombo",
+    "chiefdom": "Liteta",
+    "village": "Mungule",
+    "farmSize": 15.5,
+    "primaryCrop": "Soybeans",
+    "secondaryCrops": ["Maize"],
+    "registrationDate": "2024-02-10T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-OFF-002",
+    "name": "Chanda Mwila",
+    "age": 45,
+    "gender": "Female",
+    "contactNumber": "+260-966-333444",
+    "district": "Mkushi",
+    "chiefdom": "Chitina",
+    "village": "Mkushi Central",
+    "farmSize": 25.0,
+    "primaryCrop": "Soybeans",
+    "secondaryCrops": ["Wheat"],
+    "registrationDate": "2024-03-15T00:00:00Z",
+    "isActive": true
+  }
+]

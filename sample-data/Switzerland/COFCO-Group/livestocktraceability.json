@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-CH-COFCO-1001", "animalId": "CATTLE-CH-101", "ownerId": "CH-COFCO-FARM-001", "species": "Cattle", "breed": "Swiss Brown", "birthDate": "2023-05-01", "lastLocation": "COFCO Farm, Vaud", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-CH-COFCO-1002", "animalId": "GOAT-CH-201", "ownerId": "CH-COFCO-FARM-001", "species": "Goat", "breed": "Alpine Goat", "birthDate": "2024-01-10", "lastLocation": "COFCO Farm, Vaud", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-CH-COFCO-1003", "animalId": "SHEEP-CH-701", "ownerId": "CH-COFCO-FARM-001", "species": "Sheep", "breed": "Valais Blacknose Sheep", "birthDate": "2023-08-15", "lastLocation": "COFCO Farm, Vaud", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-CH-COFCO-1004", "animalId": "PIG-CH-501", "ownerId": "CH-COFCO-FARM-001", "species": "Swine", "breed": "Pietrain", "birthDate": "2023-06-01", "lastLocation": "COFCO Farm, Vaud", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-CH-COFCO-1005", "animalId": "POULTRY-CH-301", "ownerId": "CH-COFCO-FARM-001", "species": "Poultry", "breed": "Hybrid", "birthDate": "2024-02-01", "lastLocation": "COFCO Farm, Vaud", "healthStatus": "Good"}
+]

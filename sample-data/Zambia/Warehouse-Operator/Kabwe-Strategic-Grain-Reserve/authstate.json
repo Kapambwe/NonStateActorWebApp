@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "WH-SESSION-001",
+    "userId": "U-WH-001",
+    "userName": "Peter Mwamba",
+    "userRole": "WarehouseOperator",
+    "institutionId": "Warehouse-Kabwe",
+    "isAuthenticated": true,
+    "loginTime": "2026-04-18T08:00:00Z",
+    "lastActivity": "2026-04-18T11:30:00Z",
+    "expiresAt": "2026-04-18T20:00:00Z"
+  }
+]

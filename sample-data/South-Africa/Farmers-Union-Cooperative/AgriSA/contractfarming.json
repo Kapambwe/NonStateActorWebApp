@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZAF-AGRISA-01", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "buyerId": "ZAF-AGRI-BUYER-001", "product": "Wine Grapes", "agreedQuantityKg": 15000, "pricePerKg": 1.5, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZAF-AGRISA-02", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "buyerId": "ZAF-AGRI-BUYER-001", "product": "Maize", "agreedQuantityKg": 20000, "pricePerKg": 0.40, "startDate": "2026-04-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-ZAF-AGRISA-03", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "buyerId": "ZAF-AGRI-BUYER-001", "product": "Citrus Fruit", "agreedQuantityKg": 10000, "pricePerKg": 1.2, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-ZAF-AGRISA-04", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "buyerId": "ZAF-AGRI-BUYER-001", "product": "Beef", "agreedQuantityKg": 5000, "pricePerKg": 3.0, "startDate": "2026-06-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZAF-AGRISA-05", "farmerId": "ZAF-AGRISA-F-001", "cooperativeId": "ZAF-AGRISA-FED-001", "buyerId": "ZAF-AGRI-BUYER-001", "product": "Wine", "agreedQuantityLiters": 15000, "pricePerLiter": 0.5, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"}
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "orderId": "PO-TK-2001",
+    "supplier": "Zambia Sugar PLC",
+    "commodity": "Raw Sugar",
+    "quantity": 500.0,
+    "unit": "Tons",
+    "totalValue": 4500000,
+    "status": "Delivered",
+    "orderDate": "2026-04-01T09:00:00Z",
+    "deliveryDate": "2026-04-10T16:00:00Z"
+  },
+  {
+    "orderId": "PO-TK-2002",
+    "supplier": "Eastern Tropical Co.",
+    "commodity": "Soya Oil",
+    "quantity": 120.0,
+    "unit": "Tons",
+    "totalValue": 3200000,
+    "status": "InTransit",
+    "orderDate": "2026-04-12T11:30:00Z",
+    "deliveryDate": "2026-04-20T10:00:00Z"
+  }
+]

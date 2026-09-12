@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-UAE-CAMEL-1001", "animalId": "CAMEL-UAE-101", "ownerId": "UAE-CAMEL-FARM-001", "species": "Camel", "breed": "Arabian Camel", "birthDate": "2022-05-01", "lastLocation": "Camelicious Farm, Dubai", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-CAMEL-1002", "animalId": "GOAT-UAE-501", "ownerId": "UAE-CAMEL-FARM-001", "species": "Goat", "breed": "Saanen", "birthDate": "2024-01-10", "lastLocation": "Camelicious Farm, Dubai", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-CAMEL-1003", "animalId": "SHEEP-UAE-601", "ownerId": "UAE-CAMEL-FARM-001", "species": "Sheep", "breed": "Awassi", "birthDate": "2023-08-15", "lastLocation": "Camelicious Farm, Dubai", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-UAE-CAMEL-1004", "animalId": "CAMEL-UAE-102", "ownerId": "UAE-CAMEL-FARM-001", "species": "Camel", "breed": "Arabian Camel", "birthDate": "2023-06-01", "lastLocation": "Camelicious Farm, Dubai", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-UAE-CAMEL-1005", "animalId": "COW-UAE-501", "ownerId": "UAE-CAMEL-FARM-001", "species": "Cattle", "breed": "Holstein", "birthDate": "2023-10-01", "lastLocation": "Camelicious Farm, Dubai", "healthStatus": "Good"}
+]

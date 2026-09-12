@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-KEN-KENAFF-EXP01", "exporterId": "KEN-KENAFF-FED-001", "importerCountry": "Uganda", "product": "Maize", "quantityKg": 25000, "exportDate": "2026-05-01", "valueUSD": 7500, "status": "Exported"},
+  {"tradeId": "IT2026-KEN-KENAFF-EXP02", "exporterId": "KEN-KENAFF-FED-001", "importerCountry": "Tanzania", "product": "Coffee Beans", "quantityKg": 10000, "exportDate": "2026-05-05", "valueUSD": 30000, "status": "Exported"},
+  {"tradeId": "IT2026-KEN-KENAFF-EXP03", "exporterId": "KEN-KENAFF-FED-001", "importerCountry": "Rwanda", "product": "Tea Leaves", "quantityKg": 5000, "exportDate": "2026-05-10", "valueUSD": 10000, "status": "Exported"},
+  {"tradeId": "IT2026-KEN-KENAFF-EXP04", "exporterId": "KEN-KENAFF-FED-001", "importerCountry": "South Africa", "product": "Horticulture", "quantityKg": 8000, "exportDate": "2026-05-15", "valueUSD": 24000, "status": "Exported"},
+  {"tradeId": "IT2026-KEN-KENAFF-IMP01", "importerId": "KEN-KENAFF-BUYER-001", "exporterCountry": "China", "product": "Agricultural Equipment", "quantityUnits": 50, "importDate": "2026-04-28", "valueUSD": 100000, "status": "Imported"}
+]

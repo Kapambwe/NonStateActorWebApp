@@ -1,0 +1,28 @@
+[
+  {
+    "projectId": "PROJ-OFF-001",
+    "projectName": "Export Quality Soya Value Chain",
+    "description": "Integration of smallholders into regional soya export markets",
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": "2027-12-31T00:00:00Z",
+    "budget": 25000000,
+    "spentToDate": 12000000,
+    "district": "Central and Southern Provinces",
+    "totalBeneficiaries": 3500,
+    "projectManager": "Sarah Phiri",
+    "status": "Active"
+  },
+  {
+    "projectId": "PROJ-OFF-002",
+    "projectName": "European Union Organic Certification",
+    "description": "Achieving organic certification for smallholder honey and wax",
+    "startDate": "2025-06-01T00:00:00Z",
+    "endDate": "2028-06-01T00:00:00Z",
+    "budget": 10000000,
+    "spentToDate": 2500000,
+    "district": "North-Western Province",
+    "totalBeneficiaries": 1200,
+    "projectManager": "Mark Chanda",
+    "status": "Active"
+  }
+]

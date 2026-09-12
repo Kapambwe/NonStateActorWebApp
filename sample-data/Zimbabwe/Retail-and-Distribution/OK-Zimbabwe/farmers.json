@@ -1,0 +1,19 @@
+﻿[
+  {
+    "farmerId": "F-ZW-R01",
+    "name": "Farai Mushore",
+    "age": 42,
+    "gender": "Male",
+    "contactNumber": "+263-77-555666",
+    "district": "Mashonaland East",
+    "chiefdom": "Marondera",
+    "village": "Grasslands",
+    "farmSize": 15.5,
+    "primaryCrop": "Potatoes",
+    "secondaryCrops": ["Peas", "Carrots"],
+    "registrationDate": "2023-08-10T00:00:00Z",
+    "groupMembership": "FG-ZW-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

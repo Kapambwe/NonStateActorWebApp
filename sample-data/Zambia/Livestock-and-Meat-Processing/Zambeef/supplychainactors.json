@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-ZAMBEEF-PROD-001", "name": "Zambeef Products Plc", "type": "Meat Processor", "location": "Lusaka, Zambia", "contactPerson": "Christopher Mumba", "registrationDate": "1994-01-01"},
+  {"actorId": "ZMB-ZAMBEEF-FARM-001", "name": "Zambeef Farming Operations", "type": "Farm", "location": "Various Farms, Zambia", "contactPerson": "Esther Chisanga", "registrationDate": "1995-03-15"},
+  {"actorId": "ZMB-ZAMBEEF-RETAIL-001", "name": "Zambeef Retail Outlets", "type": "Retail Chain", "location": "Nationwide, Zambia", "contactPerson": "David Mwansa", "registrationDate": "2000-01-01"},
+  {"actorId": "ZMB-ZAMBEEF-EXPORT-001", "name": "Zambeef Export Division", "type": "Exporter", "location": "Lusaka, Zambia", "contactPerson": "Mutale Chimba", "registrationDate": "2005-06-01"},
+  {"actorId": "ZMB-ZAMBEEF-CONS-001", "name": "Zambeef Agri-Consulting", "type": "Consultancy", "location": "Lusaka, Zambia", "contactPerson": "Samuel Phiri", "registrationDate": "2015-01-10"}
+]

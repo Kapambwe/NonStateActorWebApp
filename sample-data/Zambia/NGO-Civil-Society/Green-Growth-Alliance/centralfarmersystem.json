@@ -1,0 +1,18 @@
+[
+  {
+    "recordId": "CFS-FAO-001",
+    "farmerId": "F-FAO-001",
+    "nationalId": "SL-NID-4523678",
+    "farmerName": "Foday Mansaray",
+    "registeredBy": "InternationalDonor-FAO",
+    "registrationDate": "2022-09-10T00:00:00Z",
+    "verificationStatus": "Verified",
+    "linkedInstitutions": [
+      "InternationalDonor-FAO",
+      "Government-MinistryAgric"
+    ],
+    "totalLandSize": 6.0,
+    "primaryCrop": "Rice",
+    "district": "Tonkolili"
+  }
+]

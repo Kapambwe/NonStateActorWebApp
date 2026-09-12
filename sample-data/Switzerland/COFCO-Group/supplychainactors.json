@@ -1,0 +1,7 @@
+[
+  {"actorId": "CH-COFCO-GR-001", "name": "COFCO Group Switzerland", "type": "Agri-business Holding", "location": "Geneva, Switzerland", "contactPerson": "Jean Dupont", "registrationDate": "2005-01-01"},
+  {"actorId": "CH-COFCO-FARM-001", "name": "COFCO Swiss Farms", "type": "Farm", "location": "Vaud, Switzerland", "contactPerson": "Maria Schmidt", "registrationDate": "2006-07-01"},
+  {"actorId": "CH-COFCO-PROC-001", "name": "COFCO Swiss Processing", "type": "Food Processor", "location": "Bern, Switzerland", "contactPerson": "Hans Müller", "registrationDate": "2007-01-01"},
+  {"actorId": "CH-COFCO-DIST-001", "name": "COFCO Swiss Distribution", "type": "Logistics", "location": "Zurich, Switzerland", "contactPerson": "Sophie Dubois", "registrationDate": "2008-01-01"},
+  {"actorId": "CH-COFCO-GOVT-001", "name": "Swiss Federal Office for Agriculture (FOAG)", "type": "Government Agency", "location": "Bern, Switzerland", "contactPerson": "Director General", "registrationDate": "1918-01-01"}
+]

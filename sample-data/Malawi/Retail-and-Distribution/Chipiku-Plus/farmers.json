@@ -1,0 +1,19 @@
+﻿[
+  {
+    "farmerId": "F-MW-R01",
+    "name": "Kondwani Phiri",
+    "age": 35,
+    "gender": "Male",
+    "contactNumber": "+265-99-111222",
+    "district": "Lilongwe",
+    "chiefdom": "Kabwila",
+    "village": "Mitundu",
+    "farmSize": 4.0,
+    "primaryCrop": "Beans",
+    "secondaryCrops": ["Soya Beans"],
+    "registrationDate": "2023-09-12T00:00:00Z",
+    "groupMembership": "FG-MW-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

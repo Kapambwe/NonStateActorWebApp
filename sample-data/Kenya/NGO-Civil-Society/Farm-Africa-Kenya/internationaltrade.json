@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-KEN-FARMAFRICA-EXP01", "exporterId": "KEN-FARMAFRICA-PROG-001", "importerCountry": "Uganda", "product": "Coffee Beans", "quantityKg": 5000, "exportDate": "2026-05-01", "valueUSD": 15000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-KEN-FARMAFRICA-IMP01", "importerId": "KEN-FARMAFRICA-PROG-001", "exporterCountry": "China", "product": "Agricultural Equipment", "quantityUnits": 30, "importDate": "2026-04-28", "valueUSD": 30000, "status": "Imported - Farm Africa Project"},
+  {"tradeId": "IT2026-KEN-FARMAFRICA-EXP02", "exporterId": "KEN-FARMAFRICA-PROG-001", "importerCountry": "Tanzania", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-05", "valueUSD": 3000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-KEN-FARMAFRICA-IMP02", "importerId": "KEN-FARMAFRICA-PROG-001", "exporterCountry": "EU", "product": "Fertilizers", "quantityKg": 15000, "importDate": "2026-04-30", "valueUSD": 20000, "status": "Imported - Farm Africa Initiative"},
+  {"tradeId": "IT2026-KEN-FARMAFRICA-EXP03", "exporterId": "KEN-FARMAFRICA-PROG-001", "importerCountry": "Rwanda", "product": "Tea", "quantityKg": 4000, "exportDate": "2026-05-10", "valueUSD": 5000, "status": "Exported - NGO Facilitated"}
+]

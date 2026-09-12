@@ -1,0 +1,22 @@
+[
+  {
+    "tradeId": "IT2026-ZNFU-EXP01",
+    "exporterId": "ZNFU-C-001",
+    "importerCountry": "South Africa",
+    "product": "Maize",
+    "quantityKg": 20000,
+    "exportDate": "2026-05-01",
+    "valueUSD": 50000,
+    "status": "Shipped"
+  },
+  {
+    "tradeId": "IT2026-ZNFU-IMP01",
+    "importerId": "ZNFU-B-001",
+    "exporterCountry": "United States",
+    "product": "Fertilizer",
+    "quantityKg": 15000,
+    "importDate": "2026-04-20",
+    "valueUSD": 30000,
+    "status": "Arrived"
+  }
+]

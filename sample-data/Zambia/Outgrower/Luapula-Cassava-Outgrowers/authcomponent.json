@@ -1,0 +1,17 @@
+[
+  {
+    "componentId": "LP-AUTH-001",
+    "institutionId": "Outgrower-LCO",
+    "componentName": "Luapula Outgrower Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.Ecosystem.OutgrowerPortal.View",
+      "NonStateActor.Farmers.Registry.View",
+      "NonStateActor.Farmers.Groups.View"
+    ],
+    "description": "Portal for managing Luapula cassava and fish outgrower schemes"
+  }
+]

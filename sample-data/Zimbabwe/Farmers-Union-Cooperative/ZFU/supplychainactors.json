@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZIM-ZFU-F-001", "name": "ZFU Cooperative Member Farm", "type": "Farmer", "location": "Rural Mashonaland, Zimbabwe", "contactPerson": "Tendai Mhofu", "registrationDate": "2019-01-20"},
+  {"actorId": "ZIM-ZFU-C-001", "name": "Zimbabwe Farmers Union Cooperative", "type": "Cooperative", "location": "Harare, Zimbabwe", "contactPerson": "Blessing Moyo", "registrationDate": "2016-04-01"},
+  {"actorId": "ZIM-ZFU-BUYER-001", "name": "Zimbabwe Grain Buyers", "type": "Buyer", "location": "Harare, Zimbabwe", "contactPerson": "Rudo Nyasha", "registrationDate": "2017-05-10"},
+  {"actorId": "ZIM-ZFU-GOVT-001", "name": "Ministry of Lands Agriculture Fisheries Water and Rural Development", "type": "Government Agency", "location": "Harare, Zimbabwe", "contactPerson": "Minister", "registrationDate": "1980-01-01"},
+  {"actorId": "ZIM-ZFU-TRAIN-001", "name": "ZFU Agricultural Training Center", "type": "Training Center", "location": "Harare, Zimbabwe", "contactPerson": "Mr. Chikerema", "registrationDate": "2000-01-01"}
+]

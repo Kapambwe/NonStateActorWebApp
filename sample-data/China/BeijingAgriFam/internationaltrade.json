@@ -1,0 +1,13 @@
+[
+  {
+    "tradeId": "IT2026-CN-AGRIFAM-IMP01",
+    "importerId": "CN-AGRIFAM-BEIJ-001",
+    "importerCountry": "China",
+    "exporterCountry": "Kenya",
+    "product": "Live Cattle",
+    "quantityUnits": 5000,
+    "exportDate": "2026-05-15",
+    "valueUSD": 500000,
+    "status": "Imported by Beijing AgriFam Co"
+  }
+]

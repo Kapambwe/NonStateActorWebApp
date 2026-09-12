@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "TK-SESSION-001",
+    "userId": "U-TK-001",
+    "userName": "Brighton Zulu",
+    "userRole": "Retailer",
+    "institutionId": "Retail-TradeKings",
+    "isAuthenticated": true,
+    "loginTime": "2026-04-18T08:00:00Z",
+    "lastActivity": "2026-04-18T10:30:00Z",
+    "expiresAt": "2026-04-18T20:00:00Z"
+  }
+]

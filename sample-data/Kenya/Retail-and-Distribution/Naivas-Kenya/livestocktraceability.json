@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-KEN-NAIVAS-1001", "animalId": "CATTLE-KEN-505", "ownerId": "KEN-KENAFF-F-001", "species": "Cattle", "breed": "Zebu", "birthDate": "2023-07-10", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good - Supplied to Naivas"},
+  {"traceId": "LIVESTOCK-KEN-NAIVAS-1002", "animalId": "GOAT-KEN-205", "ownerId": "KEN-KENAFF-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-15", "lastLocation": "Project Farm, Kenya", "healthStatus": "Good - Supplied to Naivas"},
+  {"traceId": "LIVESTOCK-KEN-NAIVAS-1003", "animalId": "CHICKEN-KEN-810", "ownerId": "KEN-KENAFF-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-15", "lastLocation": "Project Farm, Kenya", "healthStatus": "Healthy - Supplied to Naivas"},
+  {"traceId": "LIVESTOCK-KEN-NAIVAS-1004", "animalId": "CATTLE-KEN-506", "ownerId": "KEN-KENAFF-F-001", "species": "Cattle", "breed": "Boran", "birthDate": "2023-08-01", "lastLocation": "Rift Valley Farm, Kenya", "healthStatus": "Good - Supplied to Naivas"},
+  {"traceId": "LIVESTOCK-KEN-NAIVAS-1005", "animalId": "GOAT-KEN-206", "ownerId": "KEN-KENAFF-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-20", "lastLocation": "Project Farm, Kenya", "healthStatus": "Good - Supplied to Naivas"}
+]

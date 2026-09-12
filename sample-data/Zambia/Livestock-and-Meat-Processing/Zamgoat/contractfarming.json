@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZMB-ZAMGOAT-01", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goats", "agreedQuantityHead": 100, "pricePerHead": 90, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZMB-ZAMGOAT-02", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goat Meat", "agreedQuantityKg": 1000, "pricePerKg": 3.0, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-ZMB-ZAMGOAT-03", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "buyerId": "Shoprite Zambia", "product": "Goats", "agreedQuantityHead": 50, "pricePerHead": 85, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active - Supply to Retail"},
+  {"contractId": "CF2026-ZMB-ZAMGOAT-04", "farmerId": "ZMB-ZAMGOAT-COOP-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goats", "agreedQuantityHead": 150, "pricePerHead": 95, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZMB-ZAMGOAT-05", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "buyerId": "ZMB-ZAMGOAT-BUYER-001", "product": "Goat Meat", "agreedQuantityKg": 1200, "pricePerKg": 3.1, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-ZAMGOAT-1001", "animalId": "GOAT-ZMB-301", "ownerId": "ZMB-ZAMGOAT-FARM-001", "species": "Goat", "breed": "Boer", "birthDate": "2023-08-10", "lastLocation": "ZamGoat Farm, Livingstone", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-ZMB-ZAMGOAT-1002", "animalId": "GOAT-ZMB-302", "ownerId": "ZMB-ZAMGOAT-FARM-001", "species": "Goat", "breed": "Boer", "birthDate": "2023-09-01", "lastLocation": "ZamGoat Farm, Livingstone", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-ZMB-ZAMGOAT-1003", "animalId": "GOAT-ZMB-303", "ownerId": "ZMB-ZAMGOAT-COOP-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2023-10-05", "lastLocation": "ZamGoat Cooperative, Livingstone", "healthStatus": "Healthy"},
+  {"traceId": "LIVESTOCK-ZMB-ZAMGOAT-1004", "animalId": "GOAT-ZMB-304", "ownerId": "ZMB-ZAMGOAT-FARM-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-20", "lastLocation": "ZamGoat Farm, Livingstone", "healthStatus": "Good"},
+  {"traceId": "LIVESTOCK-ZMB-ZAMGOAT-1005", "animalId": "GOAT-ZMB-305", "ownerId": "ZMB-ZAMGOAT-COOP-001", "species": "Goat", "breed": "Local", "birthDate": "2024-02-10", "lastLocation": "ZamGoat Cooperative, Livingstone", "healthStatus": "Good"}
+]

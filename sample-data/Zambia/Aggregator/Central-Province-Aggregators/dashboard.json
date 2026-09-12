@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-AGG-001",
+    "institutionId": "Aggregator-CPA",
+    "period": "April 2026",
+    "totalFarmers": 8200,
+    "activeFarmers": 7900,
+    "femaleParticipation": 42,
+    "totalProjects": 4,
+    "activeProjects": 4,
+    "trainingsCompleted": 28,
+    "totalInputsDistributed": 500000,
+    "totalProductionKg": 25000000,
+    "totalRevenue": 62000000,
+    "lastUpdated": "2026-04-15T11:00:00Z"
+  }
+]

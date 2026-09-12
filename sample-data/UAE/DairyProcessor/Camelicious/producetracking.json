@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-UAE-CAMEL-001", "productId": "CAMEL-MILK-UAE-001", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "deliveryDate": "2026-04-10", "quantityLiters": 5000, "status": "Processed", "location": "Camelicious Plant, Dubai"},
+  {"trackingId": "PT2026-UAE-CAMEL-002", "productId": "CAMEL-YOGURT-UAE-001", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "deliveryDate": "2026-04-11", "quantityKg": 3000, "status": "Packaged", "location": "Camelicious Plant, Dubai"},
+  {"trackingId": "PT2026-UAE-CAMEL-003", "productId": "CAMEL-CHEESE-UAE-001", "processorId": "UAE-CAMEL-DAIRY-001", "deliveryDate": "2026-04-12", "quantityKg": 1000, "status": "Distributed", "location": "Camelicious Distribution Center"},
+  {"trackingId": "PT2026-UAE-CAMEL-004", "productId": "CAMEL-MILK-UAE-002", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "deliveryDate": "2026-04-13", "quantityLiters": 6000, "status": "Sold to Retail", "location": "Camelicious Retail Stores"},
+  {"trackingId": "PT2026-UAE-CAMEL-005", "productId": "CAMEL-ICE-CREAM-UAE-001", "processorId": "UAE-CAMEL-DAIRY-001", "deliveryDate": "2026-04-14", "quantityKg": 2000, "status": "Shipped to Retailers", "location": "Various Retail Outlets"}
+]

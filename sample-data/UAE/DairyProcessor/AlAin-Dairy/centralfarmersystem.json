@@ -1,0 +1,11 @@
+[
+  {
+    "systemId": "CFS-AL-001",
+    "systemName": "AlAin-Dairy Supplier Database",
+    "totalFarmers": 1500,
+    "activeFarmers": 1350,
+    "totalDistricts": 8,
+    "lastSyncDate": "2025-01-19T06:00:00Z",
+    "dataIntegrity": "Good"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "farmerId": "F-LP-001",
+    "name": "Musonda Mpundu",
+    "age": 41,
+    "gender": "Male",
+    "contactNumber": "+260-977-111000",
+    "district": "Mansa",
+    "chiefdom": "Mabumba",
+    "village": "Mabumba Village",
+    "farmSize": 5.0,
+    "primaryCrop": "Cassava",
+    "secondaryCrops": ["Fish Farming", "Rubber"],
+    "registrationDate": "2023-08-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-LP-002",
+    "name": "Chileshe Mwansa",
+    "age": 34,
+    "gender": "Female",
+    "contactNumber": "+260-966-222111",
+    "district": "Samfya",
+    "chiefdom": "Kasoma Bangweulu",
+    "village": "Lubwe",
+    "farmSize": 4.2,
+    "primaryCrop": "Fish Farming",
+    "secondaryCrops": ["Rice", "Cassava"],
+    "registrationDate": "2023-09-10T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-LP-003",
+    "name": "Lydia Kabaso",
+    "age": 39,
+    "gender": "Female",
+    "contactNumber": "+260-955-333222",
+    "district": "Kawambwa",
+    "chiefdom": "Mushota",
+    "village": "Tea Estate Area",
+    "farmSize": 12.5,
+    "primaryCrop": "Rubber",
+    "secondaryCrops": ["Tea", "Cassava"],
+    "registrationDate": "2023-12-01T00:00:00Z",
+    "isActive": true
+  }
+]

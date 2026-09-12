@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZMB-GGA-01", "farmerId": "ZNFU-F-001", "programManagerId": "ZMB-GGA-PROJ-001", "buyerId": "ZNFU-B-001", "product": "Maize Seed", "agreedQuantityKg": 18000, "pricePerKg": 1.9, "startDate": "2026-02-15", "endDate": "2026-11-30", "status": "Active - NGO Program"},
+  {"contractId": "CF2026-ZMB-GGA-02", "farmerId": "ZNFU-F-001", "programManagerId": "ZMB-GGA-PROJ-001", "buyerId": "ZNFU-B-001", "product": "Fertilizer", "agreedQuantityKg": 15000, "pricePerKg": 0.85, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active - NGO Funded"},
+  {"contractId": "CF2026-ZMB-GGA-03", "farmerId": "ZNFU-F-001", "programManagerId": "ZMB-GGA-AGRI-001", "buyerId": "ZNFU-B-001", "product": "Goats", "agreedQuantityHead": 100, "pricePerHead": 90, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active - GGA Initiative"},
+  {"contractId": "CF2026-ZMB-GGA-04", "farmerId": "ZNFU-F-001", "programManagerId": "ZMB-GGA-PROJ-001", "buyerId": "ZMB-AGRI-BUYER-001", "product": "Soybeans", "agreedQuantityKg": 10000, "pricePerKg": 0.42, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active - NGO Program"},
+  {"contractId": "CF2026-ZMB-GGA-05", "farmerId": "ZNFU-F-001", "programManagerId": "ZMB-GGA-AGRI-001", "buyerId": "ZNFU-B-001", "product": "Maize", "agreedQuantityKg": 20000, "pricePerKg": 0.31, "startDate": "2026-06-01", "endDate": "2026-12-31", "status": "Active - GGA Facilitated"}
+]

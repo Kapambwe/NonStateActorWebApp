@@ -1,0 +1,67 @@
+[
+  {
+    "trainingId": "TRN-FAO-001",
+    "trainingName": "Climate-Smart Agriculture and NERICA Cultivation",
+    "description": "Comprehensive training on climate adaptation strategies and improved rice varieties",
+    "trainer": "Dr. Alice Bangura",
+    "location": "Tonkolili FAO Training Center",
+    "startDate": "2024-01-20T00:00:00Z",
+    "endDate": "2024-01-25T00:00:00Z",
+    "totalParticipants": 120,
+    "femaleParticipants": 58,
+    "topicsCovered": ["Climate information services", "NERICA rice varieties", "Water management", "Post-harvest handling"],
+    "status": "Completed"
+  },
+  {
+    "trainingId": "TRN-FAO-002",
+    "trainingName": "Integrated Pest Management (IPM) Workshop",
+    "description": "Practical training on eco-friendly pest control for smallholder farmers",
+    "trainer": "Mr. Joseph Kanu",
+    "location": "Bombali Agricultural Extension Center",
+    "startDate": "2024-03-10T00:00:00Z",
+    "endDate": "2024-03-12T00:00:00Z",
+    "totalParticipants": 85,
+    "femaleParticipants": 42,
+    "topicsCovered": ["Pest identification", "Biological controls", "Pesticide safety", "Record keeping"],
+    "status": "Completed"
+  },
+  {
+    "trainingId": "TRN-FAO-003",
+    "trainingName": "Women's Nutrition and Food Preservation Training",
+    "description": "Training women farmers on nutrition-sensitive agriculture and food preservation techniques",
+    "trainer": "Ms. Hawa Turay",
+    "location": "Port Loko Community Hall",
+    "startDate": "2024-05-06T00:00:00Z",
+    "endDate": "2024-05-08T00:00:00Z",
+    "totalParticipants": 60,
+    "femaleParticipants": 55,
+    "topicsCovered": ["Dietary diversity", "Food fortification", "Solar drying", "Value addition"],
+    "status": "Completed"
+  },
+  {
+    "trainingId": "TRN-FAO-004",
+    "trainingName": "Agri-Business and Financial Literacy for Farmers",
+    "description": "Building financial management and market access skills for rural farmers",
+    "trainer": "Mr. David Fofanah",
+    "location": "Kenema Business Development Center",
+    "startDate": "2024-07-15T00:00:00Z",
+    "endDate": "2024-07-17T00:00:00Z",
+    "totalParticipants": 70,
+    "femaleParticipants": 35,
+    "topicsCovered": ["Farm budgeting", "Record keeping", "Market linkages", "Mobile money"],
+    "status": "Scheduled"
+  },
+  {
+    "trainingId": "TRN-FAO-005",
+    "trainingName": "Soil Fertility Management and Composting",
+    "description": "Training on organic soil amendment and composting techniques",
+    "trainer": "Dr. Sorie Kamara",
+    "location": "Koinadugu Agricultural Station",
+    "startDate": "2024-09-02T00:00:00Z",
+    "endDate": "2024-09-04T00:00:00Z",
+    "totalParticipants": 45,
+    "femaleParticipants": 20,
+    "topicsCovered": ["Soil testing", "Composting", "Green manure", "Fertiliser application"],
+    "status": "Scheduled"
+  }
+]

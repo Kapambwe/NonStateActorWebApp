@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-UAE-OSLS-EXP01", "exporterId": "UAE-OSLS-MEAT-001", "importerCountry": "Oman", "product": "Lamb", "quantityKg": 10000, "exportDate": "2026-05-10", "valueUSD": 200000, "status": "Exported by Oasis Livestock"},
+  {"tradeId": "IT2026-UAE-OSLS-EXP02", "exporterId": "UAE-OSLS-MEAT-001", "importerCountry": "Saudi Arabia", "product": "Beef", "quantityKg": 15000, "exportDate": "2026-05-15", "valueUSD": 375000, "status": "Exported by Oasis Livestock"},
+  {"tradeId": "IT2026-UAE-OSLS-IMP01", "importerId": "UAE-OSLS-RETAIL-001", "exporterCountry": "Australia", "product": "Packaging", "quantityUnits": 5000, "importDate": "2026-04-25", "valueUSD": 25000, "status": "Imported for Oasis Meat Shops"},
+  {"tradeId": "IT2026-UAE-OSLS-EXP03", "exporterId": "UAE-OSLS-MEAT-001", "importerCountry": "Qatar", "product": "Chicken", "quantityKg": 8000, "exportDate": "2026-05-20", "valueUSD": 80000, "status": "Exported by Oasis Livestock"},
+  {"tradeId": "IT2026-UAE-OSLS-IMP02", "importerId": "UAE-OSLS-DIST-001", "exporterCountry": "New Zealand", "product": "Machinery", "quantityUnits": 2, "importDate": "2026-04-30", "valueUSD": 150000, "status": "Imported for Distribution"}
+]

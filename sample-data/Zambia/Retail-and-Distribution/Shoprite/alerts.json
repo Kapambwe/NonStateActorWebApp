@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-SR-001",
+    "title": "Fresh Produce Stock Low",
+    "message": "Vegetables stock at Lusaka outlets below 30% - Request urgent delivery from farmers",
+    "severity": "Warning",
+    "category": "Inventory",
+    "dateCreated": "2025-01-18T11:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-SR-002",
+    "title": "Farmer Payment Processing",
+    "message": "Payment batch SR-JAN-2025 for 245 farmers successfully processed",
+    "severity": "Info",
+    "category": "Finance",
+    "dateCreated": "2025-01-19T09:30:00Z",
+    "isRead": false
+  }
+]

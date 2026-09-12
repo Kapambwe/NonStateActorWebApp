@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-GGA-1001", "animalId": "GOAT-ZMB-180", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-15", "lastLocation": "Project Farm, Rural Zambia", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZMB-GGA-1002", "animalId": "CATTLE-ZMB-215", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-11-20", "lastLocation": "Project Farm, Rural Zambia", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZMB-GGA-1003", "animalId": "CHICKEN-ZMB-575", "ownerId": "ZNFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-03-15", "lastLocation": "Project Farm, Rural Zambia", "healthStatus": "Healthy - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZMB-GGA-1004", "animalId": "GOAT-ZMB-181", "ownerId": "ZMB-GGA-PROJ-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-02-01", "lastLocation": "GGA Project Farm, Rural Zambia", "healthStatus": "Good - GGA Program Animal"},
+  {"traceId": "LIVESTOCK-ZMB-GGA-1005", "animalId": "CATTLE-ZMB-216", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Boran", "birthDate": "2023-12-01", "lastLocation": "Project Farm, Rural Zambia", "healthStatus": "Good - NGO Initiative"}
+]

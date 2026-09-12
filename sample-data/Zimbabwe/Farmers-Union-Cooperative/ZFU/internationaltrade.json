@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZIM-ZFU-EXP01", "exporterId": "ZIM-ZFU-C-001", "importerCountry": "South Africa", "product": "Tobacco", "quantityKg": 15000, "exportDate": "2026-05-01", "valueUSD": 67500, "status": "Exported"},
+  {"tradeId": "IT2026-ZIM-ZFU-EXP02", "exporterId": "ZIM-ZFU-C-001", "importerCountry": "Mozambique", "product": "Maize", "quantityKg": 20000, "exportDate": "2026-05-05", "valueUSD": 7000, "status": "Exported"},
+  {"tradeId": "IT2026-ZIM-ZFU-EXP03", "exporterId": "ZIM-ZFU-C-001", "importerCountry": "Botswana", "product": "Cotton", "quantityKg": 10000, "exportDate": "2026-05-10", "valueUSD": 12000, "status": "Exported"},
+  {"tradeId": "IT2026-ZIM-ZFU-EXP04", "exporterId": "ZIM-ZFU-C-001", "importerCountry": "Kenya", "product": "Sorghum", "quantityKg": 8000, "exportDate": "2026-05-15", "valueUSD": 2800, "status": "Exported"},
+  {"tradeId": "IT2026-ZIM-ZFU-EXP05", "exporterId": "ZIM-ZFU-C-001", "importerCountry": "Malawi", "product": "Tobacco", "quantityKg": 12000, "exportDate": "2026-05-20", "valueUSD": 54000, "status": "Exported"}
+]

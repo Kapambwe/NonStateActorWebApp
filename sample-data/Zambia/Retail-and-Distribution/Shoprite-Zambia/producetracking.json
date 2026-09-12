@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZMB-SHOPRITE-001", "productId": "MAIZE-ZMB-010", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-SHOPRITE-SUP-001", "deliveryDate": "2026-04-12", "quantityKg": 7000, "status": "Delivered to Shoprite", "location": "Shoprite Distribution Center, Lusaka"},
+  {"trackingId": "PT2026-ZMB-SHOPRITE-002", "productId": "CHICKEN-ZMB-007", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-SHOPRITE-SUP-001", "deliveryDate": "2026-04-13", "quantityKg": 5000, "status": "Delivered to Shoprite", "location": "Shoprite Distribution Center, Lusaka"},
+  {"trackingId": "PT2026-ZMB-SHOPRITE-003", "productId": "BEEF-ZMB-012", "farmerId": "ZMB-ZAMBEEF-FARM-001", "supplierId": "ZMB-SHOPRITE-SUP-001", "deliveryDate": "2026-04-14", "quantityKg": 6000, "status": "Delivered to Shoprite", "location": "Shoprite Distribution Center, Lusaka"},
+  {"trackingId": "PT2026-ZMB-SHOPRITE-004", "productId": "MAIZE-ZMB-011", "farmerId": "ZNFU-F-001", "supplierId": "ZMB-SHOPRITE-SUP-001", "deliveryDate": "2026-04-15", "quantityKg": 9000, "status": "Sold to Shoprite", "location": "Shoprite Retail Outlet"},
+  {"trackingId": "PT2026-ZMB-SHOPRITE-005", "productId": "PROCESSED-FOOD-ZMB-001", "supplierId": "ZMB-SHOPRITE-SUP-001", "deliveryDate": "2026-04-16", "quantityUnits": 1000, "status": "Delivered to Shoprite", "location": "Shoprite Distribution Center, Lusaka"}
+]

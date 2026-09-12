@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-OFF-NW-001",
+    "institutionId": "Offtaker-NWHP",
+    "period": "April 2026",
+    "totalFarmers": 3200,
+    "activeFarmers": 2850,
+    "femaleParticipation": 38,
+    "totalProjects": 5,
+    "activeProjects": 4,
+    "trainingsCompleted": 12,
+    "totalInputsDistributed": 45000,
+    "totalProductionKg": 850000,
+    "totalRevenue": 12500000,
+    "lastUpdated": "2026-04-15T10:00:00Z"
+  }
+]

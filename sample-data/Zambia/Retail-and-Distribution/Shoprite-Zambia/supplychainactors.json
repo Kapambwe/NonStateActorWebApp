@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-SHOPRITE-RETAILER-001", "name": "Shoprite Zambia", "type": "Retailer", "location": "Lusaka, Zambia", "contactPerson": "Mutale Chimba", "registrationDate": "1995-06-01"},
+  {"actorId": "ZMB-SHOPRITE-SUP-001", "name": "Shoprite Supplier Network Zambia", "type": "Supplier Network", "location": "Nationwide, Zambia", "contactPerson": "David Mwansa", "registrationDate": "2000-01-01"},
+  {"actorId": "ZMB-SHOPRITE-DIST-001", "name": "Shoprite Distribution Center", "type": "Logistics", "location": "Lusaka, Zambia", "contactPerson": "Esther Banda", "registrationDate": "2001-03-10"},
+  {"actorId": "ZMB-SHOPRITE-GOVT-001", "name": "Ministry of Commerce Trade and Industry", "type": "Government Agency", "location": "Lusaka, Zambia", "contactPerson": "Permanent Secretary", "registrationDate": "1970-01-01"},
+  {"actorId": "ZMB-SHOPRITE-BANK-001", "name": "Zambia National Commercial Bank (Zanaco)", "type": "Financial Institution", "location": "Lusaka, Zambia", "contactPerson": "Bank Manager", "registrationDate": "1969-01-01"}
+]

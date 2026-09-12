@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZAF-PICKNPAY-RETAILER-001", "name": "Pick n Pay South Africa", "type": "Retailer", "location": "Cape Town, South Africa", "contactPerson": "Sipho Dlamini", "registrationDate": "1977-01-01"},
+  {"actorId": "ZAF-PICKNPAY-SUP-001", "name": "Pick n Pay Supplier Network", "type": "Supplier Network", "location": "Nationwide, South Africa", "contactPerson": "Nomusa Nkosi", "registrationDate": "1985-01-01"},
+  {"actorId": "ZAF-PICKNPAY-DIST-001", "name": "Pick n Pay Distribution Center", "type": "Logistics", "location": "Johannesburg, South Africa", "contactPerson": "Andile Mokoena", "registrationDate": "1990-01-01"},
+  {"actorId": "ZAF-PICKNPAY-GOVT-001", "name": "Department of Trade, Industry and Competition", "type": "Government Agency", "location": "Pretoria, South Africa", "contactPerson": "Minister", "registrationDate": "1994-01-01"},
+  {"actorId": "ZAF-PICKNPAY-BANK-001", "name": "Standard Bank South Africa", "type": "Financial Institution", "location": "Johannesburg, South Africa", "contactPerson": "Bank Manager", "registrationDate": "1970-01-01"}
+]

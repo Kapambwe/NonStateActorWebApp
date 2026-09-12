@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZIM-OK-01", "farmerId": "ZIM-ZFU-F-001", "supplierId": "ZIM-OK-SUP-001", "buyerId": "ZIM-OK-RETAILER-001", "product": "Maize", "agreedQuantityKg": 12000, "pricePerKg": 0.31, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active - Supply to OK Zimbabwe"},
+  {"contractId": "CF2026-ZIM-OK-02", "farmerId": "ZIM-ZFU-F-001", "supplierId": "ZIM-OK-SUP-001", "buyerId": "ZIM-OK-RETAILER-001", "product": "Chicken", "agreedQuantityKg": 8000, "pricePerKg": 1.5, "startDate": "2026-05-01", "endDate": "2026-12-31", "status": "Active - Supply to OK Zimbabwe"},
+  {"contractId": "CF2026-ZIM-OK-03", "farmerId": "ZIM-ZAMBEEF-FARM-001", "supplierId": "ZIM-OK-SUP-001", "buyerId": "ZIM-OK-RETAILER-001", "product": "Cattle", "agreedQuantityHead": 75, "pricePerKg": 2.85, "startDate": "2026-06-01", "endDate": "2026-11-30", "status": "Active - Supply to OK Zimbabwe"},
+  {"contractId": "CF2026-ZIM-OK-04", "farmerId": "ZIM-ZFU-F-001", "supplierId": "ZIM-OK-SUP-001", "buyerId": "ZIM-OK-RETAILER-001", "product": "Goats", "agreedQuantityHead": 100, "pricePerHead": 85, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active - Supply to OK Zimbabwe"},
+  {"contractId": "CF2026-ZIM-OK-05", "farmerId": "ZIM-ZFU-F-001", "supplierId": "ZIM-OK-SUP-001", "buyerId": "ZIM-OK-RETAILER-001", "product": "Cotton", "agreedQuantityKg": 5000, "pricePerKg": 1.2, "startDate": "2026-08-01", "endDate": "2026-10-31", "status": "Active - Supply to OK Zimbabwe"}
+]

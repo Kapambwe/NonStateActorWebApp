@@ -1,0 +1,62 @@
+[
+  {
+    "alertId": "ALT-FAO-001",
+    "farmerId": "F-FAO-001",
+    "farmerName": "Foday Mansaray",
+    "alertType": "Weather",
+    "title": "Heavy Rain Warning — Tonkolili District",
+    "message": "Forecast heavy rainfall next 72 hours. Harvest rice before Tuesday to avoid field losses.",
+    "priority": "High",
+    "dateCreated": "2024-05-01T06:00:00Z",
+    "isRead": false,
+    "actionRequired": true
+  },
+  {
+    "alertId": "ALT-FAO-002",
+    "farmerId": "F-FAO-002",
+    "farmerName": "Aminata Koroma",
+    "alertType": "Pest",
+    "title": "Fall Armyworm Outbreak Detected",
+    "message": "Fall armyworm confirmed in Bombali. Inspect your maize fields immediately and apply recommended controls.",
+    "priority": "Critical",
+    "dateCreated": "2024-05-03T08:30:00Z",
+    "isRead": false,
+    "actionRequired": true
+  },
+  {
+    "alertId": "ALT-FAO-003",
+    "farmerId": "F-FAO-003",
+    "farmerName": "Ibrahim Bangura",
+    "alertType": "Market",
+    "title": "Groundnut Prices at 5-Year High",
+    "message": "Groundnut export prices have risen 40% this week. Consider selling at Kambia market for premium rates.",
+    "priority": "Medium",
+    "dateCreated": "2024-05-05T10:00:00Z",
+    "isRead": true,
+    "actionRequired": false
+  },
+  {
+    "alertId": "ALT-FAO-004",
+    "farmerId": "F-FAO-004",
+    "farmerName": "Fatmata Sesay",
+    "alertType": "Programme",
+    "title": "Input Distribution Scheduled",
+    "message": "Your cassava cuttings order ORD-FAO-004 is ready for collection at Yele distribution point this Friday.",
+    "priority": "Medium",
+    "dateCreated": "2024-05-06T09:00:00Z",
+    "isRead": false,
+    "actionRequired": true
+  },
+  {
+    "alertId": "ALT-FAO-005",
+    "farmerId": "F-FAO-005",
+    "farmerName": "Mohamed Conteh",
+    "alertType": "Training",
+    "title": "Training Reminder: Soil Fertility Workshop",
+    "message": "The Soil Fertility Management training in Koinadugu starts in 3 days. Confirm your attendance.",
+    "priority": "Low",
+    "dateCreated": "2024-08-30T07:00:00Z",
+    "isRead": true,
+    "actionRequired": false
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-UG-CAPS-001", "productId": "COFFEE-UG-003", "farmerId": "UG-CAPS-F-001", "deliveryDate": "2026-04-11", "quantityKg": 1000, "status": "Delivered to Retailer", "location": "Capital Shoppers Uganda, Kampala"},
+  {"trackingId": "PT2026-UG-CAPS-002", "productId": "MAIZE-UG-008", "farmerId": "UG-CAPS-F-001", "deliveryDate": "2026-04-10", "quantityKg": 5000, "status": "Harvested", "location": "Pearl Farm Produce, Masaka"},
+  {"trackingId": "PT2026-UG-CAPS-003", "productId": "COFFEE-UG-003", "farmerId": "UG-CAPS-F-001", "deliveryDate": "2026-04-12", "quantityKg": 1000, "status": "Exported", "location": "Entebbe Port"},
+  {"trackingId": "PT2026-UG-CAPS-004", "productId": "COTTON-UG-002", "farmerId": "UG-CAPS-F-001", "deliveryDate": "2026-03-20", "quantityKg": 3000, "status": "Delivered to Ginneries", "location": "Masaka Region"},
+  {"trackingId": "PT2026-UG-CAPS-005", "productId": "TEA-UG-001", "farmerId": "UG-CAPS-F-001", "deliveryDate": "2026-04-15", "quantityKg": 2000, "status": "Processed", "location": "Tea Factory, Uganda"}
+]

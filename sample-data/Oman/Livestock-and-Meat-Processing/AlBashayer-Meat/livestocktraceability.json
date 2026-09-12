@@ -1,0 +1,30 @@
+[
+  {
+    "animalId": "LS-ABM-001",
+    "farmerId": "F-ABM-009",
+    "farmerName": "Kenneth Banda",
+    "animalType": "Cattle",
+    "breed": "Angoni",
+    "tagNumber": "CATTLE-ABM-2023-1145",
+    "birthDate": "2023-08-10T00:00:00Z",
+    "origin": "AlBashayer Zambia Program",
+    "currentLocation": "Lusaka Quarantine Facility",
+    "healthStatus": "Healthy - Export Certified",
+    "vaccinationStatus": "Oman import compliant",
+    "lastVetVisit": "2025-01-17T00:00:00Z"
+  },
+  {
+    "animalId": "LS-ABM-002",
+    "farmerId": "F-ABM-016",
+    "farmerName": "Alice Mwanza",
+    "animalType": "Cattle",
+    "breed": "Tuli Cross",
+    "tagNumber": "CATTLE-ABM-2023-1289",
+    "birthDate": "2023-09-15T00:00:00Z",
+    "origin": "Southern Province Suppliers",
+    "currentLocation": "Lusaka Quarantine Facility",
+    "healthStatus": "Healthy - Export Certified",
+    "vaccinationStatus": "Oman import compliant",
+    "lastVetVisit": "2025-01-17T00:00:00Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"actorId": "MWI-CHIPiku-RETAILER-001", "name": "Chipiku Plus", "type": "Retailer", "location": "Lilongwe, Malawi", "contactPerson": "Blessings Simango", "registrationDate": "1993-01-01"},
+  {"actorId": "MWI-CHIPiku-SUP-001", "name": "Chipiku Plus Supplier Network", "type": "Supplier Network", "location": "Various, Malawi", "contactPerson": "Esther Makoto", "registrationDate": "1998-03-03"},
+  {"actorId": "MWI-CHIPiku-DIST-001", "name": "Chipiku Plus Distribution Center", "type": "Logistics", "location": "Lilongwe, Malawi", "contactPerson": "John Kayira", "registrationDate": "2000-01-01"},
+  {"actorId": "MWI-CHIPiku-GOVT-001", "name": "Ministry of Trade and Industry (Malawi)", "type": "Government Agency", "location": "Lilongwe, Malawi", "contactPerson": "Minister", "registrationDate": "1975-01-01"},
+  {"actorId": "MWI-CHIPiku-BANK-001", "name": "National Bank of Malawi", "type": "Financial Institution", "location": "Lilongwe, Malawi", "contactPerson": "Branch Manager", "registrationDate": "1970-01-01"}
+]

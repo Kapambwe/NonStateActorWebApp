@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZAF-SIYAZISA-NGO-001", "name": "The Siyazisiza Trust", "type": "NGO", "location": "KwaZulu-Natal, South Africa", "contactPerson": "Nomusa Zulu", "registrationDate": "2003-05-01"},
+  {"actorId": "ZAF-SIYAZISA-PROG-001", "name": "Coastal Communities Agriculture Program", "type": "Program", "location": "Coastal KwaZulu-Natal", "contactPerson": "Sipho Ndlovu", "registrationDate": "2019-09-20"},
+  {"actorId": "ZAF-SIYAZISA-COMM-001", "name": "Coastal Farming Communities", "type": "Community", "location": "KwaZulu-Natal, South Africa", "contactPerson": "Community Leader", "registrationDate": "2010-01-01"},
+  {"actorId": "ZAF-SIYAZISA-GOVT-001", "name": "Department of Rural Development and Land Reform", "type": "Government Agency", "location": "Pretoria, South Africa", "contactPerson": "Director", "registrationDate": "2000-01-01"},
+  {"actorId": "ZAF-SIYAZISA-EDU-001", "name": "Siyazisiza Education Outreach", "type": "Education Program", "location": "KwaZulu-Natal, South Africa", "contactPerson": "Ms. Mthembu", "registrationDate": "2015-01-01"}
+]

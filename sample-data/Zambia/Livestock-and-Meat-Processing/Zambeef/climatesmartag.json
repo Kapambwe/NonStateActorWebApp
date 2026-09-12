@@ -1,0 +1,26 @@
+[
+  {
+    "practiceId": "CSA-ZB-001",
+    "practiceName": "Rotational Grazing for Cattle",
+    "farmerId": "F-ZB-045",
+    "farmerName": "Bwalya Mulenga",
+    "district": "Mkushi",
+    "cropType": "Cattle Ranching",
+    "adoptionDate": "2024-05-10T00:00:00Z",
+    "yieldIncrease": 22.0,
+    "waterSavings": 15.0,
+    "carbonSequestration": 4.2
+  },
+  {
+    "practiceId": "CSA-ZB-002",
+    "practiceName": "Feed Lot Manure Management",
+    "farmerId": "F-ZB-078",
+    "farmerName": "Grace Tembo",
+    "district": "Chisamba",
+    "cropType": "Cattle Feedlot",
+    "adoptionDate": "2024-08-15T00:00:00Z",
+    "yieldIncrease": 18.0,
+    "waterSavings": 20.0,
+    "carbonSequestration": 6.8
+  }
+]

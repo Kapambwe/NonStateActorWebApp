@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-FAO-UN-001", "name": "FAO Zambia Country Office", "type": "International Organization", "location": "Lusaka, Zambia", "contactPerson": "Dr. John Doe", "registrationDate": "2005-09-01"},
+  {"actorId": "ZMB-FAO-PROG-001", "name": "FAO Sustainable Agriculture Program", "type": "Program", "location": "Various Districts, Zambia", "contactPerson": "Alice Banda", "registrationDate": "2021-01-20"},
+  {"actorId": "ZMB-FAO-CONS-001", "name": "FAO Rural Development Consultancy", "type": "Consultancy", "location": "Lusaka, Zambia", "contactPerson": "Peter Chisanga", "registrationDate": "2022-08-15"},
+  {"actorId": "ZMB-FAO-TECH-001", "name": "FAO Agricultural Technology Transfer", "type": "Project", "location": "Nationwide, Zambia", "contactPerson": "Sarah Mwale", "registrationDate": "2020-04-01"},
+  {"actorId": "ZMB-FAO-PART-001", "name": "FAO Local Partner Network", "type": "Partner Network", "location": "Various, Zambia", "contactPerson": "David Simataa", "registrationDate": "2018-11-11"}
+]

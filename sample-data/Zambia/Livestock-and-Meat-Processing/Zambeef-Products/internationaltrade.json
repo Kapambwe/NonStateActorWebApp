@@ -1,0 +1,12 @@
+[
+  {
+    "tradeId": "IT2026-ZMB-ZAMBEEF-EXP01",
+    "exporterId": "ZMB-ZAMBEEF-PROD-001",
+    "importerCountry": "Democratic Republic of Congo",
+    "product": "Beef",
+    "quantityKg": 30000,
+    "exportDate": "2026-05-20",
+    "valueUSD": 150000,
+    "status": "Exported by Zambeef"
+  }
+]

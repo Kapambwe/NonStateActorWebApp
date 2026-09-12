@@ -1,0 +1,22 @@
+[
+  {
+    "traceId": "LIVESTOCK-ZNFU-1001",
+    "animalId": "CATTLE-LS-015",
+    "ownerId": "ZNFU-F-001",
+    "species": "Cattle",
+    "breed": "Boran",
+    "birthDate": "2023-07-20",
+    "lastLocation": "Chibesa Farm, Lusaka",
+    "healthStatus": "Good"
+  },
+  {
+    "traceId": "LIVESTOCK-ZNFU-1002",
+    "animalId": "GOAT-LS-088",
+    "ownerId": "ZNFU-F-001",
+    "species": "Goat",
+    "breed": "Boer",
+    "birthDate": "2024-01-05",
+    "lastLocation": "Chibesa Farm, Lusaka",
+    "healthStatus": "Good"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-FAO-EXP01", "exporterId": "ZNFU-C-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 22000, "exportDate": "2026-05-01", "valueUSD": 7260, "status": "Exported - FAO Facilitated"},
+  {"tradeId": "IT2026-ZMB-FAO-IMP01", "importerId": "ZMB-FAO-UN-001", "exporterCountry": "USA", "product": "Fertilizers", "quantityKg": 25000, "importDate": "2026-04-25", "valueUSD": 25000, "status": "Imported - FAO Project"},
+  {"tradeId": "IT2026-ZMB-FAO-EXP02", "exporterId": "ZNFU-B-001", "importerCountry": "South Africa", "product": "Soybean Meal", "quantityKg": 15000, "exportDate": "2026-05-10", "valueUSD": 6000, "status": "Exported - FAO Supported"},
+  {"tradeId": "IT2026-ZMB-FAO-EXP03", "exporterId": "ZNFU-C-001", "importerCountry": "Kenya", "product": "Cotton Lint", "quantityKg": 4000, "exportDate": "2026-05-15", "valueUSD": 6000, "status": "Exported - FAO Facilitated"},
+  {"tradeId": "IT2026-ZMB-FAO-IMP02", "importerId": "ZMB-FAO-UN-001", "exporterCountry": "EU", "product": "Agricultural Machinery", "quantityUnits": 5, "importDate": "2026-04-30", "valueUSD": 50000, "status": "Imported - FAO Initiative"}
+]

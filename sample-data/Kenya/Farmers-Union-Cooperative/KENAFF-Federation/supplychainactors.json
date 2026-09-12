@@ -1,0 +1,7 @@
+[
+  {"actorId": "KEN-KENAFF-F-001", "name": "KENAFF Farmer Cooperative", "type": "Farmer Cooperative", "location": "Nairobi, Kenya", "contactPerson": "Rosemary Njoki", "registrationDate": "2018-05-10"},
+  {"actorId": "KEN-KENAFF-FED-001", "name": "Kenya National Farmers' Federation", "type": "Federation", "location": "Nairobi, Kenya", "contactPerson": "David Karanja", "registrationDate": "1999-02-15"},
+  {"actorId": "KEN-KENAFF-BUYER-001", "name": "Kenyan Grain Traders Ltd.", "type": "Buyer", "location": "Mombasa, Kenya", "contactPerson": "John Otieno", "registrationDate": "2010-01-10"},
+  {"actorId": "KEN-KENAFF-GOVT-001", "name": "Ministry of Agriculture, Livestock, Fisheries and Cooperatives", "type": "Government Agency", "location": "Nairobi, Kenya", "contactPerson": "Cabinet Secretary", "registrationDate": "1970-01-01"},
+  {"actorId": "KEN-KENAFF-TRAIN-001", "name": "KENAFF Agricultural Training Center", "type": "Training Center", "location": "Nairobi, Kenya", "contactPerson": "Ms. Wanjiku", "registrationDate": "2005-01-01"}
+]

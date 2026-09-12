@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-UAE-ALAIND-01", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "product": "Milk", "agreedQuantityLiters": 10000, "pricePerLiter": 0.5, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-ALAIND-02", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "product": "Yogurt", "agreedQuantityKg": 5000, "pricePerKg": 1.2, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-UAE-ALAIND-03", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "product": "Cheese", "agreedQuantityKg": 3000, "pricePerKg": 5.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-ALAIND-04", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "product": "Butter", "agreedQuantityKg": 2000, "pricePerKg": 6.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-ALAIND-05", "farmerId": "UAE-ALAIND-FARM-001", "processorId": "UAE-ALAIND-DAIRY-001", "product": "Juice", "agreedQuantityLiters": 8000, "pricePerLiter": 0.8, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

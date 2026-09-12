@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZMB-GGA-001", "productId": "SOIL-AMEND-ZMB-001", "farmerId": "ZNFU-F-001", "programId": "ZMB-GGA-PROJ-001", "deliveryDate": "2026-04-14", "quantityKg": 5000, "status": "Distributed to Farmers", "location": "Project Farms, Rural Zambia"},
+  {"trackingId": "PT2026-ZMB-GGA-002", "productId": "MAIZE-SEED-ZMB-005", "farmerId": "ZNFU-F-001", "programId": "ZMB-GGA-PROJ-001", "deliveryDate": "2026-04-15", "quantityKg": 8000, "status": "Distributed by GGA", "location": "Project Farms, Rural Zambia"},
+  {"trackingId": "PT2026-ZMB-GGA-003", "productId": "FERTILIZER-ZMB-004", "farmerId": "ZNFU-F-001", "programId": "ZMB-GGA-PROJ-001", "deliveryDate": "2026-04-16", "quantityKg": 10000, "status": "Distributed by GGA", "location": "Project Areas"},
+  {"trackingId": "PT2026-ZMB-GGA-004", "productId": "GOATS-ZMB-001", "farmerId": "ZNFU-F-001", "programId": "ZMB-GGA-PROJ-001", "deliveryDate": "2026-04-17", "quantityKg": 500, "status": "Distributed to Farmers", "location": "Project Farms, Rural Zambia"},
+  {"trackingId": "PT2026-ZMB-GGA-005", "productId": "WATER-PUMPS-ZMB-001", "farmerId": "ZNFU-F-001", "programId": "ZMB-GGA-PROJ-001", "deliveryDate": "2026-04-18", "quantityUnits": 50, "status": "Distributed by GGA", "location": "Project Areas"}
+]

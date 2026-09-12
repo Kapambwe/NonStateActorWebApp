@@ -1,0 +1,7 @@
+[
+  {"actorId": "TZA-SHOPPERS-RETAILER-001", "name": "Shoppers Tanzania", "type": "Retailer", "location": "Dar es Salaam, Tanzania", "contactPerson": "Fatima Juma", "registrationDate": "2005-01-01"},
+  {"actorId": "TZA-SHOPPERS-SUP-001", "name": "Shoppers Tanzania Supplier Network", "type": "Supplier Network", "location": "Nationwide, Tanzania", "contactPerson": "Ahmed Hassan", "registrationDate": "2010-01-01"},
+  {"actorId": "TZA-SHOPPERS-DIST-001", "name": "Shoppers Distribution Center", "type": "Logistics", "location": "Dar es Salaam, Tanzania", "contactPerson": "Juma Said", "registrationDate": "2008-05-01"},
+  {"actorId": "TZA-SHOPPERS-GOVT-001", "name": "Ministry of Industry and Trade (Tanzania)", "type": "Government Agency", "location": "Dodoma, Tanzania", "contactPerson": "Minister", "registrationDate": "1975-01-01"},
+  {"actorId": "TZA-SHOPPERS-BANK-001", "name": "CRDB Bank PLC", "type": "Financial Institution", "location": "Dar es Salaam, Tanzania", "contactPerson": "Branch Manager", "registrationDate": "1966-01-01"}
+]

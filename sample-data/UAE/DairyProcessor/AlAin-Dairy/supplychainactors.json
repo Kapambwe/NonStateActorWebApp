@@ -1,0 +1,7 @@
+[
+  {"actorId": "UAE-ALAIND-DAIRY-001", "name": "Al Ain Dairy", "type": "Dairy Processor", "location": "Al Ain, UAE", "contactPerson": "Abdullah Al Maktoum", "registrationDate": "1980-01-01"},
+  {"actorId": "UAE-ALAIND-FARM-001", "name": "Al Ain Dairy Farms", "type": "Farm", "location": "Al Ain, UAE", "contactPerson": "Khalid Al Farsi", "registrationDate": "1985-05-01"},
+  {"actorId": "UAE-ALAIND-DIST-001", "name": "Al Ain Dairy Distribution", "type": "Logistics", "location": "Dubai, UAE", "contactPerson": "Fatima Al Ali", "registrationDate": "1990-01-01"},
+  {"actorId": "UAE-ALAIND-RETAIL-001", "name": "Al Ain Dairy Retail Outlets", "type": "Retail Chain", "location": "Nationwide, UAE", "contactPerson": "Store Manager", "registrationDate": "1995-01-01"},
+  {"actorId": "UAE-ALAIND-GOVT-001", "name": "Ministry of Climate Change and Environment (UAE)", "type": "Government Agency", "location": "Abu Dhabi, UAE", "contactPerson": "Minister", "registrationDate": "1971-12-02"}
+]

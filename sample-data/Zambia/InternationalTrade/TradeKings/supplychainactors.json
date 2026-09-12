@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-TRADEKINGS-IMP-001", "name": "Trade Kings Group", "type": "Conglomerate", "location": "Lusaka, Zambia", "contactPerson": "Mr. J. Patel", "registrationDate": "1980-01-01"},
+  {"actorId": "ZMB-TRADEKINGS-MFG-001", "name": "Trade Kings Manufacturing", "type": "Manufacturer", "location": "Ndola, Zambia", "contactPerson": "Mrs. E. Chanda", "registrationDate": "1995-05-05"},
+  {"actorId": "ZMB-TRADEKINGS-DIST-001", "name": "Trade Kings Distribution", "type": "Distributor", "location": "Nationwide, Zambia", "contactPerson": "David Simataa", "registrationDate": "1998-03-03"},
+  {"actorId": "ZMB-TRADEKINGS-EXPORT-001", "name": "Trade Kings Export Division", "type": "Exporter", "location": "Lusaka, Zambia", "contactPerson": "Sarah Musonda", "registrationDate": "2005-01-01"},
+  {"actorId": "ZMB-TRADEKINGS-GOVT-001", "name": "Zambia Revenue Authority", "type": "Government Agency", "location": "Lusaka, Zambia", "contactPerson": "Customs Official", "registrationDate": "1973-01-01"}
+]

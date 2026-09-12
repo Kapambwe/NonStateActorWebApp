@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-TRADEKINGS-1001", "animalId": "CATTLE-ZMB-350", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Brahman", "birthDate": "2023-05-01", "lastLocation": "ZNFU Farm, Zambia", "healthStatus": "Good - For TradeKings"},
+  {"traceId": "LIVESTOCK-ZMB-TRADEKINGS-1002", "animalId": "GOAT-ZMB-200", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-01-01", "lastLocation": "ZNFU Farm, Zambia", "healthStatus": "Good - For TradeKings"},
+  {"traceId": "LIVESTOCK-ZMB-TRADEKINGS-1003", "animalId": "CHICKEN-ZMB-600", "ownerId": "ZNFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-03-01", "lastLocation": "ZNFU Farm, Zambia", "healthStatus": "Healthy - For TradeKings"},
+  {"traceId": "LIVESTOCK-ZMB-TRADEKINGS-1004", "animalId": "CATTLE-ZMB-351", "ownerId": "ZNFU-F-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-06-01", "lastLocation": "ZNFU Farm, Zambia", "healthStatus": "Good - For TradeKings"},
+  {"traceId": "LIVESTOCK-ZMB-TRADEKINGS-1005", "animalId": "GOAT-ZMB-201", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-02-01", "lastLocation": "ZNFU Farm, Zambia", "healthStatus": "Good - For TradeKings"}
+]

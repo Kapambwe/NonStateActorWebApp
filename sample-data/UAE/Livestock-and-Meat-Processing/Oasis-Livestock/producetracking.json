@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-UAE-OSLS-001", "productId": "LAMB-UAE-001", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "deliveryDate": "2026-04-10", "quantityKg": 2000, "status": "Processed", "location": "Oasis Processing Plant, Abu Dhabi"},
+  {"trackingId": "PT2026-UAE-OSLS-002", "productId": "BEEF-UAE-001", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "deliveryDate": "2026-04-11", "quantityKg": 3000, "status": "Packaged", "location": "Oasis Processing Plant, Abu Dhabi"},
+  {"trackingId": "PT2026-UAE-OSLS-003", "productId": "CHICKEN-UAE-001", "processorId": "UAE-OSLS-MEAT-001", "deliveryDate": "2026-04-12", "quantityKg": 1500, "status": "Distributed", "location": "Oasis Livestock Distribution Center"},
+  {"trackingId": "PT2026-UAE-OSLS-004", "productId": "LAMB-UAE-002", "farmerId": "UAE-OSLS-FARM-001", "processorId": "UAE-OSLS-MEAT-001", "deliveryDate": "2026-04-13", "quantityKg": 2500, "status": "Sold to Retail", "location": "Oasis Meat Shops"},
+  {"trackingId": "PT2026-UAE-OSLS-005", "productId": "MEAT-BOX-UAE-001", "processorId": "UAE-OSLS-MEAT-001", "deliveryDate": "2026-04-14", "quantityUnits": 500, "status": "Shipped to Retailers", "location": "Various Retail Outlets"}
+]

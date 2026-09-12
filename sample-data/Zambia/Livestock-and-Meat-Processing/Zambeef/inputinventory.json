@@ -1,0 +1,24 @@
+[
+  {
+    "inventoryId": "INV-ZB-001",
+    "inputType": "Veterinary Supplies",
+    "inputName": "FMD Vaccine",
+    "currentStock": 25000.0,
+    "unit": "doses",
+    "reorderLevel": 10000.0,
+    "location": "Zambeef Central Warehouse - Lusaka",
+    "lastRestocked": "2025-01-10T00:00:00Z",
+    "expiryDate": "2026-01-10T00:00:00Z"
+  },
+  {
+    "inventoryId": "INV-ZB-002",
+    "inputType": "Feed",
+    "inputName": "Cattle Feed Concentrate",
+    "currentStock": 85000.0,
+    "unit": "kg",
+    "reorderLevel": 30000.0,
+    "location": "Chisamba Feed Mill",
+    "lastRestocked": "2025-01-05T00:00:00Z",
+    "expiryDate": "2025-12-31T00:00:00Z"
+  }
+]

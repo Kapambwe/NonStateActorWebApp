@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-KEN-NAIVAS-01", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "buyerId": "KEN-NAIVAS-RETAILER-001", "product": "Maize", "agreedQuantityKg": 15000, "pricePerKg": 2.5, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active - Supply to Naivas"},
+  {"contractId": "CF2026-KEN-NAIVAS-02", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "buyerId": "KEN-NAIVAS-RETAILER-001", "product": "Coffee Beans", "agreedQuantityKg": 8000, "pricePerKg": 3.1, "startDate": "2026-05-01", "endDate": "2026-12-31", "status": "Active - Supply to Naivas"},
+  {"contractId": "CF2026-KEN-NAIVAS-03", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "buyerId": "KEN-NAIVAS-RETAILER-001", "product": "Tea Leaves", "agreedQuantityKg": 6000, "pricePerKg": 2.6, "startDate": "2026-06-01", "endDate": "2026-11-30", "status": "Active - Supply to Naivas"},
+  {"contractId": "CF2026-KEN-NAIVAS-04", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "buyerId": "KEN-NAIVAS-RETAILER-001", "product": "Cotton", "agreedQuantityKg": 4000, "pricePerKg": 1.2, "startDate": "2026-07-01", "endDate": "2026-10-31", "status": "Active - Supply to Naivas"},
+  {"contractId": "CF2026-KEN-NAIVAS-05", "farmerId": "KEN-KENAFF-F-001", "supplierId": "KEN-NAIVAS-SUP-001", "buyerId": "KEN-NAIVAS-RETAILER-001", "product": "Horticulture", "agreedQuantityKg": 7000, "pricePerKg": 1.1, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active - Supply to Naivas"}
+]

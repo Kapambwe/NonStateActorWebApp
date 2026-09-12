@@ -1,0 +1,24 @@
+[
+  {
+    "inventoryId": "INV-GIZ-001",
+    "inputType": "Seeds",
+    "inputName": "Maize - SC627",
+    "currentStock": 1200.0,
+    "unit": "kg",
+    "reorderLevel": 500.0,
+    "location": "GIZ Lusaka Warehouse",
+    "lastRestocked": "2025-01-05T00:00:00Z",
+    "expiryDate": "2026-06-30T00:00:00Z"
+  },
+  {
+    "inventoryId": "INV-GIZ-002",
+    "inputType": "Fertilizer",
+    "inputName": "Urea 46%",
+    "currentStock": 3500.0,
+    "unit": "kg",
+    "reorderLevel": 1000.0,
+    "location": "GIZ Lusaka Warehouse",
+    "lastRestocked": "2024-12-20T00:00:00Z",
+    "expiryDate": "2027-12-31T00:00:00Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "farmerId": "F-CB-001",
+    "name": "Mulenga Mwamba",
+    "age": 40,
+    "gender": "Male",
+    "contactNumber": "+260-977-123456",
+    "district": "Mpongwe",
+    "chiefdom": "Mpongwe",
+    "village": "Ibenga",
+    "farmSize": 30.5,
+    "primaryCrop": "Maize",
+    "secondaryCrops": ["Soya Beans", "Vegetables"],
+    "registrationDate": "2023-05-12T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-CB-002",
+    "name": "Beauty Chibesa",
+    "age": 36,
+    "gender": "Female",
+    "contactNumber": "+260-966-234567",
+    "district": "Lufwanyama",
+    "chiefdom": "Shibuchinga",
+    "village": "Mukutuma",
+    "farmSize": 15.0,
+    "primaryCrop": "Soya Beans",
+    "secondaryCrops": ["Maize", "Beans"],
+    "registrationDate": "2023-06-20T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "farmerId": "F-CB-003",
+    "name": "Gift Kapambwe",
+    "age": 28,
+    "gender": "Male",
+    "contactNumber": "+260-955-345678",
+    "district": "Masaiti",
+    "chiefdom": "Chiwala",
+    "village": "Mishikishi",
+    "farmSize": 10.2,
+    "primaryCrop": "Horticulture",
+    "secondaryCrops": ["Poultry"],
+    "registrationDate": "2024-01-05T00:00:00Z",
+    "isActive": true
+  }
+]

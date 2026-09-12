@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZAF-SIYAZISA-1001", "animalId": "GOAT-ZAF-701", "ownerId": "ZAF-SIYAZISA-PROG-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-02-01", "lastLocation": "Project Community, KZN", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZAF-SIYAZISA-1002", "animalId": "CATTLE-ZAF-610", "ownerId": "ZAF-SIYAZISA-PROG-001", "species": "Cattle", "breed": "Nguni", "birthDate": "2023-09-01", "lastLocation": "Project Farm, KZN", "healthStatus": "Good - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZAF-SIYAZISA-1003", "animalId": "CHICKEN-ZAF-900", "ownerId": "ZAF-SIYAZISA-PROG-001", "species": "Chicken", "breed": "Local", "birthDate": "2024-04-01", "lastLocation": "Project Farm, KZN", "healthStatus": "Healthy - NGO Supported"},
+  {"traceId": "LIVESTOCK-ZAF-SIYAZISA-1004", "animalId": "GOAT-ZAF-702", "ownerId": "ZAF-SIYAZISA-PROG-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-10", "lastLocation": "Project Community, KZN", "healthStatus": "Good - Farm Africa Program Animal"},
+  {"traceId": "LIVESTOCK-ZAF-SIYAZISA-1005", "animalId": "CATTLE-ZAF-611", "ownerId": "ZAF-SIYAZISA-PROG-001", "species": "Cattle", "breed": "Brahman", "birthDate": "2023-10-01", "lastLocation": "Project Farm, KZN", "healthStatus": "Good - NGO Initiative"}
+]

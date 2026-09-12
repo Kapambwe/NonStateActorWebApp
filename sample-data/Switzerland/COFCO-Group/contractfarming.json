@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-CH-COFCO-01", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "product": "Grains", "agreedQuantityKg": 10000, "pricePerKg": 0.5, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-CH-COFCO-02", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "product": "Dairy", "agreedQuantityKg": 5000, "pricePerKg": 1.0, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-CH-COFCO-03", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "product": "Meat", "agreedQuantityKg": 8000, "pricePerKg": 5.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-CH-COFCO-04", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "product": "Wine", "agreedQuantityLiters": 15000, "pricePerLiter": 5.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-CH-COFCO-05", "farmerId": "CH-COFCO-FARM-001", "processorId": "CH-COFCO-PROC-001", "product": "Packaged Food", "agreedQuantityUnits": 10000, "pricePerUnit": 2.0, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

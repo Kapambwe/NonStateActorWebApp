@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZIM-HLF-IMP01", "importerId": "ZIM-HLF-PROG-001", "exporterCountry": "South Africa", "product": "Educational Materials", "quantityUnits": 1000, "importDate": "2026-04-23", "valueUSD": 15000, "status": "Imported - HLF Project"},
+  {"tradeId": "IT2026-ZIM-HLF-EXP01", "exporterId": "ZIM-HLF-PROG-001", "importerCountry": "Malawi", "product": "Agricultural Seeds", "quantityKg": 5000, "exportDate": "2026-05-01", "valueUSD": 7500, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZIM-HLF-IMP02", "importerId": "ZIM-HLF-PROG-001", "exporterCountry": "China", "product": "Medical Supplies", "quantityUnits": 200, "importDate": "2026-04-28", "valueUSD": 20000, "status": "Imported - HLF Initiative"},
+  {"tradeId": "IT2026-ZIM-HLF-EXP02", "exporterId": "ZIM-HLF-PROG-001", "importerCountry": "Botswana", "product": "Goats", "quantityHead": 100, "exportDate": "2026-05-05", "valueUSD": 9000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZIM-HLF-IMP03", "importerId": "ZIM-HLF-PROG-001", "exporterCountry": "EU", "product": "Water Pumps", "quantityUnits": 50, "importDate": "2026-04-30", "valueUSD": 25000, "status": "Imported - HLF Project"}
+]

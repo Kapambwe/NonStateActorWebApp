@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZIM-OK-1001", "animalId": "CATTLE-ZIM-410", "ownerId": "ZIM-ZFU-F-001", "species": "Cattle", "breed": "Nguni", "birthDate": "2023-09-15", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - Supplied to OK Zimbabwe"},
+  {"traceId": "LIVESTOCK-ZIM-OK-1002", "animalId": "GOAT-ZIM-195", "ownerId": "ZIM-ZFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-01", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - Supplied to OK Zimbabwe"},
+  {"traceId": "LIVESTOCK-ZIM-OK-1003", "animalId": "CHICKEN-ZIM-720", "ownerId": "ZIM-ZFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-15", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Healthy - Supplied to OK Zimbabwe"},
+  {"traceId": "LIVESTOCK-ZIM-OK-1004", "animalId": "CATTLE-ZIM-417", "ownerId": "ZIM-ZFU-F-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-10-01", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - Supplied to OK Zimbabwe"},
+  {"traceId": "LIVESTOCK-ZIM-OK-1005", "animalId": "GOAT-ZIM-192", "ownerId": "ZIM-ZFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-20", "lastLocation": "Mashonaland Farm, Zimbabwe", "healthStatus": "Good - Supplied to OK Zimbabwe"}
+]

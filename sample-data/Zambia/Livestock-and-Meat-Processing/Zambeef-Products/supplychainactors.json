@@ -1,0 +1,18 @@
+[
+  {
+    "actorId": "ZMB-ZAMBEEF-PROD-001",
+    "name": "Zambeef Products Plc",
+    "type": "Meat Processor",
+    "location": "Lusaka, Zambia",
+    "contactPerson": "Christopher Mumba",
+    "registrationDate": "1994-01-01"
+  },
+  {
+    "actorId": "ZMB-ZAMBEEF-FARM-001",
+    "name": "Zambeef Farming Operations",
+    "type": "Farm",
+    "location": "Various Farms, Zambia",
+    "contactPerson": "Esther Chisanga",
+    "registrationDate": "1995-03-15"
+  }
+]

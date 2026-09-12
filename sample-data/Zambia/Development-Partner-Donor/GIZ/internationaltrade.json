@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZMB-GIZ-EXP01", "exporterId": "ZNFU-C-001", "importerCountry": "South Africa", "product": "Maize", "quantityKg": 25000, "exportDate": "2026-05-15", "valueUSD": 8750, "status": "Exported - GIZ facilitated"},
+  {"tradeId": "IT2026-ZMB-GIZ-EXP02", "exporterId": "ZNFU-B-001", "importerCountry": "Malawi", "product": "Soybean Meal", "quantityKg": 15000, "exportDate": "2026-05-20", "valueUSD": 6000, "status": "Exported - GIZ Supported"},
+  {"tradeId": "IT2026-ZMB-GIZ-IMP01", "importerId": "ZMB-GIZ-DP-001", "exporterCountry": "Germany", "product": "Agricultural Equipment", "quantityUnits": 10, "importDate": "2026-04-28", "valueUSD": 100000, "status": "Imported - GIZ Project"},
+  {"tradeId": "IT2026-ZMB-GIZ-EXP03", "exporterId": "ZNFU-B-001", "importerCountry": "Kenya", "product": "Cotton Lint", "quantityKg": 5000, "exportDate": "2026-05-25", "valueUSD": 7500, "status": "Exported - GIZ Facilitated"},
+  {"tradeId": "IT2026-ZMB-GIZ-IMP02", "importerId": "ZMB-GIZ-DP-001", "exporterCountry": "USA", "product": "Fertilizers", "quantityKg": 20000, "importDate": "2026-04-30", "valueUSD": 20000, "status": "Imported - GIZ Program"}
+]

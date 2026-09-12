@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-MWI-CHIPiku-001", "productId": "MAIZE-MWI-004", "farmerId": "MWI-NASFAM-F-001", "supplierId": "MWI-CHIPiku-SUP-001", "deliveryDate": "2026-04-12", "quantityKg": 8000, "status": "Delivered to Chipiku Plus", "location": "Chipiku Plus Distribution Center, Lilongwe"},
+  {"trackingId": "PT2026-MWI-CHIPiku-002", "productId": "SOYBEANS-MWI-003", "farmerId": "MWI-NASFAM-F-001", "supplierId": "MWI-CHIPiku-SUP-001", "deliveryDate": "2026-04-13", "quantityKg": 7000, "status": "Delivered to Chipiku Plus", "location": "Chipiku Plus Distribution Center, Lilongwe"},
+  {"trackingId": "PT2026-MWI-CHIPiku-003", "productId": "GROUNDNUTS-MWI-002", "farmerId": "MWI-NASFAM-F-001", "supplierId": "MWI-CHIPiku-SUP-001", "harvestDate": "2026-03-30", "quantityKg": 5000, "status": "Processed", "location": "Chipiku Plus Processing"},
+  {"trackingId": "PT2026-MWI-CHIPiku-004", "productId": "MAIZE-MWI-006", "farmerId": "MWI-NASFAM-F-001", "supplierId": "MWI-CHIPiku-SUP-001", "deliveryDate": "2026-04-15", "quantityKg": 9000, "status": "Sold to Chipiku Plus", "location": "Chipiku Plus Retail Outlets"},
+  {"trackingId": "PT2026-MWI-CHIPiku-005", "productId": "COTTON-MWI-003", "farmerId": "MWI-NASFAM-F-001", "supplierId": "MWI-CHIPiku-SUP-001", "deliveryDate": "2026-03-20", "quantityKg": 4000, "status": "Exported", "location": "Blantyre Border Post"}
+]

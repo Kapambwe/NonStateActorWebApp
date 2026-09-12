@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Private Agric Support</title>
+    <script type="text/javascript">
+        // Start Step 1: Detect base path for GitHub Pages
+        (function() {
+            var repoName = 'NonStateActorWebApp';
+            var path = window.location.pathname;
+            var baseHref = '/';
+            if (path.indexOf('/' + repoName) === 0) {
+                baseHref = '/' + repoName + '/';
+            }
+            document.write('<base href="/NonStateActorWebApp/" />
+    <link href="_framework/dotnet.03xqyssd8a.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-/HvjAHHfcDpEpGpnmWQsTX8WrZQqJmA3DTH0lubwAiI=" />');
+            window.appBaseHref = baseHref; // Export for later use
+        })();
+        // End Step 1
+    </script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="CompanyApp.Clients.NonStateActorApp.styles.css" rel="stylesheet" />
+    <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css" />
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.03xqyssd8a.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.020r7jjcr5.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.03xqyssd8a.js": "sha256-/HvjAHHfcDpEpGpnmWQsTX8WrZQqJmA3DTH0lubwAiI=",
+    "./_framework/dotnet.js": "sha256-/HvjAHHfcDpEpGpnmWQsTX8WrZQqJmA3DTH0lubwAiI=",
+    "./_framework/dotnet.native.020r7jjcr5.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
+    "./_framework/dotnet.native.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
+  }
+}</script>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+    <script src="_content/CompanyApp.Component.NonStateActor/js/fileDownload.js"></script>
+    <script type="text/javascript">
+        // Start Step 2: Restore path from 404 redirect
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                // Remove the 'path' parameter and any leading slash if necessary
+                const decodedPath = decodeURIComponent(path);
+                const finalPath = decodedPath.startsWith('/') ? decodedPath.substring(1) : decodedPath;
+                // Reconstruct the URL without the 'path' query param
+                params.delete('path');
+                const search = params.toString();
+                const newUrl = window.appBaseHref + finalPath + (search ? '?' + search : '') + window.location.hash;
+                window.history.replaceState(null, '', newUrl);
+            }
+        })();
+        // End Step 2
+    </script>
+</body>
+
+</html>

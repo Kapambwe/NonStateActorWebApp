@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-MWI-CHIPiku-IMP01", "importerId": "MWI-CHIPiku-RETAILER-001", "exporterCountry": "South Africa", "product": "Consumer Goods", "quantityUnits": 3000, "importDate": "2026-04-23", "valueUSD": 15000, "status": "Imported by Chipiku Plus"},
+  {"tradeId": "IT2026-MWI-CHIPiku-IMP02", "importerId": "MWI-CHIPiku-RETAILER-001", "exporterCountry": "Zambia", "product": "Dairy Products", "quantityUnits": 2000, "importDate": "2026-04-24", "valueUSD": 8000, "status": "Imported by Chipiku Plus"},
+  {"tradeId": "IT2026-MWI-CHIPiku-IMP03", "importerId": "MWI-CHIPiku-RETAILER-001", "exporterCountry": "China", "product": "Electronics", "quantityUnits": 100, "importDate": "2026-04-28", "valueUSD": 20000, "status": "Imported by Chipiku Plus"},
+  {"tradeId": "IT2026-MWI-CHIPiku-EXP01", "exporterId": "MWI-CHIPiku-SUP-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-01", "valueUSD": 3000, "status": "Exported to Malawi"},
+  {"tradeId": "IT2026-MWI-CHIPiku-EXP02", "exporterId": "MWI-CHIPiku-SUP-001", "importerCountry": "Zambia", "product": "Soybeans", "quantityKg": 7000, "exportDate": "2026-05-05", "valueUSD": 21000, "status": "Exported to Zambia"}
+]

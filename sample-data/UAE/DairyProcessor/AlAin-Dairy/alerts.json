@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-AAD-001",
+    "title": "Milk Production Record",
+    "message": "Daily milk production reached 8,500 liters - New facility record achieved",
+    "severity": "Info",
+    "category": "Production",
+    "dateCreated": "2025-01-18T06:30:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-AAD-002",
+    "title": "Cooling System Maintenance",
+    "message": "Scheduled maintenance for milk cooling system on Jan 26 - Backup systems ready",
+    "severity": "Warning",
+    "category": "Maintenance",
+    "dateCreated": "2025-01-19T08:30:00Z",
+    "isRead": false
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZAF-SIYAZISA-EXP01", "exporterId": "ZAF-FISH-EXPORTER-001", "importerCountry": "Mozambique", "product": "Fish", "quantityKg": 8000, "exportDate": "2026-05-05", "valueUSD": 24000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZAF-SIYAZISA-IMP01", "importerId": "ZAF-SIYAZISA-PROG-001", "exporterCountry": "South Africa", "product": "Agricultural Equipment", "quantityUnits": 20, "importDate": "2026-04-23", "valueUSD": 20000, "status": "Imported - NGO Project"},
+  {"tradeId": "IT2026-ZAF-SIYAZISA-EXP02", "exporterId": "ZAF-FISH-EXPORTER-001", "importerCountry": "Botswana", "product": "Goats", "quantityHead": 100, "exportDate": "2026-05-10", "valueUSD": 9000, "status": "Exported - NGO Facilitated"},
+  {"tradeId": "IT2026-ZAF-SIYAZISA-IMP02", "importerId": "ZAF-SIYAZISA-PROG-001", "exporterCountry": "China", "product": "Fertilizers", "quantityKg": 15000, "importDate": "2026-04-30", "valueUSD": 30000, "status": "Imported - NGO Initiative"},
+  {"tradeId": "IT2026-ZAF-SIYAZISA-EXP03", "exporterId": "ZAF-FISH-EXPORTER-001", "importerCountry": "Tanzania", "product": "Seafood", "quantityKg": 5000, "exportDate": "2026-05-15", "valueUSD": 15000, "status": "Exported - NGO Facilitated"}
+]

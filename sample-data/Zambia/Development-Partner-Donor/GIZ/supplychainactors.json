@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZMB-GIZ-DP-001", "name": "GIZ Zambia Office", "type": "Development Partner", "location": "Lusaka, Zambia", "contactPerson": "Dr. Lena Müller", "registrationDate": "2010-01-15"},
+  {"actorId": "ZMB-GIZ-PROJ-001", "name": "GIZ Agricultural Support Program", "type": "Program", "location": "Rural Lusaka, Zambia", "contactPerson": "David Phiri", "registrationDate": "2022-05-20"},
+  {"actorId": "ZMB-GIZ-CONS-001", "name": "GIZ Agri-Consulting Services", "type": "Consultancy", "location": "Lusaka, Zambia", "contactPerson": "Grace Mwansa", "registrationDate": "2021-07-01"},
+  {"actorId": "ZMB-GIZ-TRAIN-001", "name": "GIZ Farmer Training Initiative", "type": "Training Program", "location": "Various Districts, Zambia", "contactPerson": "Esther Banda", "registrationDate": "2023-03-10"},
+  {"actorId": "ZMB-GIZ-PART-001", "name": "GIZ Local Partner Network", "type": "Partner Network", "location": "Nationwide, Zambia", "contactPerson": "Michael Chanda", "registrationDate": "2015-09-01"}
+]

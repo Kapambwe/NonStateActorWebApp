@@ -1,0 +1,22 @@
+[
+  {
+    "trackingId": "PT2026-ZNFU-001",
+    "productId": "MAIZE-001",
+    "farmerId": "ZNFU-F-001",
+    "cooperativeId": "ZNFU-C-001",
+    "harvestDate": "2026-04-10",
+    "quantityKg": 5000,
+    "status": "Harvested",
+    "location": "Chibesa Farm, Lusaka"
+  },
+  {
+    "trackingId": "PT2026-ZNFU-002",
+    "productId": "MAIZE-001",
+    "farmerId": "ZNFU-F-001",
+    "cooperativeId": "ZNFU-C-001",
+    "deliveryDate": "2026-04-12",
+    "quantityKg": 5000,
+    "status": "Delivered to Cooperative",
+    "location": "Eastern Province Grain Cooperative, Chipata"
+  }
+]

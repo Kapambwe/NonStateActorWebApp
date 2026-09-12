@@ -1,0 +1,7 @@
+[
+  {"actorId": "SA-ALMA-DAIRY-001", "name": "Almarai", "type": "Dairy Processor", "location": "Riyadh, Saudi Arabia", "contactPerson": "Sultan Al-Faisal", "registrationDate": "1977-01-01"},
+  {"actorId": "SA-ALMA-FARM-001", "name": "Almarai Dairy Farms", "type": "Farm", "location": "Kharj, Saudi Arabia", "contactPerson": "Abdullah Al-Qahtani", "registrationDate": "1978-05-01"},
+  {"actorId": "SA-ALMA-DIST-001", "name": "Almarai Distribution", "type": "Logistics", "location": "Jeddah, Saudi Arabia", "contactPerson": "Fatima Al-Ghamdi", "registrationDate": "1980-01-01"},
+  {"actorId": "SA-ALMA-RETAIL-001", "name": "Almarai Supermarkets", "type": "Retail Chain", "location": "Nationwide, Saudi Arabia", "contactPerson": "Store Manager", "registrationDate": "1985-01-01"},
+  {"actorId": "SA-ALMA-GOVT-001", "name": "Ministry of Environment, Water and Agriculture (Saudi Arabia)", "type": "Government Agency", "location": "Riyadh, Saudi Arabia", "contactPerson": "Minister", "registrationDate": "1960-01-01"}
+]

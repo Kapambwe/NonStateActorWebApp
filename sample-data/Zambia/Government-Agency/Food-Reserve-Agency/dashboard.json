@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-FRA-001",
+    "institutionId": "Gov-FRA",
+    "period": "April 2026",
+    "totalFarmers": 125000,
+    "activeFarmers": 98000,
+    "totalProjects": 8,
+    "activeProjects": 8,
+    "nationalReservesTons": 1250000,
+    "strategicReserveTarget": 1500000,
+    "activeDepots": 156,
+    "purchaseOrdersActive": 420,
+    "foodSecurityStatus": "Stable",
+    "lastUpdated": "2026-04-18T09:00:00Z"
+  }
+]

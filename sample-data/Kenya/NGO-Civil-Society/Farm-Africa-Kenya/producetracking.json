@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-KEN-FARMAFRICA-001", "productId": "COFFEE-KEN-008", "farmerId": "KEN-KENAFF-F-001", "programId": "KEN-FARMAFRICA-PROG-001", "deliveryDate": "2026-04-08", "quantityKg": 4000, "status": "Distributed to Farmers", "location": "Project Farms, Kenya"},
+  {"trackingId": "PT2026-KEN-FARMAFRICA-002", "productId": "MAIZE-KEN-007", "farmerId": "KEN-KENAFF-F-001", "programId": "KEN-FARMAFRICA-PROG-001", "deliveryDate": "2026-04-09", "quantityKg": 8000, "status": "Delivered to Cooperative", "location": "Nairobi Cooperative"},
+  {"trackingId": "PT2026-KEN-FARMAFRICA-003", "productId": "TEA-KEN-002", "farmerId": "KEN-KENAFF-F-001", "programId": "KEN-FARMAFRICA-PROG-001", "harvestDate": "2026-04-01", "quantityKg": 3000, "status": "Processed", "location": "Tea Factory, Kenya"},
+  {"trackingId": "PT2026-KEN-FARMAFRICA-004", "productId": "HORTICULTURE-KEN-002", "farmerId": "KEN-KENAFF-F-001", "programId": "KEN-FARMAFRICA-PROG-001", "deliveryDate": "2026-04-15", "quantityKg": 6000, "status": "Exported", "location": "Mombasa Port"},
+  {"trackingId": "PT2026-KEN-FARMAFRICA-005", "productId": "FERTILIZER-KEN-001", "farmerId": "KEN-KENAFF-F-001", "programId": "KEN-FARMAFRICA-PROG-001", "deliveryDate": "2026-04-16", "quantityKg": 10000, "status": "Distributed to Farmers", "location": "Project Areas"}
+]

@@ -1,0 +1,7 @@
+[
+  {"actorId": "UAE-OSLS-MEAT-001", "name": "Oasis Livestock Processing", "type": "Meat Processor", "location": "Abu Dhabi, UAE", "contactPerson": "Fatima Al Qubaisi", "registrationDate": "2010-01-01"},
+  {"actorId": "UAE-OSLS-FARM-001", "name": "Oasis Livestock Farms", "type": "Farm", "location": "Al Ain, UAE", "contactPerson": "Khalid Al Amiri", "registrationDate": "2011-07-01"},
+  {"actorId": "UAE-OSLS-DIST-001", "name": "Oasis Livestock Distribution", "type": "Logistics", "location": "Dubai, UAE", "contactPerson": "Ahmed Al Hammadi", "registrationDate": "2012-01-01"},
+  {"actorId": "UAE-OSLS-RETAIL-001", "name": "Oasis Meat Shops", "type": "Retail Chain", "location": "Nationwide, UAE", "contactPerson": "Shop Manager", "registrationDate": "2013-01-01"},
+  {"actorId": "UAE-OSLS-GOVT-001", "name": "Federal Food Authority (UAE)", "type": "Government Agency", "location": "Abu Dhabi, UAE", "contactPerson": "Director of Food Safety", "registrationDate": "2008-01-01"}
+]

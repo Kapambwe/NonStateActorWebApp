@@ -1,0 +1,12 @@
+[
+  {
+    "actionId": "QA-FAO-001",
+    "actionName": "Access Climate Info",
+    "actionCategory": "Climate",
+    "actionUrl": "/climate/forecast",
+    "iconName": "cloud",
+    "description": "View climate forecasts and advisories",
+    "isActive": true,
+    "sortOrder": 1
+  }
+]

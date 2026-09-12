@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-MWI-NASFAM-EXP01", "exporterId": "MWI-NASFAM-FED-001", "importerCountry": "Zambia", "product": "Soybeans", "quantityKg": 20000, "exportDate": "2026-05-01", "valueUSD": 56000, "status": "Exported"},
+  {"tradeId": "IT2026-MWI-NASFAM-EXP02", "exporterId": "MWI-NASFAM-FED-001", "importerCountry": "South Africa", "product": "Maize", "quantityKg": 15000, "exportDate": "2026-05-05", "valueUSD": 4500, "status": "Exported"},
+  {"tradeId": "IT2026-MWI-NASFAM-IMP01", "importerId": "MWI-NASFAM-BUYER-001", "exporterCountry": "Kenya", "product": "Agricultural Equipment", "quantityUnits": 10, "importDate": "2026-04-28", "valueUSD": 20000, "status": "Imported"},
+  {"tradeId": "IT2026-MWI-NASFAM-EXP03", "exporterId": "MWI-NASFAM-FED-001", "importerCountry": "Mozambique", "product": "Groundnuts", "quantityKg": 5000, "exportDate": "2026-05-10", "valueUSD": 7500, "status": "Exported"},
+  {"tradeId": "IT2026-MWI-NASFAM-IMP02", "importerId": "MWI-NASFAM-BUYER-001", "exporterCountry": "China", "product": "Fertilizers", "quantityKg": 20000, "importDate": "2026-04-30", "valueUSD": 40000, "status": "Imported"}
+]

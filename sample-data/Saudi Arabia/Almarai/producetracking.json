@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-SA-ALMA-001", "productId": "MILK-SA-001", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "deliveryDate": "2026-04-10", "quantityLiters": 50000, "status": "Processed", "location": "Almarai Plant, Riyadh"},
+  {"trackingId": "PT2026-SA-ALMA-002", "productId": "YOGURT-SA-001", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "deliveryDate": "2026-04-11", "quantityKg": 20000, "status": "Packaged", "location": "Almarai Plant, Riyadh"},
+  {"trackingId": "PT2026-SA-ALMA-003", "productId": "CHEESE-SA-001", "processorId": "SA-ALMA-DAIRY-001", "deliveryDate": "2026-04-12", "quantityKg": 10000, "status": "Distributed", "location": "Almarai Distribution Center"},
+  {"trackingId": "PT2026-SA-ALMA-004", "productId": "MILK-SA-002", "farmerId": "SA-ALMA-FARM-001", "processorId": "SA-ALMA-DAIRY-001", "deliveryDate": "2026-04-13", "quantityLiters": 60000, "status": "Sold to Retail", "location": "Almarai Supermarkets"},
+  {"trackingId": "PT2026-SA-ALMA-005", "productId": "FRUIT-JUICE-SA-001", "processorId": "SA-ALMA-DAIRY-001", "deliveryDate": "2026-04-14", "quantityLiters": 30000, "status": "Shipped to Retailers", "location": "Various Retail Outlets"}
+]

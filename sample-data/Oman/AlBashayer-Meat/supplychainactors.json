@@ -1,0 +1,7 @@
+[
+  {"actorId": "OM-ALBA-MEAT-001", "name": "Al Bashayer Meat Company", "type": "Meat Processor", "location": "Muscat, Oman", "contactPerson": "Ahmed Al Balushi", "registrationDate": "2015-01-01"},
+  {"actorId": "OM-ALBA-FARM-001", "name": "Al Bashayer Livestock Farms", "type": "Farm", "location": "Salalah, Oman", "contactPerson": "Fatima Al Raisi", "registrationDate": "2016-07-01"},
+  {"actorId": "OM-ALBA-DIST-001", "name": "Al Bashayer Meat Distribution", "type": "Logistics", "location": "Sohar, Oman", "contactPerson": "Khalid Al Jabri", "registrationDate": "2017-01-01"},
+  {"actorId": "OM-ALBA-RETAIL-001", "name": "Al Bashayer Butcher Shops", "type": "Retail Chain", "location": "Nationwide, Oman", "contactPerson": "Branch Manager", "registrationDate": "2018-01-01"},
+  {"actorId": "OM-ALBA-GOVT-001", "name": "Ministry of Agriculture, Fisheries and Water Resources (Oman)", "type": "Government Agency", "location": "Muscat, Oman", "contactPerson": "Director of Livestock", "registrationDate": "1970-01-01"}
+]

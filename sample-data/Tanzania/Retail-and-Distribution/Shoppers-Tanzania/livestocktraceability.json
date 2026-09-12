@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-TZA-SHOPPERS-1001", "animalId": "GOAT-TZA-250", "ownerId": "TZA-FARMER-GROUP-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-02-10", "lastLocation": "Farm in Tanzania", "healthStatus": "Good - Supplied to Shoppers"},
+  {"traceId": "LIVESTOCK-TZA-SHOPPERS-1002", "animalId": "CATTLE-TZA-400", "ownerId": "TZA-FARMER-GROUP-001", "species": "Cattle", "breed": "Zebu", "birthDate": "2023-09-01", "lastLocation": "Farm in Tanzania", "healthStatus": "Good - Supplied to Shoppers"},
+  {"traceId": "LIVESTOCK-TZA-SHOPPERS-1003", "animalId": "CHICKEN-TZA-700", "ownerId": "TZA-FARMER-GROUP-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-15", "lastLocation": "Farm in Tanzania", "healthStatus": "Healthy - Supplied to Shoppers"},
+  {"traceId": "LIVESTOCK-TZA-SHOPPERS-1004", "animalId": "GOAT-TZA-251", "ownerId": "TZA-FARMER-GROUP-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-20", "lastLocation": "Farm in Tanzania", "healthStatus": "Good - Supplied to Shoppers"},
+  {"traceId": "LIVESTOCK-TZA-SHOPPERS-1005", "animalId": "CATTLE-TZA-401", "ownerId": "TZA-FARMER-GROUP-001", "species": "Cattle", "breed": "Brahman", "birthDate": "2023-10-01", "lastLocation": "Farm in Tanzania", "healthStatus": "Good - Supplied to Shoppers"}
+]

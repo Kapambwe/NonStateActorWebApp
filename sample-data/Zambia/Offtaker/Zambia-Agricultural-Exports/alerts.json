@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Quality Non-Compliance Detected",
+    "description": "Consignment from Central Valley Aggregator has failed Grade A moisture test (14.5% detected, 13.5% required).",
+    "severity": "High",
+    "createdDate": "2026-04-16T08:30:00Z",
+    "isResolved": false,
+    "category": "Quality"
+  },
+  {
+    "id": 2,
+    "title": "Logistics Delay - Port of Beira",
+    "description": "Shipment ZAE-2026-042 delayed due to port congestion. Expected 48-hour delay.",
+    "severity": "Medium",
+    "createdDate": "2026-04-16T14:15:00Z",
+    "isResolved": false,
+    "category": "Logistics"
+  }
+]

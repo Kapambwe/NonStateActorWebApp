@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZMB-ZAMGOAT-001", "productId": "GOAT-MEAT-ZMB-001", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "deliveryDate": "2026-04-13", "quantityKg": 500, "status": "Delivered to Cooperative", "location": "ZamGoat Cooperative, Livingstone"},
+  {"trackingId": "PT2026-ZMB-ZAMGOAT-002", "productId": "GOAT-MEAT-ZMB-001", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "deliveryDate": "2026-04-14", "quantityKg": 500, "status": "Processed", "location": "ZamGoat Processing Facility"},
+  {"trackingId": "PT2026-ZMB-ZAMGOAT-003", "productId": "GOAT-MEAT-ZMB-001", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "deliveryDate": "2026-04-15", "quantityKg": 500, "status": "Sold to Buyer", "location": "ZamGoat Meat Buyers, Lusaka"},
+  {"trackingId": "PT2026-ZMB-ZAMGOAT-004", "productId": "GOAT-MEAT-ZMB-002", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "deliveryDate": "2026-04-16", "quantityKg": 600, "status": "Shipped to Retail", "location": "Shoprite Zambia"},
+  {"trackingId": "PT2026-ZMB-ZAMGOAT-005", "productId": "GOAT-MEAT-ZMB-001", "farmerId": "ZMB-ZAMGOAT-FARM-001", "cooperativeId": "ZMB-ZAMGOAT-COOP-001", "deliveryDate": "2026-04-17", "quantityKg": 500, "status": "Exported", "location": "Livingstone Border Post"}
+]

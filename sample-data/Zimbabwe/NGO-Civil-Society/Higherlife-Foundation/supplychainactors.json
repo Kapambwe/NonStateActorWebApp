@@ -1,0 +1,7 @@
+[
+  {"actorId": "ZIM-HLF-NGO-001", "name": "Higherlife Foundation Zimbabwe", "type": "NGO", "location": "Harare, Zimbabwe", "contactPerson": "Rudo Nyasha", "registrationDate": "2000-01-01"},
+  {"actorId": "ZIM-HLF-PROG-001", "name": "Zimbabwe Education Initiative", "type": "Program", "location": "Various Provinces, Zimbabwe", "contactPerson": "Tapiwa Mzondi", "registrationDate": "2018-07-10"},
+  {"actorId": "ZIM-HLF-HEALTH-001", "name": "Zimbabwe Health Outreach", "type": "Project", "location": "Rural Zimbabwe", "contactPerson": "Dr. Sithole", "registrationDate": "2019-03-15"},
+  {"actorId": "ZIM-HLF-AGRI-001", "name": "Higherlife Agriculture Program", "type": "Program", "location": "Mashonaland Region", "contactPerson": "Blessing Moyo", "registrationDate": "2020-01-01"},
+  {"actorId": "ZIM-HLF-GOVT-001", "name": "Ministry of Public Service, Labour and Social Welfare", "type": "Government Agency", "location": "Harare, Zimbabwe", "contactPerson": "Permanent Secretary", "registrationDate": "1995-01-01"}
+]

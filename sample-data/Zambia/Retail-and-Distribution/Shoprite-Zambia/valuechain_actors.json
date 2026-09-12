@@ -1,0 +1,34 @@
+[
+  {
+    "id": 10001,
+    "tenantId": 10,
+    "tenantName": "Shoprite Zambia",
+    "name": "Shoprite Distribution Hub",
+    "type": "Aggregator",
+    "primaryCommodity": "Beef & Poultry",
+    "contactName": "Mulenga Mwamba",
+    "phone": "+260-977-123456",
+    "district": "Lusaka",
+    "province": "Lusaka",
+    "latitude": -15.416,
+    "longitude": 28.281,
+    "certified": true,
+    "certificationType": "HACCP"
+  },
+  {
+    "id": 10002,
+    "tenantId": 10,
+    "tenantName": "Shoprite Zambia",
+    "name": "Lusaka West Supplier Cluster",
+    "type": "Producer",
+    "primaryCommodity": "Vegetables",
+    "contactName": "Peter Phiri",
+    "phone": "+260-966-234567",
+    "district": "Chilanga",
+    "province": "Lusaka",
+    "latitude": -15.567,
+    "longitude": 28.267,
+    "certified": true,
+    "certificationType": "GAP"
+  }
+]

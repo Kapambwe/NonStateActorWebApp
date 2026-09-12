@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-OFF-001",
+    "institutionId": "Offtaker-ZAE",
+    "period": "April 2026",
+    "totalFarmers": 5400,
+    "activeFarmers": 4850,
+    "femaleParticipation": 35,
+    "totalProjects": 8,
+    "activeProjects": 6,
+    "trainingsCompleted": 15,
+    "totalInputsDistributed": 250000,
+    "totalProductionKg": 15000000,
+    "totalRevenue": 45000000,
+    "lastUpdated": "2026-04-15T10:00:00Z"
+  }
+]

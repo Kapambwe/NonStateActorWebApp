@@ -1,0 +1,7 @@
+[
+  {"actorId": "KEN-FARMAFRICA-NGO-001", "name": "Farm Africa Kenya", "type": "NGO", "location": "Nairobi, Kenya", "contactPerson": "James Mwangi", "registrationDate": "1997-03-01"},
+  {"actorId": "KEN-FARMAFRICA-PROG-001", "name": "Kenyan Agricultural Development Program", "type": "Program", "location": "Various Counties, Kenya", "contactPerson": "Winnie Odhiambo", "registrationDate": "2019-07-15"},
+  {"actorId": "KEN-FARMAFRICA-AGRI-001", "name": "Farm Africa Extension Services", "type": "Service Provider", "location": "Rural Kenya", "contactPerson": "David Kimani", "registrationDate": "2020-01-01"},
+  {"actorId": "KEN-FARMAFRICA-CONS-001", "name": "Farm Africa Consultancy", "type": "Consultancy", "location": "Nairobi, Kenya", "contactPerson": "Patience Mutua", "registrationDate": "2021-08-01"},
+  {"actorId": "KEN-FARMAFRICA-GOVT-001", "name": "Ministry of Agriculture, Livestock, Fisheries and Cooperatives", "type": "Government Agency", "location": "Nairobi, Kenya", "contactPerson": "Cabinet Secretary", "registrationDate": "1970-01-01"}
+]

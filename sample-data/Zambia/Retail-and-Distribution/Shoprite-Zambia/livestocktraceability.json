@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-ZMB-SHOPRITE-1001", "animalId": "GOAT-ZMB-185", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-10", "lastLocation": "Chibesa Farm, Lusaka", "healthStatus": "Good - Supplied to Shoprite"},
+  {"traceId": "LIVESTOCK-ZMB-SHOPRITE-1002", "animalId": "CATTLE-ZMB-310", "ownerId": "ZMB-ZAMBEEF-FARM-001", "species": "Cattle", "breed": "Brahman", "birthDate": "2023-07-01", "lastLocation": "Zambeef Farm, Zambia", "healthStatus": "Good - Supplied to Shoprite"},
+  {"traceId": "LIVESTOCK-ZMB-SHOPRITE-1003", "animalId": "CHICKEN-ZMB-580", "ownerId": "ZNFU-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-15", "lastLocation": "Project Farm, Zambia", "healthStatus": "Healthy - Supplied to Shoprite"},
+  {"traceId": "LIVESTOCK-ZMB-SHOPRITE-1004", "animalId": "GOAT-ZMB-186", "ownerId": "ZNFU-F-001", "species": "Goat", "breed": "East African Goat", "birthDate": "2024-03-20", "lastLocation": "Chibesa Farm, Lusaka", "healthStatus": "Good - Supplied to Shoprite Retail"},
+  {"traceId": "LIVESTOCK-ZMB-SHOPRITE-1005", "animalId": "CATTLE-ZMB-311", "ownerId": "ZMB-ZAMBEEF-FARM-001", "species": "Cattle", "breed": "Angus", "birthDate": "2023-08-01", "lastLocation": "Zambeef Farm, Zambia", "healthStatus": "Good - Supplied to Shoprite"}
+]

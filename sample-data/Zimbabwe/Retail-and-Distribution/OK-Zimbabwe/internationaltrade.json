@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-ZIM-OK-IMP01", "importerId": "ZIM-OK-RETAILER-001", "exporterCountry": "South Africa", "product": "Consumer Goods", "quantityUnits": 5000, "importDate": "2026-04-24", "valueUSD": 25000, "status": "Imported by OK Zimbabwe"},
+  {"tradeId": "IT2026-ZIM-OK-IMP02", "importerId": "ZIM-OK-RETAILER-001", "exporterCountry": "Botswana", "product": "Dairy Products", "quantityUnits": 3000, "importDate": "2026-04-25", "valueUSD": 15000, "status": "Imported by OK Zimbabwe"},
+  {"tradeId": "IT2026-ZMB-OK-IMP03", "importerId": "ZMB-SHOPRITE-RETAILER-001", "exporterCountry": "EU", "product": "Electronics", "quantityUnits": 100, "importDate": "2026-04-28", "valueUSD": 50000, "status": "Imported by OK Zimbabwe"},
+  {"tradeId": "IT2026-ZIM-OK-EXP01", "exporterId": "ZIM-OK-SUP-001", "importerCountry": "Malawi", "product": "Maize", "quantityKg": 10000, "exportDate": "2026-05-01", "valueUSD": 3000, "status": "Exported to Malawi"},
+  {"tradeId": "IT2026-ZIM-OK-EXP02", "exporterId": "ZIM-OK-SUP-001", "importerCountry": "DRC", "product": "Chicken", "quantityKg": 5000, "exportDate": "2026-05-05", "valueUSD": 7500, "status": "Exported to DRC"}
+]

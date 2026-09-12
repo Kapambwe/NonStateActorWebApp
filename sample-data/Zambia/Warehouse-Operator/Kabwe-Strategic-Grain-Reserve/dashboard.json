@@ -1,0 +1,16 @@
+[
+  {
+    "dashboardId": "DASH-WH-001",
+    "institutionId": "Warehouse-Kabwe",
+    "period": "April 2026",
+    "totalFarmers": 450,
+    "activeFarmers": 380,
+    "totalProjects": 2,
+    "activeProjects": 2,
+    "totalCapacityTons": 25000,
+    "currentOccupancyTons": 18500,
+    "receiptsIssued": 142,
+    "pendingDeliveries": 15,
+    "lastUpdated": "2026-04-18T08:00:00Z"
+  }
+]

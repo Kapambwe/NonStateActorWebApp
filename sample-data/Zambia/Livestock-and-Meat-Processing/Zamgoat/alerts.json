@@ -1,0 +1,20 @@
+[
+  {
+    "alertId": "ALERT-ZG-001",
+    "title": "Saudi Export Shipment Ready",
+    "message": "1,200 goats certified for export to Saudi Arabia - Departure Jan 28, 2025",
+    "severity": "Info",
+    "category": "Export",
+    "dateCreated": "2025-01-18T09:00:00Z",
+    "isRead": false
+  },
+  {
+    "alertId": "ALERT-ZG-002",
+    "title": "Halal Certification Renewal",
+    "message": "Annual halal certification inspection scheduled for Feb 5 at Lusaka facility",
+    "severity": "Warning",
+    "category": "Compliance",
+    "dateCreated": "2025-01-19T11:00:00Z",
+    "isRead": false
+  }
+]

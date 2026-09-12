@@ -1,0 +1,53 @@
+[
+  {
+    "farmerId": "F-ZG-014",
+    "name": "Moses Mumba",
+    "age": 44,
+    "gender": "Male",
+    "contactNumber": "+260-977-223344",
+    "district": "Katete",
+    "chiefdom": "Kawaza",
+    "village": "Mphangwe",
+    "farmSize": 18.0,
+    "primaryCrop": "Goat Farming",
+    "secondaryCrops": ["Maize for Feed"],
+    "registrationDate": "2023-09-10T00:00:00Z",
+    "groupMembership": "FG-ZG-002",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZG-027",
+    "name": "Ruth Banda",
+    "age": 38,
+    "gender": "Female",
+    "contactNumber": "+260-966-334455",
+    "district": "Lundazi",
+    "chiefdom": "Mwase",
+    "village": "Chifunda",
+    "farmSize": 12.0,
+    "primaryCrop": "Goat Rearing",
+    "secondaryCrops": ["Groundnuts"],
+    "registrationDate": "2024-01-15T00:00:00Z",
+    "groupMembership": "FG-ZG-005",
+    "nutritionTraining": false,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-ZG-041",
+    "name": "Patrick Phiri",
+    "age": 51,
+    "gender": "Male",
+    "contactNumber": "+260-955-445566",
+    "district": "Chipata",
+    "chiefdom": "Nzamane",
+    "village": "Kapatamoyo",
+    "farmSize": 25.0,
+    "primaryCrop": "Commercial Goat Production",
+    "secondaryCrops": ["Pasture"],
+    "registrationDate": "2023-11-20T00:00:00Z",
+    "groupMembership": "FG-ZG-002",
+    "nutritionTraining": false,
+    "isActive": true
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "priceId": "MP-GIZ-001",
+    "commodity": "Maize",
+    "market": "Lusaka City Market",
+    "pricePerUnit": 2800.00,
+    "unit": "per 50kg bag",
+    "currency": "ZMW",
+    "priceDate": "2025-01-18T00:00:00Z",
+    "trend": "Stable"
+  },
+  {
+    "priceId": "MP-GIZ-002",
+    "commodity": "Groundnuts",
+    "market": "Chipata Central Market",
+    "pricePerUnit": 4500.00,
+    "unit": "per 50kg bag",
+    "currency": "ZMW",
+    "priceDate": "2025-01-18T00:00:00Z",
+    "trend": "Increasing"
+  },
+  {
+    "priceId": "MP-GIZ-003",
+    "commodity": "Live Goat",
+    "market": "Katete Livestock Market",
+    "pricePerUnit": 850.00,
+    "unit": "per animal (avg 25kg)",
+    "currency": "ZMW",
+    "priceDate": "2025-01-17T00:00:00Z",
+    "trend": "Stable"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "trackingId": "PT2026-ZMB-ZAMBEEF-001",
+    "productId": "BEEF-ZMB-010",
+    "farmerId": "ZNFU-F-001",
+    "processorId": "ZMB-ZAMBEEF-PROD-001",
+    "deliveryDate": "2026-04-13",
+    "quantityKg": 6000,
+    "status": "Delivered to Processor",
+    "location": "Zambeef Processing Plant, Lusaka"
+  }
+]

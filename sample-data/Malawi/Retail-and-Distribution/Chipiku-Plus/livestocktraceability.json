@@ -1,0 +1,7 @@
+[
+  {"traceId": "LIVESTOCK-MWI-CHIPiku-1001", "animalId": "GOAT-MWI-210", "ownerId": "MWI-NASFAM-F-001", "species": "Goat", "breed": "Local Malawi Goat", "birthDate": "2024-02-15", "lastLocation": "Lilongwe Region Farm, Malawi", "healthStatus": "Good - Supplied to Chipiku Plus"},
+  {"traceId": "LIVESTOCK-MWI-CHIPiku-1002", "animalId": "CATTLE-MWI-305", "ownerId": "MWI-NASFAM-F-001", "species": "Cattle", "breed": "Zebu", "birthDate": "2023-09-01", "lastLocation": "Lilongwe Region Farm, Malawi", "healthStatus": "Good - Supplied to Chipiku Plus"},
+  {"traceId": "LIVESTOCK-MWI-CHIPiku-1003", "animalId": "CHICKEN-MWI-610", "ownerId": "MWI-NASFAM-F-001", "species": "Chicken", "breed": "Kuroiler", "birthDate": "2024-04-01", "lastLocation": "Lilongwe Region Farm, Malawi", "healthStatus": "Healthy - Supplied to Chipiku Plus"},
+  {"traceId": "LIVESTOCK-MWI-CHIPiku-1004", "animalId": "GOAT-MWI-211", "ownerId": "MWI-NASFAM-F-001", "species": "Goat", "breed": "Boer", "birthDate": "2024-03-01", "lastLocation": "Lilongwe Region Farm, Malawi", "healthStatus": "Good - Supplied to Chipiku Plus"},
+  {"traceId": "LIVESTOCK-MWI-CHIPiku-1005", "animalId": "CATTLE-MWI-302", "ownerId": "MWI-NASFAM-F-001", "species": "Cattle", "breed": "Local Malawi Cattle", "birthDate": "2023-10-01", "lastLocation": "Lilongwe Region Farm, Malawi", "healthStatus": "Good - Supplied to Chipiku Plus"}
+]

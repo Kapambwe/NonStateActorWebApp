@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-UAE-ALAIND-EXP01", "exporterId": "UAE-ALAIND-DAIRY-001", "importerCountry": "Oman", "product": "Milk", "quantityLiters": 50000, "exportDate": "2026-05-10", "valueUSD": 25000, "status": "Exported by Al Ain Dairy"},
+  {"tradeId": "IT2026-UAE-ALAIND-EXP02", "exporterId": "UAE-ALAIND-DAIRY-001", "importerCountry": "Saudi Arabia", "product": "Yogurt", "quantityKg": 20000, "exportDate": "2026-05-15", "valueUSD": 24000, "status": "Exported by Al Ain Dairy"},
+  {"tradeId": "IT2026-UAE-ALAIND-IMP01", "importerId": "UAE-ALAIND-RETAIL-001", "exporterCountry": "India", "product": "Packaging Materials", "quantityUnits": 1000, "importDate": "2026-04-25", "valueUSD": 10000, "status": "Imported by Al Ain Dairy"},
+  {"tradeId": "IT2026-UAE-ALAIND-EXP03", "exporterId": "UAE-ALAIND-DAIRY-001", "importerCountry": "Qatar", "product": "Cheese", "quantityKg": 15000, "exportDate": "2026-05-20", "valueUSD": 75000, "status": "Exported by Al Ain Dairy"},
+  {"tradeId": "IT2026-UAE-ALAIND-IMP02", "importerId": "UAE-ALAIND-DIST-001", "exporterCountry": "Germany", "product": "Machinery", "quantityUnits": 5, "importDate": "2026-04-30", "valueUSD": 100000, "status": "Imported for Distribution"}
+]

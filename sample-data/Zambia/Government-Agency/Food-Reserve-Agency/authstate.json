@@ -1,0 +1,13 @@
+[
+  {
+    "sessionId": "FRA-SESSION-001",
+    "userId": "U-FRA-001",
+    "userName": "Kelvin Muzungu",
+    "userRole": "GovernmentAgency",
+    "institutionId": "Gov-FRA",
+    "isAuthenticated": true,
+    "loginTime": "2026-04-18T08:00:00Z",
+    "lastActivity": "2026-04-18T10:00:00Z",
+    "expiresAt": "2026-04-18T20:00:00Z"
+  }
+]

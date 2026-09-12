@@ -1,0 +1,13 @@
+[
+  {
+    "tradeId": "IT2026-CN-GREENCH-IMP01",
+    "importerId": "CN-GREENCH-SHGH-001",
+    "importerCountry": "China",
+    "exporterCountry": "Ghana",
+    "product": "Maize",
+    "quantityKg": 30000,
+    "importDate": "2026-05-10",
+    "valueUSD": 300000,
+    "status": "Imported by Greenchain"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "groupId": "FG-GIZ-003",
+    "groupName": "Chisamba Climate Smart Farmers",
+    "district": "Chisamba",
+    "chairperson": "Patrick Mwanza",
+    "memberCount": 45,
+    "registrationDate": "2023-08-15T00:00:00Z",
+    "primaryActivity": "Conservation Agriculture",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-GIZ-007",
+    "groupName": "Mkushi Women's Agro Cooperative",
+    "district": "Mkushi",
+    "chairperson": "Alice Nkhoma",
+    "memberCount": 38,
+    "registrationDate": "2023-10-20T00:00:00Z",
+    "primaryActivity": "Organic Farming",
+    "isActive": true
+  },
+  {
+    "groupId": "FG-GIZ-012",
+    "groupName": "Katete Livestock Keepers Association",
+    "district": "Katete",
+    "chairperson": "Emmanuel Zulu",
+    "memberCount": 52,
+    "registrationDate": "2024-01-10T00:00:00Z",
+    "primaryActivity": "Goat and Poultry Rearing",
+    "isActive": true
+  }
+]

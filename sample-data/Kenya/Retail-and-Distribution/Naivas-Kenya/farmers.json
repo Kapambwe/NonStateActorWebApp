@@ -1,0 +1,36 @@
+﻿[
+  {
+    "farmerId": "F-KE-R01",
+    "name": "Kamau Njoroge",
+    "age": 39,
+    "gender": "Male",
+    "contactNumber": "+254-711-999888",
+    "district": "Kiambu",
+    "chiefdom": "Limuru",
+    "village": "Tigoni Gardens",
+    "farmSize": 4.5,
+    "primaryCrop": "Cabbage",
+    "secondaryCrops": ["Spinach", "Kales"],
+    "registrationDate": "2023-06-10T00:00:00Z",
+    "groupMembership": "FG-KE-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  },
+  {
+    "farmerId": "F-KE-R02",
+    "name": "Muthoni Kariuki",
+    "age": 34,
+    "gender": "Female",
+    "contactNumber": "+254-722-111222",
+    "district": "Murang'a",
+    "chiefdom": "Kandara",
+    "village": "Blueberry Farm",
+    "farmSize": 3.0,
+    "primaryCrop": "Tomatoes",
+    "secondaryCrops": ["Onions"],
+    "registrationDate": "2023-07-15T00:00:00Z",
+    "groupMembership": "FG-KE-R01",
+    "nutritionTraining": true,
+    "isActive": true
+  }
+]

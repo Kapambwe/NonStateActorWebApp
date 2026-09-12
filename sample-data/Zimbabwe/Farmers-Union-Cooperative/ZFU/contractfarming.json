@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-ZIM-ZFU-01", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Tobacco Leaves", "agreedQuantityKg": 8000, "pricePerKg": 4.5, "startDate": "2026-03-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZIM-ZFU-02", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Maize", "agreedQuantityKg": 15000, "pricePerKg": 0.40, "startDate": "2026-04-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-ZIM-ZFU-03", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Cotton", "agreedQuantityKg": 5000, "pricePerKg": 1.2, "startDate": "2026-05-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-ZIM-ZFU-04", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Sorghum", "agreedQuantityKg": 7000, "pricePerKg": 0.35, "startDate": "2026-06-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-ZIM-ZFU-05", "farmerId": "ZIM-ZFU-F-001", "cooperativeId": "ZIM-ZFU-C-001", "buyerId": "ZIM-ZFU-BUYER-001", "product": "Soybeans", "agreedQuantityKg": 6000, "pricePerKg": 0.50, "startDate": "2026-07-01", "endDate": "2026-11-30", "status": "Active"}
+]

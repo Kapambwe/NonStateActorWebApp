@@ -1,0 +1,7 @@
+[
+  {"contractId": "CF2026-UAE-CAMEL-01", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "product": "Camel Milk", "agreedQuantityLiters": 10000, "pricePerLiter": 2.0, "startDate": "2026-04-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-CAMEL-02", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "product": "Camel Yogurt", "agreedQuantityKg": 5000, "pricePerKg": 4.0, "startDate": "2026-05-01", "endDate": "2026-11-30", "status": "Active"},
+  {"contractId": "CF2026-UAE-CAMEL-03", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "product": "Camel Cheese", "agreedQuantityKg": 3000, "pricePerKg": 15.0, "startDate": "2026-06-01", "endDate": "2026-10-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-CAMEL-04", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "product": "Camel Powdered Milk", "agreedQuantityKg": 2000, "pricePerKg": 20.0, "startDate": "2026-07-01", "endDate": "2026-12-31", "status": "Active"},
+  {"contractId": "CF2026-UAE-CAMEL-05", "farmerId": "UAE-CAMEL-FARM-001", "processorId": "UAE-CAMEL-DAIRY-001", "product": "Camel Ice Cream", "agreedQuantityUnits": 8000, "pricePerUnit": 5.0, "startDate": "2026-08-01", "endDate": "2026-12-31", "status": "Active"}
+]

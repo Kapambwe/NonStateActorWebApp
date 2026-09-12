@@ -1,0 +1,17 @@
+[
+  {
+    "componentId": "CB-AUTH-001",
+    "institutionId": "Aggregator-CSA",
+    "componentName": "Copperbelt Aggregator Portal",
+    "componentType": "WebPortal",
+    "isActive": true,
+    "permissions": [
+      "NonStateActor.Access",
+      "NonStateActor.Dashboard.View",
+      "NonStateActor.Ecosystem.AggregatorOperations.View",
+      "NonStateActor.WarehouseReceipts.View",
+      "NonStateActor.Farmers.Registry.View"
+    ],
+    "description": "Portal for Copperbelt maize and soya aggregation"
+  }
+]

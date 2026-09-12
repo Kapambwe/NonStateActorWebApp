@@ -1,0 +1,24 @@
+[
+  {
+    "id": 501,
+    "contractNumber": "CON-RT-PP-2026-001",
+    "companyId": 60,
+    "companyName": "Pick and Pay Zambia",
+    "farmerId": 60001,
+    "farmerName": "Lusaka Fresh Greens",
+    "cropType": "Lettuce & Spinach",
+    "landAreaHectares": 5.0,
+    "expectedYield": 20.0,
+    "guaranteedPrice": 15.0,
+    "contractStartDate": "2026-03-01T00:00:00Z",
+    "contractEndDate": "2026-08-30T00:00:00Z",
+    "status": "Active",
+    "paymentTerms": "Weekly Settlement",
+    "totalContractValue": 300000.0,
+    "amountPaid": 50000.0,
+    "amountDue": 250000.0,
+    "actualYield": 4.5,
+    "yieldVariance": 0.0,
+    "qualityMet": true
+  }
+]

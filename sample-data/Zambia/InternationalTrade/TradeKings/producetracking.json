@@ -1,0 +1,7 @@
+[
+  {"trackingId": "PT2026-ZMB-TRADEKINGS-001", "productId": "SOAP-ZMB-001", "manufacturerId": "ZMB-TRADEKINGS-MFG-001", "deliveryDate": "2026-04-10", "quantityUnits": 10000, "status": "Delivered to Distribution", "location": "Trade Kings Distribution Center, Lusaka"},
+  {"trackingId": "PT2026-ZMB-TRADEKINGS-002", "productId": "BISCUITS-ZMB-003", "manufacturerId": "ZMB-TRADEKINGS-MFG-001", "deliveryDate": "2026-04-11", "quantityUnits": 15000, "status": "Distributed to Retail", "location": "Shoprite Zambia"},
+  {"trackingId": "PT2026-ZMB-TRADEKINGS-003", "productId": "DRINKS-ZMB-005", "manufacturerId": "ZMB-TRADEKINGS-MFG-001", "deliveryDate": "2026-04-12", "quantityUnits": 20000, "status": "Shipped to Retailers", "location": "Various Retailers"},
+  {"trackingId": "PT2026-ZMB-TRADEKINGS-004", "productId": "EDIBLE-OIL-ZMB-002", "manufacturerId": "ZMB-TRADEKINGS-MFG-001", "deliveryDate": "2026-04-13", "quantityUnits": 8000, "status": "Exported", "location": "Malawi Border Post"},
+  {"trackingId": "PT2026-ZMB-TRADEKINGS-005", "productId": "SOAP-ZMB-002", "manufacturerId": "ZMB-TRADEKINGS-MFG-001", "deliveryDate": "2026-04-14", "quantityUnits": 12000, "status": "Sold to Wholesaler", "location": "Trade Kings Distribution"}
+]

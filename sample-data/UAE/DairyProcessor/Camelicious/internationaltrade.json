@@ -1,0 +1,7 @@
+[
+  {"tradeId": "IT2026-UAE-CAMEL-EXP01", "exporterId": "UAE-CAMEL-DAIRY-001", "importerCountry": "Oman", "product": "Camel Milk", "quantityLiters": 10000, "exportDate": "2026-05-10", "valueUSD": 50000, "status": "Exported by Camelicious"},
+  {"tradeId": "IT2026-UAE-CAMEL-EXP02", "exporterId": "UAE-CAMEL-DAIRY-001", "importerCountry": "Saudi Arabia", "product": "Camel Yogurt", "quantityKg": 5000, "exportDate": "2026-05-15", "valueUSD": 6000, "status": "Exported by Camelicious"},
+  {"tradeId": "IT2026-UAE-CAMEL-IMP01", "importerId": "UAE-CAMEL-RETAIL-001", "exporterCountry": "India", "product": "Packaging", "quantityUnits": 1000, "importDate": "2026-04-25", "valueUSD": 10000, "status": "Imported by Camelicious"},
+  {"tradeId": "IT2026-UAE-CAMEL-EXP03", "exporterId": "UAE-CAMEL-DAIRY-001", "importerCountry": "Qatar", "product": "Camel Cheese", "quantityKg": 3000, "exportDate": "2026-05-20", "valueUSD": 45000, "status": "Exported by Camelicious"},
+  {"tradeId": "IT2026-UAE-CAMEL-IMP02", "importerId": "UAE-CAMEL-DIST-001", "exporterCountry": "Germany", "product": "Machinery", "quantityUnits": 5, "importDate": "2026-04-30", "valueUSD": 100000, "status": "Imported for Distribution"}
+]

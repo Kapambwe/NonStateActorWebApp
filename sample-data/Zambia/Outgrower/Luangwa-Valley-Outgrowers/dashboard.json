@@ -1,0 +1,17 @@
+[
+  {
+    "dashboardId": "DASH-OUT-001",
+    "institutionId": "Outgrower-LVO",
+    "period": "April 2026",
+    "totalFarmers": 2100,
+    "activeFarmers": 1950,
+    "femaleParticipation": 55,
+    "totalProjects": 3,
+    "activeProjects": 3,
+    "trainingsCompleted": 42,
+    "totalInputsDistributed": 120000,
+    "totalProductionKg": 4500000,
+    "totalRevenue": 15500000,
+    "lastUpdated": "2026-04-15T09:00:00Z"
+  }
+]
