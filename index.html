@@ -14,8 +14,7 @@
             if (path.indexOf('/' + repoName) === 0) {
                 baseHref = '/' + repoName + '/';
             }
-            document.write('<base href="/NonStateActorWebApp/" />
-    <link href="_framework/dotnet.to51qizpqy.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-DSVwmQdVSRB2aPQrrMGpd2lGbvxfdBzt+2HoadG5Hx0=" />');
+            document.write('<base href="/NonStateActorAgricWebApp/" />');
             window.appBaseHref = baseHref; // Export for later use
         })();
         // End Step 1
@@ -32,20 +31,20 @@
     <script type="importmap">{
   "imports": {
     "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.lsvwkyc6j0.js",
     "./_framework/dotnet.native.js": "./_framework/dotnet.native.020r7jjcr5.js",
-    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js",
-    "./_framework/dotnet.js": "./_framework/dotnet.to51qizpqy.js"
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
   },
   "scopes": {},
   "integrity": {
     "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
     "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
-    "./_framework/dotnet.js": "sha256-DSVwmQdVSRB2aPQrrMGpd2lGbvxfdBzt+2HoadG5Hx0=",
+    "./_framework/dotnet.js": "sha256-9QTvwqJOObFi8VdCbowTXPD31nNpQKyUs0WLeOUS6FA=",
+    "./_framework/dotnet.lsvwkyc6j0.js": "sha256-9QTvwqJOObFi8VdCbowTXPD31nNpQKyUs0WLeOUS6FA=",
     "./_framework/dotnet.native.020r7jjcr5.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
     "./_framework/dotnet.native.js": "sha256-CPyIwqI4Wkl/JrAL4KMmwosT7pskNJovtURZ03tQS1U=",
     "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
-    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
-    "./_framework/dotnet.to51qizpqy.js": "sha256-DSVwmQdVSRB2aPQrrMGpd2lGbvxfdBzt+2HoadG5Hx0="
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
   }
 }</script>
 </head>
@@ -66,6 +65,7 @@
     </div>
     <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="js/radzen-compat.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossorigin=""></script>
